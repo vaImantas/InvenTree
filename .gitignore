@@ -98,9 +98,6 @@ node_modules/
 # maintenance locker
 maintenance_mode_state.txt
 
-# plugin dev directory
-InvenTree/plugins/
-
 # Compiled translation files
 *.mo
 
