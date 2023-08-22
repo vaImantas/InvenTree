@@ -1,21 +1,19 @@
-# Documentation
+# Documentation to start project
 
-git clone https://github.com/vaImantas/VA-InvenTree.git
-<br>
-cd VA-InvenTree
-<br>
-docker compose run inventree-dev-server invoke install
-<br>
-docker compose run inventree-dev-server invoke setup-test --dev
-<br>
-docker compose up -d
-<br>
-your server now running at http://localhost:8000
-<br>
-<br>
+1. `git clone https://github.com/vaImantas/VA-InvenTree.git`
 
-docker compose run inventree-dev-server invoke update --no-frontend
-<br>
-pakeisti superuser prisijungimus (pakeitimas tik pas save kompe, lokaliai)
-<br>
-docker compose run inventree-dev-server invoke superuser
+2. `cd VA-InvenTree`
+
+3. `docker compose run inventree-dev-server invoke install`
+
+4. `docker compose run inventree-dev-server invoke setup-test --dev`
+
+5. run server:`docker compose up -d`
+- your server now running at http://localhost:8000
+
+
+6. `docker compose run inventree-dev-server invoke update --no-frontend`
+
+7. pakeisti superuser prisijungimus (pakeitimas tik pas save kompe, lokaliai)
+
+- `docker compose run inventree-dev-server invoke superuser`
