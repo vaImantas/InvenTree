@@ -436,7 +436,7 @@ msgstr ""
 #: templates/InvenTree/settings/settings_staff_js.html:44
 #: templates/currency_data.html:5
 msgid "Currency"
-msgstr ""
+msgstr "Valiuta"
 
 #: InvenTree/serializers.py:93
 msgid "Select currency from available options"
@@ -2068,11 +2068,11 @@ msgstr ""
 
 #: common/models.py:1011 company/models.py:101 company/models.py:102
 msgid "Company name"
-msgstr ""
+msgstr "Įmonės pavadinimas"
 
 #: common/models.py:1012
 msgid "Internal company name"
-msgstr ""
+msgstr "Vidinis įmonės pavadinimas"
 
 #: common/models.py:1017
 msgid "Base URL"
@@ -3503,33 +3503,33 @@ msgstr ""
 
 #: company/models.py:106
 msgid "Company description"
-msgstr ""
+msgstr "Įmonės aprašymas"
 
 #: company/models.py:107
 msgid "Description of the company"
-msgstr ""
+msgstr "Aprašymas apie įmonę"
 
 #: company/models.py:113 company/templates/company/company_base.html:101
 #: templates/InvenTree/settings/plugin_settings.html:54
 #: templates/js/translated/company.js:521
 msgid "Website"
-msgstr ""
+msgstr "Puslapis"
 
 #: company/models.py:114
 msgid "Company website URL"
-msgstr ""
+msgstr "Įmonės puslapis"
 
 #: company/models.py:118
 msgid "Phone number"
-msgstr ""
+msgstr "Tel. nr."
 
 #: company/models.py:119
 msgid "Contact phone number"
-msgstr ""
+msgstr "Kontaktinis tel. nr."
 
 #: company/models.py:122
 msgid "Contact email address"
-msgstr ""
+msgstr "Kontaktinis el. paštas"
 
 #: company/models.py:125 company/templates/company/company_base.html:140
 #: order/models.py:270 order/templates/order/order_base.html:203
@@ -3579,15 +3579,15 @@ msgstr ""
 #: company/templates/company/company_base.html:12
 #: templates/InvenTree/search.html:178 templates/js/translated/company.js:494
 msgid "Company"
-msgstr ""
+msgstr "Įmonė"
 
 #: company/models.py:324
 msgid "Company already has a primary address"
-msgstr ""
+msgstr "Įmonė jau turi pirminį adresą"
 
 #: company/models.py:329
 msgid "Select company"
-msgstr ""
+msgstr "Pasirinkite kompaniją"
 
 #: company/models.py:332
 msgid "Address title"
@@ -3878,7 +3878,7 @@ msgstr ""
 
 #: company/serializers.py:156
 msgid "Default currency used for this supplier"
-msgstr ""
+msgstr "Standartinė valiuta naudojama atsiskaitant su tiekėju"
 
 #: company/templates/company/company_base.html:22
 #: templates/js/translated/purchase_order.js:239
@@ -3950,7 +3950,7 @@ msgstr ""
 
 #: company/templates/company/company_base.html:112
 msgid "Uses default currency"
-msgstr ""
+msgstr "Naudoja standartinę valiutą"
 
 #: company/templates/company/company_base.html:119 order/models.py:279
 #: order/templates/order/order_base.html:210
@@ -4057,17 +4057,17 @@ msgstr ""
 #: templates/js/translated/search.js:219 templates/navbar.html:62
 #: users/models.py:44
 msgid "Sales Orders"
-msgstr ""
+msgstr "Pardavimų užsakymai"
 
 #: company/templates/company/detail.html:105
 #: order/templates/order/sales_orders.html:20
 msgid "Create new sales order"
-msgstr ""
+msgstr "Sukurti naują pardavimą"
 
 #: company/templates/company/detail.html:106
 #: order/templates/order/sales_orders.html:21
 msgid "New Sales Order"
-msgstr ""
+msgstr "Naujas pardavimas"
 
 #: company/templates/company/detail.html:126
 msgid "Assigned Stock"
@@ -4082,17 +4082,17 @@ msgstr ""
 #: templates/js/translated/search.js:232 templates/navbar.html:65
 #: users/models.py:45
 msgid "Return Orders"
-msgstr ""
+msgstr "Gražinti užsakymai"
 
 #: company/templates/company/detail.html:146
 #: order/templates/order/return_orders.html:20
 msgid "Create new return order"
-msgstr ""
+msgstr "Sukurti naują užsakymo grąžinimą"
 
 #: company/templates/company/detail.html:147
 #: order/templates/order/return_orders.html:21
 msgid "New Return Order"
-msgstr ""
+msgstr "Naujas užsakymo grąžinimas"
 
 #: company/templates/company/detail.html:168
 msgid "Company Notes"
@@ -4319,19 +4319,19 @@ msgstr ""
 #: company/views.py:44 templates/InvenTree/search.html:210
 #: templates/navbar.html:60
 msgid "Customers"
-msgstr ""
+msgstr "Pirkėjai"
 
 #: company/views.py:45
 msgid "New Customer"
-msgstr ""
+msgstr "Naujas pirkėjas"
 
 #: company/views.py:52 templates/js/translated/search.js:192
 msgid "Companies"
-msgstr ""
+msgstr "Įmonės"
 
 #: company/views.py:53
 msgid "New Company"
-msgstr ""
+msgstr "Nauja įmonė"
 
 #: label/models.py:112
 msgid "Label name"
@@ -4836,7 +4836,7 @@ msgstr ""
 
 #: order/serializers.py:410
 msgid "Purchase price currency"
-msgstr ""
+msgstr "Pirkimo kainos valiuta"
 
 #: order/serializers.py:428
 msgid "Supplier part must be specified"
@@ -4904,7 +4904,7 @@ msgstr ""
 
 #: order/serializers.py:956
 msgid "Sale price currency"
-msgstr ""
+msgstr "Pardavimo kainos valiuta"
 
 #: order/serializers.py:1013
 msgid "No shipment details provided"
@@ -10418,7 +10418,7 @@ msgstr ""
 
 #: templates/js/translated/company.js:719
 msgid "Phone Number"
-msgstr ""
+msgstr "Tel. nr."
 
 #: templates/js/translated/company.js:725
 msgid "Email Address"
