@@ -25,23 +25,23 @@ msgstr "Nepateikta jokia reikšmė"
 
 #: InvenTree/conversion.py:95
 msgid "Provided value is not a valid number"
-msgstr "Pateikta reikšmė nėra galiojantis skaičius"
+msgstr "Pateikta reikšmė nėra skaičius"
 
 #: InvenTree/conversion.py:97
 msgid "Provided value has an invalid unit"
-msgstr ""
+msgstr "Pateikta reikšmė yra netinkamas matavimo vienetas"
 
 #: InvenTree/conversion.py:99
 msgid "Provided value could not be converted to the specified unit"
-msgstr ""
+msgstr "Pateikta vertė negali būti konvertuota į nurodytą vienetą"
 
 #: InvenTree/exceptions.py:90
 msgid "Error details can be found in the admin panel"
-msgstr ""
+msgstr "Klaidos informaciją galima rasti administracinėje panelėje"
 
 #: InvenTree/fields.py:131
 msgid "Enter date"
-msgstr ""
+msgstr "Įveskite datą"
 
 #: InvenTree/fields.py:206 InvenTree/models.py:766 build/serializers.py:435
 #: build/serializers.py:514 build/templates/build/sidebar.html:21
@@ -64,124 +64,120 @@ msgstr ""
 #: templates/js/translated/sales_order.js:1968
 #: templates/js/translated/stock.js:1478 templates/js/translated/stock.js:2360
 msgid "Notes"
-msgstr ""
+msgstr "Pastabos"
 
 #: InvenTree/format.py:152
 #, python-brace-format
 msgid "Value '{name}' does not appear in pattern format"
-msgstr ""
+msgstr "Reikšmė '{vardas}' nerandama modelio formatu"
 
 #: InvenTree/format.py:162
 msgid "Provided value does not match required pattern: "
-msgstr ""
+msgstr "Pateikta vertė neatitinka reikalaujamo modelio: "
 
 #: InvenTree/forms.py:147
 msgid "Enter password"
-msgstr ""
+msgstr "Įveskite slaptažodį"
 
 #: InvenTree/forms.py:148
 msgid "Enter new password"
-msgstr ""
+msgstr "Įveskite naują slaptažodį"
 
 #: InvenTree/forms.py:157
 msgid "Confirm password"
-msgstr ""
+msgstr "Patvirtinkite slaptažodį"
 
 #: InvenTree/forms.py:158
 msgid "Confirm new password"
-msgstr ""
+msgstr "Patvirtinkite naują slaptažodį"
 
 #: InvenTree/forms.py:162
 msgid "Old password"
-msgstr ""
+msgstr "Senas slaptažodis"
 
 #: InvenTree/forms.py:181
 msgid "Email (again)"
-msgstr ""
+msgstr "El. paštas (dar kartą)"
 
 #: InvenTree/forms.py:185
 msgid "Email address confirmation"
-msgstr ""
+msgstr "El. pašto adreso patvirtinimas"
 
 #: InvenTree/forms.py:206
 msgid "You must type the same email each time."
-msgstr ""
+msgstr "Kiekvieną kartą turite įvesti tą patį el. paštą."
 
 #: InvenTree/forms.py:237 InvenTree/forms.py:243
 msgid "The provided primary email address is not valid."
-msgstr ""
+msgstr "Pateiktas el. pašto adresas netinkamas."
 
 #: InvenTree/forms.py:249
 msgid "The provided email domain is not approved."
-msgstr ""
+msgstr "Pateiktas el. pašto domenas nepatvirtintas."
 
 #: InvenTree/forms.py:345
 msgid "Registration is disabled."
-msgstr ""
+msgstr "Registracija išjungta."
 
 #: InvenTree/helpers.py:462 order/models.py:455 order/models.py:624
 msgid "Invalid quantity provided"
-msgstr ""
+msgstr "Netinkama kiekis"
 
 #: InvenTree/helpers.py:470
 msgid "Empty serial number string"
-msgstr ""
+msgstr "Tuščias serijos numerių rinkinys"
 
 #: InvenTree/helpers.py:500
 msgid "Duplicate serial"
-msgstr ""
+msgstr "Pasikartojantis serijos numeris"
 
 #: InvenTree/helpers.py:533 InvenTree/helpers.py:568
 #, python-brace-format
 msgid "Invalid group range: {g}"
-msgstr ""
+msgstr "Netinkamas grupės diapazonas: {g}"
 
 #: InvenTree/helpers.py:562
 #, python-brace-format
 msgid "Group range {g} exceeds allowed quantity ({q})"
-msgstr ""
+msgstr "Grupės diapazonas {g} viršija leistiną kiekį ({q})"
 
 #: InvenTree/helpers.py:586 InvenTree/helpers.py:593 InvenTree/helpers.py:608
 #, python-brace-format
 msgid "Invalid group sequence: {g}"
-msgstr ""
+msgstr "Netinkama grupės seka: {g}"
 
 #: InvenTree/helpers.py:618
 msgid "No serial numbers found"
-msgstr ""
+msgstr "Serijos numeriai nerasti"
 
 #: InvenTree/helpers.py:621
 #, python-brace-format
 msgid "Number of unique serial numbers ({s}) must match quantity ({q})"
-msgstr ""
+msgstr "Unikalių serijos numerių skaičius ({s}) turi atitikti kiekį ({q})"
 
 #: InvenTree/helpers.py:751
 msgid "Remove HTML tags from this value"
-msgstr ""
+msgstr "Pašalinkite HTML žymas iš šios reikšmės"
 
 #: InvenTree/helpers_model.py:133
 msgid "Connection error"
-msgstr ""
+msgstr "Ryšio klaida"
 
 #: InvenTree/helpers_model.py:137 InvenTree/helpers_model.py:142
 msgid "Server responded with invalid status code"
-msgstr ""
+msgstr "Serveris atsakė netinkamu būsenos kodu"
 
 #: InvenTree/helpers_model.py:139
 msgid "Exception occurred"
-msgstr ""
+msgstr "Įvyko išimtis"
 
 #: InvenTree/helpers_model.py:147
 msgid "Server responded with invalid Content-Length value"
-msgstr ""
+msgstr "Serveris atsakė netinkama turinio ilgio reikšme"
 
 #: InvenTree/helpers_model.py:150
 msgid "Image size is too large"
-msgstr ""
-
-#: InvenTree/helpers_model.py:162
-msgid "Image download exceeded maximum size"
-msgstr ""
+msgstr "Paveikslėlio dydis per didelis"
 
 #: InvenTree/helpers_model.py:167
 msgid "Remote server returned empty response"
@@ -4038,7 +4034,7 @@ msgstr ""
 #: templates/js/translated/search.js:205 templates/navbar.html:50
 #: users/models.py:43
 msgid "Purchase Orders"
-msgstr ""
+msgstr "Užsakymai"
 
 #: company/templates/company/detail.html:79
 #: order/templates/order/purchase_orders.html:17
@@ -4127,13 +4123,13 @@ msgstr ""
 #: company/templates/company/manufacturer_part.html:15 company/views.py:38
 #: templates/InvenTree/search.html:180 templates/navbar.html:49
 msgid "Manufacturers"
-msgstr ""
+msgstr "Gamintojai"
 
 #: company/templates/company/manufacturer_part.html:35
 #: company/templates/company/supplier_part.html:228
 #: part/templates/part/detail.html:109 part/templates/part/part_base.html:85
 msgid "Order part"
-msgstr ""
+msgstr "Užsakyti detalę"
 
 #: company/templates/company/manufacturer_part.html:39
 #: templates/js/translated/company.js:1374
@@ -4159,7 +4155,7 @@ msgstr ""
 #: part/admin.py:60 part/templates/part/part_sidebar.html:33
 #: templates/InvenTree/search.html:190 templates/navbar.html:48
 msgid "Suppliers"
-msgstr ""
+msgstr "Tiekėjai"
 
 #: company/templates/company/manufacturer_part.html:156
 #: company/templates/company/manufacturer_part_sidebar.html:5
