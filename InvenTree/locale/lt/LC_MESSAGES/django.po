@@ -4681,7 +4681,7 @@ msgstr ""
 
 #: order/models.py:1427 templates/js/translated/sales_order.js:1033
 msgid "Delivery Date"
-msgstr ""
+msgstr "Pristatymo data"
 
 #: order/models.py:1428
 msgid "Date of delivery of shipment"
@@ -5272,7 +5272,7 @@ msgstr "Kliento trumpinys"
 #: templates/js/translated/return_order.js:378
 #: templates/js/translated/sales_order.js:852
 msgid "Total Cost"
-msgstr ""
+msgstr "Visa suma (kaina)"
 
 #: order/templates/order/return_order_base.html:264
 msgid "Return Order QR Code"
@@ -11729,11 +11729,11 @@ msgstr ""
 
 #: templates/js/translated/sales_order.js:1045
 msgid "Tracking"
-msgstr ""
+msgstr "Stebėjimas"
 
 #: templates/js/translated/sales_order.js:1049
 msgid "Invoice"
-msgstr ""
+msgstr "Sąskaita faktūra"
 
 #: templates/js/translated/sales_order.js:1216
 msgid "Add Shipment"
