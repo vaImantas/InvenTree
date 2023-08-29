@@ -69,7 +69,7 @@ msgstr "Pastabos"
 #: InvenTree/format.py:152
 #, python-brace-format
 msgid "Value '{name}' does not appear in pattern format"
-msgstr "Reikšmė '{vardas}' nerandama modelio formatu"
+msgstr "Reikšmė '{name}' nerandama modelio formatu"
 
 #: InvenTree/format.py:162
 msgid "Provided value does not match required pattern: "
@@ -268,7 +268,7 @@ msgstr ""
 #: templates/js/translated/sales_order.js:1053
 #: templates/js/translated/sales_order.js:1973
 msgid "Link"
-msgstr ""
+msgstr "Nuoroda"
 
 #: InvenTree/models.py:494 build/models.py:295 part/models.py:906
 #: stock/models.py:735
@@ -346,7 +346,7 @@ msgstr ""
 #: templates/js/translated/part.js:1451 templates/js/translated/part.js:1587
 #: templates/js/translated/part.js:2719 templates/js/translated/stock.js:2632
 msgid "Name"
-msgstr ""
+msgstr "Pavadinimas"
 
 #: InvenTree/models.py:655 build/models.py:168
 #: build/templates/build/detail.html:24 common/models.py:111
@@ -380,7 +380,7 @@ msgstr ""
 #: templates/js/translated/stock.js:1457 templates/js/translated/stock.js:1990
 #: templates/js/translated/stock.js:2664 templates/js/translated/stock.js:2736
 msgid "Description"
-msgstr ""
+msgstr "Apibūdinimas"
 
 #: InvenTree/models.py:656
 msgid "Description (optional)"
@@ -859,11 +859,11 @@ msgstr ""
 
 #: InvenTree/views.py:645 templates/navbar.html:157
 msgid "System Information"
-msgstr ""
+msgstr "Apie sistemą"
 
 #: InvenTree/views.py:652 templates/navbar.html:168
 msgid "About InvenTree"
-msgstr ""
+msgstr "Apie InvenTree"
 
 #: build/api.py:242
 msgid "Build must be cancelled before it can be deleted"
@@ -929,7 +929,7 @@ msgstr ""
 #: templates/InvenTree/settings/sidebar.html:53
 #: templates/js/translated/search.js:186 users/models.py:42
 msgid "Build Orders"
-msgstr ""
+msgstr "Užsakymų sukūrimas"
 
 #: build/models.py:115
 msgid "Invalid choice for parent build"
@@ -1017,7 +1017,7 @@ msgstr ""
 #: templates/js/translated/stock.js:2762 templates/js/translated/stock.js:2995
 #: templates/js/translated/stock.js:3132
 msgid "Part"
-msgstr ""
+msgstr "Detalė"
 
 #: build/models.py:193
 msgid "Select part to build"
@@ -1087,7 +1087,7 @@ msgstr ""
 #: templates/js/translated/return_order.js:336
 #: templates/js/translated/sales_order.js:824
 msgid "Creation Date"
-msgstr ""
+msgstr "Sukūrimo data"
 
 #: build/models.py:261
 msgid "Target completion date"
@@ -1100,7 +1100,7 @@ msgstr ""
 #: build/models.py:265 order/models.py:422 order/models.py:1780
 #: templates/js/translated/build.js:2166
 msgid "Completion Date"
-msgstr ""
+msgstr "Įvykdymo data"
 
 #: build/models.py:271
 msgid "completed by"
@@ -1108,7 +1108,7 @@ msgstr ""
 
 #: build/models.py:279 templates/js/translated/build.js:2126
 msgid "Issued by"
-msgstr ""
+msgstr "Sukūrė"
 
 #: build/models.py:280
 msgid "User who issued this build order"
@@ -1126,7 +1126,7 @@ msgstr ""
 #: templates/js/translated/return_order.js:356
 #: templates/js/translated/table_filters.js:467
 msgid "Responsible"
-msgstr ""
+msgstr "Atsakingas"
 
 #: build/models.py:289
 msgid "User or group responsible for this build order"
@@ -1161,7 +1161,7 @@ msgstr ""
 #: templates/js/translated/table_filters.js:24
 #: templates/project_code_data.html:6
 msgid "Project Code"
-msgstr ""
+msgstr "Projekto kodas"
 
 #: build/models.py:310
 msgid "Project code for this build order"
@@ -1389,7 +1389,7 @@ msgstr ""
 #: templates/js/translated/stock.js:1022 templates/js/translated/stock.js:2133
 #: templates/js/translated/stock.js:2776
 msgid "Location"
-msgstr ""
+msgstr "Vieta"
 
 #: build/serializers.py:424
 msgid "Stock location for scrapped outputs"
@@ -1423,7 +1423,7 @@ msgstr ""
 #: templates/js/translated/stock.js:2108 templates/js/translated/stock.js:2900
 #: templates/js/translated/stock.js:3023
 msgid "Status"
-msgstr ""
+msgstr "Statusas"
 
 #: build/serializers.py:509
 msgid "Accept Incomplete Allocation"
@@ -1720,7 +1720,7 @@ msgstr ""
 #: templates/js/translated/sales_order.js:832
 #: templates/js/translated/sales_order.js:1856
 msgid "Target Date"
-msgstr ""
+msgstr "Numatoma data"
 
 #: build/templates/build/build_base.html:166
 #, python-format
@@ -1758,7 +1758,7 @@ msgstr ""
 #: templates/js/translated/sales_order.js:989
 #: templates/js/translated/stock.js:2829
 msgid "Sales Order"
-msgstr ""
+msgstr "Pardavimo užsakymas"
 
 #: build/templates/build/build_base.html:198
 #: build/templates/build/detail.html:115
@@ -1769,7 +1769,7 @@ msgstr ""
 #: build/templates/build/build_base.html:212
 #: build/templates/build/detail.html:94 templates/js/translated/build.js:2075
 msgid "Priority"
-msgstr ""
+msgstr "Prioritetas"
 
 #: build/templates/build/build_base.html:274
 msgid "Delete Build Order"
@@ -1818,7 +1818,7 @@ msgstr ""
 #: templates/js/translated/table_filters.js:265
 #: templates/js/translated/table_filters.js:356
 msgid "Batch"
-msgstr ""
+msgstr "Partija"
 
 #: build/templates/build/detail.html:133
 #: order/templates/order/order_base.html:173
@@ -2583,7 +2583,7 @@ msgstr ""
 
 #: common/models.py:1497
 msgid "Sell Expired Stock"
-msgstr ""
+msgstr "Parduoti pasibaigusio galiojimo atsargas"
 
 #: common/models.py:1498
 msgid "Allow sale of expired stock"
@@ -2895,7 +2895,7 @@ msgstr ""
 
 #: common/models.py:1826
 msgid "Show subscribed parts"
-msgstr ""
+msgstr "Užsakytos detalės"
 
 #: common/models.py:1827
 msgid "Show subscribed parts on the homepage"
@@ -3750,7 +3750,7 @@ msgstr ""
 #: templates/js/translated/company.js:1456 templates/js/translated/part.js:1488
 #: templates/js/translated/part.js:1592 templates/js/translated/part.js:2340
 msgid "Units"
-msgstr ""
+msgstr "Vienetai"
 
 #: company/models.py:554
 msgid "Parameter units"
@@ -3780,11 +3780,11 @@ msgstr ""
 #: templates/js/translated/purchase_order.js:1668
 #: templates/js/translated/table_filters.js:735
 msgid "Supplier"
-msgstr ""
+msgstr "Tiekėjas"
 
 #: company/models.py:714
 msgid "Select supplier"
-msgstr ""
+msgstr "Pasirinkti tiekėją"
 
 #: company/models.py:719 company/templates/company/supplier_part.html:140
 #: part/bom.py:286 part/bom.py:314 part/serializers.py:411
@@ -3836,7 +3836,7 @@ msgstr ""
 #: templates/js/translated/company.js:1677
 #: templates/js/translated/stock.js:2356
 msgid "Packaging"
-msgstr ""
+msgstr "Pakuotė"
 
 #: company/models.py:751
 msgid "Part packaging"
@@ -3946,7 +3946,7 @@ msgstr ""
 #: templates/js/translated/stock.js:2864
 #: templates/js/translated/table_filters.js:739
 msgid "Customer"
-msgstr ""
+msgstr "Klientas"
 
 #: company/templates/company/company_base.html:112
 msgid "Uses default currency"
@@ -4430,7 +4430,7 @@ msgstr ""
 #: templates/js/translated/purchase_order.js:1652
 #: templates/js/translated/stock.js:2192 templates/js/translated/stock.js:2812
 msgid "Purchase Order"
-msgstr ""
+msgstr "Pirkimo užsakymas"
 
 #: order/api.py:1456 order/models.py:1922 order/models.py:1968
 #: order/templates/order/return_order_base.html:9
@@ -4508,7 +4508,7 @@ msgstr ""
 #: order/models.py:404 order/templates/order/order_base.html:148
 #: templates/js/translated/purchase_order.js:1677
 msgid "Supplier Reference"
-msgstr ""
+msgstr "Tiekėjo trumpinys"
 
 #: order/models.py:404
 msgid "Supplier order reference code"
@@ -4554,7 +4554,7 @@ msgstr ""
 #: templates/js/translated/sales_order.js:840
 #: templates/js/translated/sales_order.js:1021
 msgid "Shipment Date"
-msgstr ""
+msgstr "Išsiuntimo data"
 
 #: order/models.py:821
 msgid "shipped by"
@@ -4644,7 +4644,7 @@ msgstr ""
 #: stock/templates/stock/item_base.html:184
 #: templates/js/translated/stock.js:2243
 msgid "Purchase Price"
-msgstr ""
+msgstr "Pirkimo kaina"
 
 #: order/models.py:1225
 msgid "Unit purchase price"
@@ -5073,7 +5073,7 @@ msgstr ""
 
 #: order/templates/order/order_base.html:224
 msgid "Total cost"
-msgstr ""
+msgstr "Visa suma (kaina)"
 
 #: order/templates/order/order_base.html:228
 #: order/templates/order/return_order_base.html:200
@@ -5259,7 +5259,7 @@ msgstr ""
 #: templates/js/translated/return_order.js:306
 #: templates/js/translated/sales_order.js:794
 msgid "Customer Reference"
-msgstr ""
+msgstr "Kliento trumpinys"
 
 #: order/templates/order/return_order_base.html:196
 #: order/templates/order/sales_order_base.html:236
@@ -5325,7 +5325,7 @@ msgstr ""
 #: order/templates/order/sales_order_detail.html:67
 #: order/templates/order/so_sidebar.html:8 templates/InvenTree/index.html:284
 msgid "Pending Shipments"
-msgstr ""
+msgstr "Laukiančios siuntos"
 
 #: order/templates/order/sales_order_detail.html:71
 #: templates/js/translated/bom.js:1254 templates/js/translated/filters.js:296
@@ -5383,7 +5383,7 @@ msgstr ""
 #: report/models.py:183 templates/js/translated/part.js:1208
 #: templates/js/translated/part.js:2317
 msgid "Revision"
-msgstr ""
+msgstr "Revizija"
 
 #: part/admin.py:38 part/admin.py:198 part/models.py:879
 #: part/templates/part/category.html:93 part/templates/part/part_base.html:300
@@ -5646,7 +5646,7 @@ msgstr ""
 #: templates/js/translated/notification.js:59
 #: templates/js/translated/part.js:2347
 msgid "Category"
-msgstr ""
+msgstr "Kategorija"
 
 #: part/models.py:888
 msgid "Part category"
@@ -5744,7 +5744,7 @@ msgstr ""
 #: stock/templates/stock/item_base.html:447
 #: templates/js/translated/part.js:2441
 msgid "Last Stocktake"
-msgstr ""
+msgstr "Paskutinis paėmimas"
 
 #: part/models.py:1930
 msgid "Sell multiple"
@@ -6546,7 +6546,7 @@ msgstr ""
 #: part/templates/part/category.html:121 part/templates/part/category.html:206
 #: part/templates/part/category_sidebar.html:7
 msgid "Subcategories"
-msgstr ""
+msgstr "Subkategorijos"
 
 #: part/templates/part/category.html:126
 msgid "Parts (Including subcategories)"
@@ -6620,7 +6620,7 @@ msgstr ""
 #: templates/InvenTree/settings/sidebar.html:51
 #: templates/js/translated/stock.js:2148 users/models.py:39
 msgid "Stocktake"
-msgstr ""
+msgstr "Inventorizacija"
 
 #: part/templates/part/detail.html:83
 msgid "Part Test Templates"
@@ -6889,7 +6889,7 @@ msgstr ""
 #: templates/js/translated/pricing.js:391
 #: templates/js/translated/pricing.js:1040
 msgid "Price Range"
-msgstr ""
+msgstr "Kainų diapozonas"
 
 #: part/templates/part/part_base.html:354
 msgid "Latest Serial Number"
@@ -6991,7 +6991,7 @@ msgstr "Atsargos"
 #: part/templates/part/part_sidebar.html:30
 #: templates/InvenTree/settings/sidebar.html:37
 msgid "Pricing"
-msgstr ""
+msgstr "Kainodara"
 
 #: part/templates/part/part_sidebar.html:44
 msgid "Scheduling"
@@ -7019,7 +7019,7 @@ msgstr ""
 #: templates/js/translated/company.js:1744
 #: templates/js/translated/stock.js:2178
 msgid "Last Updated"
-msgstr ""
+msgstr "Paskutinis atnaujinimas"
 
 #: part/templates/part/prices.html:34 part/templates/part/prices.html:116
 msgid "Price Category"
@@ -7606,7 +7606,7 @@ msgstr ""
 
 #: stock/admin.py:107
 msgid "Status Code"
-msgstr ""
+msgstr "Statuso kodas"
 
 #: stock/admin.py:110
 msgid "Supplier Part ID"
@@ -7653,7 +7653,7 @@ msgstr ""
 #: stock/templates/stock/item_base.html:429
 #: templates/js/translated/stock.js:2162
 msgid "Expiry Date"
-msgstr ""
+msgstr "Galiojimo pabaiga"
 
 #: stock/api.py:426 templates/js/translated/table_filters.js:379
 msgid "External Location"
@@ -8508,15 +8508,15 @@ msgstr ""
 
 #: templates/InvenTree/index.html:39
 msgid "Subscribed Parts"
-msgstr ""
+msgstr "Pasirinktos dalys"
 
 #: templates/InvenTree/index.html:52
 msgid "Subscribed Categories"
-msgstr ""
+msgstr "Pasirinktos kategorijos"
 
 #: templates/InvenTree/index.html:62
 msgid "Latest Parts"
-msgstr ""
+msgstr "Paskutinės detalės"
 
 #: templates/InvenTree/index.html:77
 msgid "BOM Waiting Validation"
@@ -8524,7 +8524,7 @@ msgstr ""
 
 #: templates/InvenTree/index.html:106
 msgid "Recently Updated"
-msgstr ""
+msgstr "Neseniai atnaujinta"
 
 #: templates/InvenTree/index.html:134
 msgid "Depleted Stock"
@@ -8536,35 +8536,35 @@ msgstr ""
 
 #: templates/InvenTree/index.html:156
 msgid "Expired Stock"
-msgstr ""
+msgstr "Pasibaigusio galiojimo atsargos"
 
 #: templates/InvenTree/index.html:172
 msgid "Stale Stock"
-msgstr ""
+msgstr "Pasenusios atsargos"
 
 #: templates/InvenTree/index.html:199
 msgid "Build Orders In Progress"
-msgstr ""
+msgstr "Gamybos užsakymų progresas"
 
 #: templates/InvenTree/index.html:210
 msgid "Overdue Build Orders"
-msgstr ""
+msgstr "Vėluojami gamybos užsakymai"
 
 #: templates/InvenTree/index.html:230
 msgid "Outstanding Purchase Orders"
-msgstr ""
+msgstr "Neįvykdyti užsakymų pirkimai"
 
 #: templates/InvenTree/index.html:241
 msgid "Overdue Purchase Orders"
-msgstr ""
+msgstr "Vėluojantys užsakymų pirkimai"
 
 #: templates/InvenTree/index.html:262
 msgid "Outstanding Sales Orders"
-msgstr ""
+msgstr "Neįvykdyti pardavimo užsakymai"
 
 #: templates/InvenTree/index.html:273
 msgid "Overdue Sales Orders"
-msgstr ""
+msgstr "Vėluojantys pardavimo užsakymai"
 
 #: templates/InvenTree/index.html:299
 msgid "InvenTree News"
@@ -8598,7 +8598,7 @@ msgstr ""
 #: templates/InvenTree/settings/sidebar.html:17
 #: templates/InvenTree/settings/sidebar.html:35 templates/notifications.html:5
 msgid "Notifications"
-msgstr ""
+msgstr "Pranešimai"
 
 #: templates/InvenTree/notifications/notifications.html:38
 msgid "No unread notifications found"
@@ -8670,7 +8670,7 @@ msgstr ""
 #: templates/InvenTree/settings/mixins/settings.html:5
 #: templates/InvenTree/settings/settings.html:12 templates/navbar.html:144
 msgid "Settings"
-msgstr ""
+msgstr "Nustatymai"
 
 #: templates/InvenTree/settings/mixins/urls.html:5
 msgid "URLs"
@@ -8945,19 +8945,19 @@ msgstr ""
 #: templates/InvenTree/settings/sidebar.html:6
 #: templates/InvenTree/settings/user_settings.html:9
 msgid "User Settings"
-msgstr ""
+msgstr "Naudotojo nustatymai"
 
 #: templates/InvenTree/settings/sidebar.html:9
 msgid "Account"
-msgstr ""
+msgstr "Paskyra"
 
 #: templates/InvenTree/settings/sidebar.html:11
 msgid "Display"
-msgstr ""
+msgstr "Ekranas"
 
 #: templates/InvenTree/settings/sidebar.html:13
 msgid "Home Page"
-msgstr ""
+msgstr "Pagrindinis puslapis"
 
 #: templates/InvenTree/settings/sidebar.html:15
 #: templates/js/translated/tables.js:543 templates/navbar.html:107
@@ -8969,7 +8969,7 @@ msgstr ""
 #: templates/InvenTree/settings/sidebar.html:19
 #: templates/InvenTree/settings/sidebar.html:41
 msgid "Reporting"
-msgstr ""
+msgstr "Ataskaitų teikimas"
 
 #: templates/InvenTree/settings/sidebar.html:24
 msgid "Global Settings"
@@ -8997,7 +8997,7 @@ msgstr ""
 
 #: templates/InvenTree/settings/user.html:13
 msgid "Account Settings"
-msgstr ""
+msgstr "Paskyros nustatymai"
 
 #: templates/InvenTree/settings/user.html:19
 #: templates/account/password_reset_from_key.html:4
@@ -9145,7 +9145,7 @@ msgstr ""
 
 #: templates/InvenTree/settings/user_display.html:9
 msgid "Display Settings"
-msgstr ""
+msgstr "Ekrano nustatymai"
 
 #: templates/InvenTree/settings/user_display.html:29
 msgid "Theme Settings"
@@ -9190,7 +9190,7 @@ msgstr "Rodyti tik tinkamai išverstas"
 
 #: templates/InvenTree/settings/user_display.html:99
 msgid "and hidden."
-msgstr "ir paslėptas"
+msgstr "todėl jos nerodomos"
 
 #: templates/InvenTree/settings/user_display.html:99
 msgid "Show them too"
@@ -9210,7 +9210,7 @@ msgstr ""
 
 #: templates/InvenTree/settings/user_homepage.html:9
 msgid "Home Page Settings"
-msgstr ""
+msgstr "Pagrindinio puslapio nustatymai"
 
 #: templates/InvenTree/settings/user_search.html:9
 msgid "Search Settings"
@@ -10258,7 +10258,7 @@ msgstr ""
 
 #: templates/js/translated/build.js:2096
 msgid "Progress"
-msgstr ""
+msgstr "Progresas"
 
 #: templates/js/translated/build.js:2132 templates/js/translated/stock.js:2947
 msgid "No user information"
@@ -10574,7 +10574,7 @@ msgstr ""
 
 #: templates/js/translated/company.js:1864
 msgid "Last updated"
-msgstr ""
+msgstr "Paskutinis atnaujinimas"
 
 #: templates/js/translated/company.js:1871
 msgid "Edit price break"
@@ -11027,7 +11027,7 @@ msgstr ""
 #: templates/js/translated/part.js:662
 #: templates/js/translated/table_filters.js:682
 msgid "Low stock"
-msgstr ""
+msgstr "Mažos atsargos"
 
 #: templates/js/translated/part.js:665
 msgid "No stock available"
@@ -11510,7 +11510,7 @@ msgstr ""
 #: templates/js/translated/sales_order.js:848
 #: templates/js/translated/sales_order.js:1008
 msgid "Items"
-msgstr ""
+msgstr "Daiktai"
 
 #: templates/js/translated/purchase_order.js:1818
 msgid "All selected Line items will be deleted"
@@ -11652,7 +11652,7 @@ msgstr ""
 
 #: templates/js/translated/sales_order.js:413
 msgid "No pending shipments found"
-msgstr ""
+msgstr "Nėra laukiančių siuntų"
 
 #: templates/js/translated/sales_order.js:417
 msgid "No stock items have been allocated to pending shipments"
@@ -11720,7 +11720,7 @@ msgstr ""
 
 #: templates/js/translated/sales_order.js:1003
 msgid "Shipment Reference"
-msgstr ""
+msgstr "Siuntos nuoroda"
 
 #: templates/js/translated/sales_order.js:1027
 #: templates/js/translated/sales_order.js:1524
@@ -12174,7 +12174,7 @@ msgstr ""
 
 #: templates/js/translated/stock.js:2274
 msgid "Stock Value"
-msgstr ""
+msgstr "Atsargų vertė"
 
 #: templates/js/translated/stock.js:2397
 msgid "No stock items matching query"
@@ -12584,7 +12584,7 @@ msgstr ""
 
 #: templates/js/translated/tables.js:532
 msgid "rows per page"
-msgstr ""
+msgstr "eilutės per puslapį"
 
 #: templates/js/translated/tables.js:537
 msgid "Showing all rows"
@@ -12592,7 +12592,7 @@ msgstr ""
 
 #: templates/js/translated/tables.js:539
 msgid "Showing"
-msgstr ""
+msgstr "Rodoma"
 
 #: templates/js/translated/tables.js:539
 msgid "to"
@@ -12604,7 +12604,7 @@ msgstr ""
 
 #: templates/js/translated/tables.js:539
 msgid "rows"
-msgstr ""
+msgstr "eilutės"
 
 #: templates/js/translated/tables.js:546
 msgid "No matching results"
@@ -12644,11 +12644,11 @@ msgstr ""
 
 #: templates/navbar.html:142 users/models.py:36
 msgid "Admin"
-msgstr ""
+msgstr "Administratoriaus panelė"
 
 #: templates/navbar.html:145
 msgid "Logout"
-msgstr ""
+msgstr "Atsijungti"
 
 #: templates/notes_buttons.html:6 templates/notes_buttons.html:7
 msgid "Save"
