@@ -273,7 +273,7 @@ msgstr "Nuoroda"
 #: InvenTree/models.py:494 build/models.py:295 part/models.py:906
 #: stock/models.py:735
 msgid "Link to external URL"
-msgstr ""
+msgstr "Nuoroda į išorinį URL"
 
 #: InvenTree/models.py:497 templates/js/translated/attachment.js:120
 #: templates/js/translated/attachment.js:341
@@ -1248,7 +1248,7 @@ msgstr ""
 #: templates/js/translated/stock.js:839 templates/js/translated/stock.js:2926
 #: templates/js/translated/stock.js:3007
 msgid "Quantity"
-msgstr ""
+msgstr "Kiekis"
 
 #: build/models.py:1280
 msgid "Required quantity for build order"
@@ -1349,7 +1349,7 @@ msgstr ""
 #: stock/serializers.py:390 templates/js/translated/purchase_order.js:1138
 #: templates/js/translated/stock.js:333 templates/js/translated/stock.js:531
 msgid "Serial Numbers"
-msgstr ""
+msgstr "Serijos numeriai"
 
 #: build/serializers.py:285
 msgid "Enter serial numbers for build outputs"
@@ -4207,7 +4207,7 @@ msgstr ""
 #: templates/js/translated/purchase_order.js:758
 #: templates/js/translated/stock.js:2212
 msgid "Supplier Part"
-msgstr ""
+msgstr "Tiekėjo detalė"
 
 #: company/templates/company/supplier_part.html:51
 #: templates/js/translated/company.js:1557
@@ -4263,7 +4263,7 @@ msgstr ""
 #: part/templates/part/detail.html:25 stock/templates/stock/location.html:199
 #: templates/js/translated/stock.js:503
 msgid "New Stock Item"
-msgstr ""
+msgstr "Nauja atsarginė detalė"
 
 #: company/templates/company/supplier_part.html:224
 msgid "Supplier Part Orders"
@@ -6219,7 +6219,7 @@ msgstr ""
 
 #: part/serializers.py:153 part/serializers.py:176 stock/serializers.py:319
 msgid "Purchase currency of this stock item"
-msgstr ""
+msgstr "Šios atsargos prekės pirkimo valiuta"
 
 #: part/serializers.py:325
 msgid "No parts selected"
@@ -7598,7 +7598,7 @@ msgstr ""
 #: stock/admin.py:44 stock/templates/stock/location.html:130
 #: stock/templates/stock/location.html:136
 msgid "Location Path"
-msgstr ""
+msgstr "Vietos kelias"
 
 #: stock/admin.py:100
 msgid "Stock Item ID"
@@ -7647,7 +7647,7 @@ msgstr ""
 
 #: stock/admin.py:126
 msgid "Delete on Deplete"
-msgstr ""
+msgstr "Ištrinti išeikvojus"
 
 #: stock/admin.py:131 stock/models.py:789
 #: stock/templates/stock/item_base.html:429
@@ -7683,7 +7683,7 @@ msgstr ""
 #: stock/templates/stock/location.html:17
 #: stock/templates/stock/stock_app_base.html:8
 msgid "Stock Location"
-msgstr ""
+msgstr "Atsargų vieta"
 
 #: stock/models.py:55 stock/templates/stock/location.html:178
 #: templates/InvenTree/search.html:166 templates/js/translated/search.js:178
@@ -7756,19 +7756,19 @@ msgstr ""
 
 #: stock/models.py:677
 msgid "Base part"
-msgstr ""
+msgstr "Pagrindinė dalis"
 
 #: stock/models.py:685
 msgid "Select a matching supplier part for this stock item"
-msgstr ""
+msgstr "Pasirinkite atitinkamą tiekėjo dalį šiam prekės vienetui"
 
 #: stock/models.py:695
 msgid "Where is this stock item located?"
-msgstr ""
+msgstr "Kur yra šių prekių vieta?"
 
 #: stock/models.py:702
 msgid "Packaging this stock item is stored in"
-msgstr ""
+msgstr "Pakavimas, kuriame šis prekių vienetas yra laikomas"
 
 #: stock/models.py:711
 msgid "Is this item installed in another item?"
@@ -7780,7 +7780,7 @@ msgstr ""
 
 #: stock/models.py:741
 msgid "Batch code for this stock item"
-msgstr ""
+msgstr "Šios atsargos prekės partijos kodas"
 
 #: stock/models.py:746
 msgid "Stock Quantity"
@@ -7816,7 +7816,7 @@ msgstr ""
 
 #: stock/models.py:790
 msgid "Expiry date for stock item. Stock will be considered expired after this date"
-msgstr ""
+msgstr "Galiojimo data prekėms. Prekės bus laikomos pasibaigusiomis po šios datos."
 
 #: stock/models.py:805
 msgid "Delete on deplete"
@@ -7824,7 +7824,7 @@ msgstr ""
 
 #: stock/models.py:805
 msgid "Delete this Stock Item when stock is depleted"
-msgstr ""
+msgstr "Ištrinti šį prekių vienetą, kai atsargos bus išnaudotos."
 
 #: stock/models.py:824
 msgid "Single unit purchase price at time of purchase"
@@ -7945,7 +7945,7 @@ msgstr ""
 
 #: stock/serializers.py:316
 msgid "Purchase price of this stock item, per unit or pack"
-msgstr ""
+msgstr "Šios atsarginės prekės vieneto arba pakuotės pirkimo kaina"
 
 #: stock/serializers.py:373
 msgid "Enter number of stock items to serialize"
@@ -8395,7 +8395,7 @@ msgstr ""
 
 #: stock/templates/stock/location.html:137
 msgid "Top level stock location"
-msgstr ""
+msgstr "Aukščiausio lygio atsargų vieta"
 
 #: stock/templates/stock/location.html:143
 msgid "Location Owner"
@@ -8417,7 +8417,7 @@ msgstr ""
 
 #: stock/templates/stock/location.html:217
 msgid "New Location"
-msgstr ""
+msgstr "Nauja vieta"
 
 #: stock/templates/stock/location.html:279
 #: templates/js/translated/stock.js:2488
@@ -11881,15 +11881,15 @@ msgstr ""
 
 #: templates/js/translated/stock.js:319
 msgid "Add given quantity as packs instead of individual items"
-msgstr ""
+msgstr "Pridėkite nurodytą kiekį kaip pakuotes, o ne atskiras prekes"
 
 #: templates/js/translated/stock.js:328
 msgid "Enter initial quantity for this stock item"
-msgstr ""
+msgstr "Įveskite pradinį šios atsargos prekės kiekį"
 
 #: templates/js/translated/stock.js:334
 msgid "Enter serial numbers for new stock (or leave blank)"
-msgstr ""
+msgstr "Įveskite naujų prekių serijos numerius (arba palikite tuščią)."
 
 #: templates/js/translated/stock.js:405
 msgid "Stock item duplicated"
@@ -11913,7 +11913,7 @@ msgstr ""
 
 #: templates/js/translated/stock.js:509
 msgid "Create another item after this one"
-msgstr ""
+msgstr "Sukurti kitą elementą po šio"
 
 #: templates/js/translated/stock.js:521
 msgid "Created new stock item"
@@ -12389,7 +12389,7 @@ msgstr ""
 #: templates/js/translated/table_filters.js:266
 #: templates/js/translated/table_filters.js:357
 msgid "Batch code"
-msgstr ""
+msgstr "Partijos kodas"
 
 #: templates/js/translated/table_filters.js:277
 #: templates/js/translated/table_filters.js:635
