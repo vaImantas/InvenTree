@@ -384,7 +384,7 @@ msgstr "Apibūdinimas"
 
 #: InvenTree/models.py:656
 msgid "Description (optional)"
-msgstr ""
+msgstr "Aprašymas (nebūtinas)"
 
 #: InvenTree/models.py:664
 msgid "parent"
@@ -393,7 +393,7 @@ msgstr ""
 #: InvenTree/models.py:671 InvenTree/models.py:672
 #: templates/js/translated/part.js:2764 templates/js/translated/stock.js:2673
 msgid "Path"
-msgstr ""
+msgstr "Vieta"
 
 #: InvenTree/models.py:767
 msgid "Markdown notes (optional)"
@@ -630,68 +630,68 @@ msgstr ""
 #: InvenTree/status_codes.py:188 generic/states/tests.py:16
 #: templates/js/translated/table_filters.js:533
 msgid "Pending"
-msgstr ""
+msgstr "Laukiama"
 
 #: InvenTree/status_codes.py:13 generic/states/tests.py:17
 msgid "Placed"
-msgstr ""
+msgstr "Pateiktas"
 
 #: InvenTree/status_codes.py:14 InvenTree/status_codes.py:151
 #: InvenTree/status_codes.py:172 generic/states/tests.py:18
 #: order/templates/order/order_base.html:158
 #: order/templates/order/sales_order_base.html:162
 msgid "Complete"
-msgstr ""
+msgstr "Įvykdytas"
 
 #: InvenTree/status_codes.py:15 InvenTree/status_codes.py:43
 #: InvenTree/status_codes.py:150 InvenTree/status_codes.py:173
 msgid "Cancelled"
-msgstr ""
+msgstr "Atšauktas"
 
 #: InvenTree/status_codes.py:16 InvenTree/status_codes.py:44
 #: InvenTree/status_codes.py:71
 msgid "Lost"
-msgstr ""
+msgstr "Pamestas"
 
 #: InvenTree/status_codes.py:17 InvenTree/status_codes.py:45
 #: InvenTree/status_codes.py:73
 msgid "Returned"
-msgstr ""
+msgstr "Gražintas"
 
 #: InvenTree/status_codes.py:41 InvenTree/status_codes.py:170
 msgid "In Progress"
-msgstr ""
+msgstr "Progrese"
 
 #: InvenTree/status_codes.py:42 order/models.py:1345
 #: templates/js/translated/sales_order.js:1518
 #: templates/js/translated/sales_order.js:1639
 #: templates/js/translated/sales_order.js:1943
 msgid "Shipped"
-msgstr ""
+msgstr "Praleistas"
 
 #: InvenTree/status_codes.py:66
 msgid "OK"
-msgstr ""
+msgstr "OK"
 
 #: InvenTree/status_codes.py:67
 msgid "Attention needed"
-msgstr ""
+msgstr "Reikia peržiūrėti"
 
 #: InvenTree/status_codes.py:68
 msgid "Damaged"
-msgstr ""
+msgstr "Pažeistas"
 
 #: InvenTree/status_codes.py:69
 msgid "Destroyed"
-msgstr ""
+msgstr "Sunaikintas"
 
 #: InvenTree/status_codes.py:70
 msgid "Rejected"
-msgstr ""
+msgstr "Atmestas"
 
 #: InvenTree/status_codes.py:72
 msgid "Quarantined"
-msgstr ""
+msgstr "Karantinas"
 
 #: InvenTree/status_codes.py:91
 msgid "Legacy stock tracking entry"
@@ -3536,11 +3536,11 @@ msgstr "Kontaktinis el. paštas"
 #: order/templates/order/return_order_base.html:175
 #: order/templates/order/sales_order_base.html:215
 msgid "Contact"
-msgstr ""
+msgstr "Kontaktas"
 
 #: company/models.py:126
 msgid "Point of contact"
-msgstr ""
+msgstr "Kontaktinis asmuo"
 
 #: company/models.py:128
 msgid "Link to external company information"
@@ -3548,27 +3548,27 @@ msgstr ""
 
 #: company/models.py:142
 msgid "is customer"
-msgstr ""
+msgstr "prikėjas"
 
 #: company/models.py:142
 msgid "Do you sell items to this company?"
-msgstr ""
+msgstr "Ar parduodate šiai kompanijai?"
 
 #: company/models.py:144
 msgid "is supplier"
-msgstr ""
+msgstr "Tiekėjas"
 
 #: company/models.py:144
 msgid "Do you purchase items from this company?"
-msgstr ""
+msgstr "Ar perkate iš šios kompanijos?"
 
 #: company/models.py:146
 msgid "is manufacturer"
-msgstr ""
+msgstr "Gamintojas"
 
 #: company/models.py:146
 msgid "Does this company manufacture parts?"
-msgstr ""
+msgstr "Ar ši kompanija gamina detales?"
 
 #: company/models.py:153
 msgid "Default currency used for this company"
@@ -3692,11 +3692,11 @@ msgstr ""
 #: templates/js/translated/company.js:1642
 #: templates/js/translated/table_filters.js:731
 msgid "Manufacturer"
-msgstr ""
+msgstr "Gamintojas"
 
 #: company/models.py:443
 msgid "Select manufacturer"
-msgstr ""
+msgstr "Pasirinkite gamintoją"
 
 #: company/models.py:449 company/templates/company/manufacturer_part.html:101
 #: company/templates/company/supplier_part.html:154 part/serializers.py:422
@@ -3883,7 +3883,7 @@ msgstr "Standartinė valiuta naudojama atsiskaitant su tiekėju"
 #: company/templates/company/company_base.html:22
 #: templates/js/translated/purchase_order.js:239
 msgid "Create Purchase Order"
-msgstr ""
+msgstr "Pirkimo užsakymas"
 
 #: company/templates/company/company_base.html:28
 msgid "Company actions"
@@ -3957,7 +3957,7 @@ msgstr "Naudoja standartinę valiutą"
 #: order/templates/order/return_order_base.html:182
 #: order/templates/order/sales_order_base.html:222
 msgid "Address"
-msgstr ""
+msgstr "Adresas"
 
 #: company/templates/company/company_base.html:126
 msgid "Phone"
@@ -4016,7 +4016,7 @@ msgstr ""
 
 #: company/templates/company/detail.html:46 part/templates/part/detail.html:376
 msgid "New Manufacturer Part"
-msgstr ""
+msgstr "Nauja gamintojo detalė"
 
 #: company/templates/company/detail.html:65
 msgid "Supplier Stock"
@@ -4044,7 +4044,7 @@ msgstr ""
 #: company/templates/company/detail.html:80
 #: order/templates/order/purchase_orders.html:18
 msgid "New Purchase Order"
-msgstr ""
+msgstr "Naujas užsakymas"
 
 #: company/templates/company/detail.html:101
 #: company/templates/company/sidebar.html:21
@@ -4302,7 +4302,7 @@ msgstr ""
 #: templates/js/translated/search.js:172 templates/js/translated/stock.js:2682
 #: users/models.py:41
 msgid "Stock Items"
-msgstr ""
+msgstr "Prekių likučiai"
 
 #: company/templates/company/supplier_part_sidebar.html:9
 msgid "Supplier Part Pricing"
@@ -4310,11 +4310,11 @@ msgstr ""
 
 #: company/views.py:33
 msgid "New Supplier"
-msgstr ""
+msgstr "Naujas tiekėjas"
 
 #: company/views.py:39
 msgid "New Manufacturer"
-msgstr ""
+msgstr "Naujas gamintojas"
 
 #: company/views.py:44 templates/InvenTree/search.html:210
 #: templates/navbar.html:60
@@ -4451,11 +4451,11 @@ msgstr ""
 
 #: order/models.py:79 order/serializers.py:50
 msgid "Order Currency"
-msgstr ""
+msgstr "Užsakymo valiuta"
 
 #: order/models.py:81 order/serializers.py:51
 msgid "Currency for this order (leave blank to use company default)"
-msgstr ""
+msgstr "Šio užsakymo valiuta (palikite tuščią, jei norite naudoti įmonės numatytuosius nustatymus)"
 
 #: order/models.py:210
 msgid "Contact does not match selected company"
@@ -4463,19 +4463,19 @@ msgstr ""
 
 #: order/models.py:232
 msgid "Order description (optional)"
-msgstr ""
+msgstr "Užsakymo aprašymas (neprivaloma)"
 
 #: order/models.py:237
 msgid "Select project code for this order"
-msgstr ""
+msgstr "Pasirinkite šio užsakymo projekto kodą"
 
 #: order/models.py:240 order/models.py:1107 order/models.py:1467
 msgid "Link to external page"
-msgstr ""
+msgstr "Nuoroda į išorinį puslapį"
 
 #: order/models.py:245
 msgid "Expected date for order delivery. Order will be overdue after this date."
-msgstr ""
+msgstr "Numatoma užsakymo pristatymo data. Užsakymas bus vėluojantis po šios datos."
 
 #: order/models.py:254
 msgid "Created By"
@@ -4483,19 +4483,19 @@ msgstr ""
 
 #: order/models.py:261
 msgid "User or group responsible for this order"
-msgstr ""
+msgstr "Vartotojas arba grupė, atsakinga už šį užsakymą"
 
 #: order/models.py:271
 msgid "Point of contact for this order"
-msgstr ""
+msgstr "Šio užsakymo kontaktinis asmuo"
 
 #: order/models.py:280
 msgid "Company address for this order"
-msgstr ""
+msgstr "Įmonės adresas šiam užsakymui"
 
 #: order/models.py:373 order/models.py:779
 msgid "Order reference"
-msgstr ""
+msgstr "Užsakymo nuoroda"
 
 #: order/models.py:381 order/models.py:804
 msgid "Purchase order status"
@@ -4503,7 +4503,7 @@ msgstr ""
 
 #: order/models.py:396
 msgid "Company from which the items are being ordered"
-msgstr ""
+msgstr "Įmonė, iš kurios užsakomos prekės"
 
 #: order/models.py:404 order/templates/order/order_base.html:148
 #: templates/js/translated/purchase_order.js:1677
@@ -4512,7 +4512,7 @@ msgstr "Tiekėjo trumpinys"
 
 #: order/models.py:404
 msgid "Supplier order reference code"
-msgstr ""
+msgstr "Tiekėjo užsakymo nuorodos kodas"
 
 #: order/models.py:411
 msgid "received by"
@@ -5079,7 +5079,7 @@ msgstr "Visa suma (kaina)"
 #: order/templates/order/return_order_base.html:200
 #: order/templates/order/sales_order_base.html:240
 msgid "Total cost could not be calculated"
-msgstr ""
+msgstr "Negalima apskaičiuoti visos sumos"
 
 #: order/templates/order/order_base.html:318
 msgid "Purchase Order QR Code"
@@ -5559,7 +5559,7 @@ msgstr ""
 #: templates/js/translated/table_filters.js:215
 #: templates/js/translated/table_filters.js:235
 msgid "Structural"
-msgstr ""
+msgstr "Struktūrinis"
 
 #: part/models.py:136
 msgid "Parts may not be directly assigned to a structural category, but may be assigned to child categories."
@@ -5900,7 +5900,7 @@ msgstr ""
 #: templates/js/translated/purchase_order.js:1706
 #: templates/js/translated/stock.js:2726
 msgid "Date"
-msgstr ""
+msgstr "Data"
 
 #: part/models.py:3039
 msgid "Date stocktake was performed"
@@ -6466,11 +6466,11 @@ msgstr ""
 
 #: part/stocktake.py:227
 msgid "Total Cost Min"
-msgstr ""
+msgstr "Minimali suma"
 
 #: part/stocktake.py:228
 msgid "Total Cost Max"
-msgstr ""
+msgstr "Maksimali suma"
 
 #: part/stocktake.py:296
 msgid "Stocktake Report Available"
@@ -7702,16 +7702,16 @@ msgstr ""
 
 #: stock/models.py:126
 msgid "Stock items may not be directly located into a structural stock locations, but may be located to child locations."
-msgstr ""
+msgstr "Prekių likučiai gali būti tiesiogiai neįtraukiami į struktūrines prekių vietas, bet gali būti dedami į vaikines vietas."
 
 #: stock/models.py:132 templates/js/translated/stock.js:2697
 #: templates/js/translated/table_filters.js:219
 msgid "External"
-msgstr ""
+msgstr "Išorinis"
 
 #: stock/models.py:133
 msgid "This is an external stock location"
-msgstr ""
+msgstr "Tai yra išorinė prekių vieta"
 
 #: stock/models.py:175
 msgid "You cannot make this stock location structural because some stock items are already located into it!"
@@ -8409,7 +8409,7 @@ msgstr ""
 #: stock/templates/stock/location.html:212
 #: stock/templates/stock/location_sidebar.html:5
 msgid "Sublocations"
-msgstr ""
+msgstr "Subvietos"
 
 #: stock/templates/stock/location.html:216
 msgid "Create new stock location"
@@ -10359,12 +10359,12 @@ msgstr ""
 #: templates/js/translated/company.js:200
 #: templates/js/translated/purchase_order.js:93
 msgid "Add Supplier"
-msgstr ""
+msgstr "Pridėti tiekėją"
 
 #: templates/js/translated/company.js:242
 #: templates/js/translated/purchase_order.js:349
 msgid "Add Supplier Part"
-msgstr ""
+msgstr "Pridėti tiekėjo detalę"
 
 #: templates/js/translated/company.js:343
 msgid "All selected supplier parts will be deleted"
@@ -10376,15 +10376,15 @@ msgstr ""
 
 #: templates/js/translated/company.js:464
 msgid "Add new Company"
-msgstr ""
+msgstr "Pridėti naują įmonę"
 
 #: templates/js/translated/company.js:535
 msgid "Parts Supplied"
-msgstr ""
+msgstr "Tiekiamos dalys"
 
 #: templates/js/translated/company.js:544
 msgid "Parts Manufactured"
-msgstr ""
+msgstr "Gaminamos dalys"
 
 #: templates/js/translated/company.js:559
 msgid "No company information found"
@@ -10753,13 +10753,13 @@ msgstr ""
 #: templates/js/translated/modals.js:55 templates/js/translated/modals.js:152
 #: templates/js/translated/modals.js:677
 msgid "Cancel"
-msgstr ""
+msgstr "Atšaukti"
 
 #: templates/js/translated/modals.js:60 templates/js/translated/modals.js:151
 #: templates/js/translated/modals.js:745 templates/js/translated/modals.js:1053
 #: templates/modals.html:28 templates/modals.html:51
 msgid "Submit"
-msgstr ""
+msgstr "Saugoti"
 
 #: templates/js/translated/modals.js:150
 msgid "Form Title"
@@ -10767,7 +10767,7 @@ msgstr ""
 
 #: templates/js/translated/modals.js:439
 msgid "Waiting for server..."
-msgstr ""
+msgstr "Laukiu serverio atsakymo"
 
 #: templates/js/translated/modals.js:590
 msgid "Show Error Information"
@@ -11837,7 +11837,7 @@ msgstr ""
 
 #: templates/js/translated/stock.js:137
 msgid "Parent stock location"
-msgstr ""
+msgstr "Pagrindinė prekių vieta"
 
 #: templates/js/translated/stock.js:172
 msgid "Edit Stock Location"
@@ -11845,11 +11845,11 @@ msgstr ""
 
 #: templates/js/translated/stock.js:187
 msgid "New Stock Location"
-msgstr ""
+msgstr "Nauja prekių vieta"
 
 #: templates/js/translated/stock.js:189
 msgid "Create another location after this one"
-msgstr ""
+msgstr "Sukurkite kitą vietą po šios"
 
 #: templates/js/translated/stock.js:190
 msgid "Stock location created"
@@ -12097,7 +12097,7 @@ msgstr ""
 
 #: templates/js/translated/stock.js:1885
 msgid "stock items"
-msgstr ""
+msgstr "Prekių likučiai"
 
 #: templates/js/translated/stock.js:1890
 msgid "Scan to location"
@@ -12182,7 +12182,7 @@ msgstr ""
 
 #: templates/js/translated/stock.js:2489
 msgid "stock locations"
-msgstr ""
+msgstr "Prekių vietos"
 
 #: templates/js/translated/stock.js:2644
 msgid "Load Sublocations"
