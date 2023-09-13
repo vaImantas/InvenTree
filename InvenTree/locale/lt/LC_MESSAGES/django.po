@@ -6558,7 +6558,7 @@ msgstr ""
 
 #: part/templates/part/category.html:165 templates/js/translated/bom.js:444
 msgid "New Part"
-msgstr ""
+msgstr "Nauja detalė"
 
 #: part/templates/part/category.html:191
 #: templates/InvenTree/settings/part_parameters.html:7
@@ -7087,7 +7087,7 @@ msgstr ""
 
 #: part/templates/part/stock_count.html:9 templates/InvenTree/index.html:120
 msgid "Low Stock"
-msgstr ""
+msgstr "Mažos atsargos"
 
 #: part/templates/part/upload_bom.html:8
 msgid "Return to BOM"
@@ -11128,7 +11128,7 @@ msgstr ""
 
 #: templates/js/translated/part.js:2054 templates/js/translated/part.js:2476
 msgid "No parts found"
-msgstr ""
+msgstr "Šios detalės nerastos"
 
 #: templates/js/translated/part.js:2175
 msgid "Set the part category for the selected parts"
@@ -11136,7 +11136,7 @@ msgstr ""
 
 #: templates/js/translated/part.js:2180
 msgid "Set Part Category"
-msgstr ""
+msgstr "Pasirinkti detalės kategoriją"
 
 #: templates/js/translated/part.js:2205
 msgid "Set category"
@@ -11725,7 +11725,7 @@ msgstr "Siuntos nuoroda"
 #: templates/js/translated/sales_order.js:1027
 #: templates/js/translated/sales_order.js:1524
 msgid "Not shipped"
-msgstr ""
+msgstr "Dar neišsiųsta"
 
 #: templates/js/translated/sales_order.js:1045
 msgid "Tracking"
