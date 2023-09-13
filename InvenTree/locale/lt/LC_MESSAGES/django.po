@@ -5466,7 +5466,7 @@ msgstr ""
 #: templates/js/translated/part.js:2774 templates/js/translated/search.js:130
 #: templates/navbar.html:24 users/models.py:38
 msgid "Parts"
-msgstr "Detalės"
+msgstr "Atsargos"
 
 #: part/admin.py:265
 msgid "BOM Level"
@@ -6986,7 +6986,7 @@ msgstr ""
 #: templates/js/translated/part.js:2362 templates/js/translated/stock.js:1021
 #: templates/js/translated/stock.js:2002 templates/navbar.html:31
 msgid "Stock"
-msgstr "Atsargos"
+msgstr "Sandėliai"
 
 #: part/templates/part/part_sidebar.html:30
 #: templates/InvenTree/settings/sidebar.html:37
