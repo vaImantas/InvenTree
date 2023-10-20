@@ -1917,7 +1917,7 @@ msgstr ""
 #: part/templates/part/part_sidebar.html:61 stock/templates/stock/item.html:110
 #: stock/templates/stock/stock_sidebar.html:23
 msgid "Attachments"
-msgstr ""
+msgstr "Priedai"
 
 #: build/templates/build/detail.html:271
 msgid "Build Notes"
@@ -3591,11 +3591,11 @@ msgstr "Pasirinkite kompaniją"
 
 #: company/models.py:332
 msgid "Address title"
-msgstr ""
+msgstr "Adreso pavadinimas"
 
 #: company/models.py:333
 msgid "Title describing the address entry"
-msgstr ""
+msgstr "Adreso aprašymas"
 
 #: company/models.py:337
 msgid "Primary address"
@@ -3603,7 +3603,7 @@ msgstr ""
 
 #: company/models.py:338
 msgid "Set as primary address"
-msgstr ""
+msgstr "Nustatyti kaip pagrindinį adresą"
 
 #: company/models.py:341 templates/js/translated/company.js:941
 #: templates/js/translated/company.js:1002
@@ -3612,7 +3612,7 @@ msgstr ""
 
 #: company/models.py:342
 msgid "Address line 1"
-msgstr ""
+msgstr "Pirmas adreso laukas"
 
 #: company/models.py:346 templates/js/translated/company.js:942
 #: templates/js/translated/company.js:1008
@@ -3621,56 +3621,56 @@ msgstr ""
 
 #: company/models.py:347
 msgid "Address line 2"
-msgstr ""
+msgstr "Antras adreso laukas"
 
 #: company/models.py:351 company/models.py:352
 #: templates/js/translated/company.js:1014
 msgid "Postal code"
-msgstr ""
+msgstr "Pašto kodas"
 
 #: company/models.py:356
 msgid "City/Region"
-msgstr ""
+msgstr "Miestas/Regionas"
 
 #: company/models.py:357
 msgid "Postal code city/region"
-msgstr ""
+msgstr "Miesto/Regiono pašto kodas"
 
 #: company/models.py:361
 msgid "State/Province"
-msgstr ""
+msgstr "Valstija/Provincija"
 
 #: company/models.py:362
 msgid "State or province"
-msgstr ""
+msgstr "Valstija arba Provincija"
 
 #: company/models.py:366 templates/js/translated/company.js:1032
 msgid "Country"
-msgstr ""
+msgstr "Šalis"
 
 #: company/models.py:367
 msgid "Address country"
-msgstr ""
+msgstr "Adreso šalis"
 
 #: company/models.py:371
 msgid "Courier shipping notes"
-msgstr ""
+msgstr "Nuorodos kurjeriui"
 
 #: company/models.py:372
 msgid "Notes for shipping courier"
-msgstr ""
+msgstr "Nuorodos kurjeriui"
 
 #: company/models.py:376
 msgid "Internal shipping notes"
-msgstr ""
+msgstr "Vidiniai važtaraščiai"
 
 #: company/models.py:377
 msgid "Shipping notes for internal use"
-msgstr ""
+msgstr "Vidiniai važtaraščiai vidiniam naudojimui"
 
 #: company/models.py:382
 msgid "Link to address information (external)"
-msgstr ""
+msgstr "Nuoroda į adreso informaciją (išorinė)"
 
 #: company/models.py:427 company/models.py:702 stock/models.py:675
 #: stock/serializers.py:204 stock/templates/stock/item_base.html:143
@@ -4100,7 +4100,7 @@ msgstr ""
 
 #: company/templates/company/detail.html:183
 msgid "Company Contacts"
-msgstr ""
+msgstr "Įmonės kontaktai"
 
 #: company/templates/company/detail.html:187
 #: company/templates/company/detail.html:188
@@ -4182,11 +4182,11 @@ msgstr ""
 
 #: company/templates/company/sidebar.html:10
 msgid "Supplied Parts"
-msgstr ""
+msgstr "Tiekėjo dalys"
 
 #: company/templates/company/sidebar.html:16
 msgid "Supplied Stock Items"
-msgstr ""
+msgstr "Tiekėjo atsargos"
 
 #: company/templates/company/sidebar.html:25
 msgid "Assigned Stock Items"
@@ -4194,11 +4194,11 @@ msgstr ""
 
 #: company/templates/company/sidebar.html:33
 msgid "Contacts"
-msgstr ""
+msgstr "Kontaktai"
 
 #: company/templates/company/sidebar.html:35
 msgid "Addresses"
-msgstr ""
+msgstr "Adresai"
 
 #: company/templates/company/supplier_part.html:7
 #: company/templates/company/supplier_part.html:24 stock/models.py:684
@@ -10664,7 +10664,7 @@ msgstr ""
 #: templates/js/translated/forms.js:1401 templates/modals.html:19
 #: templates/modals.html:43
 msgid "Form errors exist"
-msgstr ""
+msgstr "Neužpildyti privalomi laukai"
 
 #: templates/js/translated/forms.js:1855
 msgid "No results found"
