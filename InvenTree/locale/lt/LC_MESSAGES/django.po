@@ -953,7 +953,7 @@ msgstr ""
 #: templates/js/translated/return_order.js:722
 #: templates/js/translated/sales_order.js:1807
 msgid "Reference"
-msgstr ""
+msgstr "Nuoroda"
 
 #: build/models.py:171
 msgid "Brief description of the build (optional)"
@@ -1620,7 +1620,7 @@ msgstr ""
 #: stock/templates/stock/item_base.html:45
 #: stock/templates/stock/location.html:56 templates/qr_button.html:1
 msgid "Show QR Code"
-msgstr ""
+msgstr "Rodyti QR Kodą"
 
 #: build/templates/build/build_base.html:46
 #: company/templates/company/supplier_part.html:42
@@ -1737,12 +1737,12 @@ msgstr ""
 #: templates/js/translated/table_filters.js:561
 #: templates/js/translated/table_filters.js:602
 msgid "Overdue"
-msgstr ""
+msgstr "Vėluojama"
 
 #: build/templates/build/build_base.html:178
 #: build/templates/build/detail.html:67 build/templates/build/sidebar.html:13
 msgid "Completed Outputs"
-msgstr ""
+msgstr "Įgyvendinti Rezultatai"
 
 #: build/templates/build/build_base.html:191
 #: build/templates/build/detail.html:101 order/api.py:1454 order/models.py:1317
@@ -1798,7 +1798,7 @@ msgstr ""
 #: build/templates/build/detail.html:49 order/models.py:1235
 #: templates/js/translated/purchase_order.js:2164
 msgid "Destination"
-msgstr ""
+msgstr "Paskirties vieta"
 
 #: build/templates/build/detail.html:56
 msgid "Destination location not specified"
@@ -1806,7 +1806,7 @@ msgstr ""
 
 #: build/templates/build/detail.html:73
 msgid "Allocated Parts"
-msgstr ""
+msgstr "Paskirstytos Prekės"
 
 #: build/templates/build/detail.html:80 stock/admin.py:105
 #: stock/templates/stock/item_base.html:163
@@ -1826,17 +1826,17 @@ msgstr "Partija"
 #: order/templates/order/sales_order_base.html:187
 #: templates/js/translated/build.js:2118
 msgid "Created"
-msgstr ""
+msgstr "Sukurta"
 
 #: build/templates/build/detail.html:144
 msgid "No target date set"
-msgstr ""
+msgstr "Tiksli data nenustatyta"
 
 #: build/templates/build/detail.html:149
 #: order/templates/order/sales_order_base.html:203
 #: templates/js/translated/table_filters.js:624
 msgid "Completed"
-msgstr ""
+msgstr "Užbaigta"
 
 #: build/templates/build/detail.html:153
 msgid "Build not complete"
@@ -3468,7 +3468,7 @@ msgstr ""
 #: part/templates/part/import_wizard/part_upload.html:58 part/views.py:108
 #: templates/patterns/wizard/upload.html:37
 msgid "Upload File"
-msgstr ""
+msgstr "Įkelti failą"
 
 #: common/views.py:86 order/templates/order/order_wizard/match_fields.html:52
 #: order/views.py:119
@@ -3476,19 +3476,19 @@ msgstr ""
 #: part/templates/part/import_wizard/match_fields.html:52 part/views.py:109
 #: templates/patterns/wizard/match_fields.html:51
 msgid "Match Fields"
-msgstr ""
+msgstr "Susieti Laukus"
 
 #: common/views.py:87
 msgid "Match Items"
-msgstr ""
+msgstr "Susieti Pozicijas"
 
 #: common/views.py:420
 msgid "Fields matching failed"
-msgstr ""
+msgstr "Laukų susiejimas nesėkmingas"
 
 #: common/views.py:481
 msgid "Parts imported"
-msgstr ""
+msgstr "Prekės importuotos"
 
 #: common/views.py:509 order/templates/order/order_wizard/match_fields.html:27
 #: order/templates/order/order_wizard/match_parts.html:19
@@ -3499,7 +3499,7 @@ msgstr ""
 #: templates/patterns/wizard/match_fields.html:26
 #: templates/patterns/wizard/upload.html:35
 msgid "Previous Step"
-msgstr ""
+msgstr "Praeitas Žingsnis"
 
 #: company/models.py:106
 msgid "Company description"
@@ -3548,7 +3548,7 @@ msgstr ""
 
 #: company/models.py:142
 msgid "is customer"
-msgstr "prikėjas"
+msgstr "pirkėjas"
 
 #: company/models.py:142
 msgid "Do you sell items to this company?"
@@ -3850,7 +3850,7 @@ msgstr ""
 #: templates/js/translated/purchase_order.js:2059
 #: templates/js/translated/purchase_order.js:2076
 msgid "Pack Quantity"
-msgstr ""
+msgstr "Pakuotės kiekis"
 
 #: company/models.py:756
 msgid "Total quantity supplied in a single pack. Leave empty for single items."
@@ -4207,7 +4207,7 @@ msgstr "Adresai"
 #: templates/js/translated/purchase_order.js:758
 #: templates/js/translated/stock.js:2212
 msgid "Supplier Part"
-msgstr "Tiekėjo detalė"
+msgstr "Tiekėjo Prekė"
 
 #: company/templates/company/supplier_part.html:51
 #: templates/js/translated/company.js:1557
@@ -4219,7 +4219,7 @@ msgstr ""
 #: company/templates/company/supplier_part.html:229
 #: part/templates/part/detail.html:110
 msgid "Order Part"
-msgstr ""
+msgstr "Užsakymo Prekė"
 
 #: company/templates/company/supplier_part.html:61
 #: company/templates/company/supplier_part.html:62
@@ -4397,13 +4397,13 @@ msgstr ""
 #: label/templates/label/stocklocation/qr.html:21
 #: templates/allauth_2fa/setup.html:18
 msgid "QR Code"
-msgstr ""
+msgstr "QR Kodas"
 
 #: label/templates/label/part/part_label_code128.html:31
 #: label/templates/label/stocklocation/qr_and_text.html:31
 #: templates/qr_code.html:7
 msgid "QR code"
-msgstr ""
+msgstr "QR Kodas"
 
 #: order/admin.py:30 order/models.py:73
 #: report/templates/report/inventree_po_report_base.html:31
@@ -4412,7 +4412,7 @@ msgstr ""
 #: templates/js/translated/purchase_order.js:2100
 #: templates/js/translated/sales_order.js:1836
 msgid "Total Price"
-msgstr ""
+msgstr "Viso Kaina"
 
 #: order/api.py:242
 msgid "No matching purchase order found"
@@ -4578,27 +4578,27 @@ msgstr ""
 
 #: order/models.py:1087
 msgid "Item quantity"
-msgstr ""
+msgstr "Pozicijos kiekis"
 
 #: order/models.py:1100
 msgid "Line item reference"
-msgstr ""
+msgstr "Pozicijos nuoroda"
 
 #: order/models.py:1102
 msgid "Line item notes"
-msgstr ""
+msgstr "Pozicijos užrašai"
 
 #: order/models.py:1113
 msgid "Target date for this line item (leave blank to use the target date from the order)"
-msgstr ""
+msgstr "Šios eilutės tikslinė data (palikite tuščią, jei norite naudoti užsakyme nurodytą tikslinę datą)"
 
 #: order/models.py:1131
 msgid "Line item description (optional)"
-msgstr ""
+msgstr "Pozicijos aprašymas (neprivaloma)"
 
 #: order/models.py:1136
 msgid "Context"
-msgstr ""
+msgstr "Kontekstas"
 
 #: order/models.py:1137
 msgid "Additional context for this line"
@@ -4606,7 +4606,7 @@ msgstr ""
 
 #: order/models.py:1146
 msgid "Unit price"
-msgstr ""
+msgstr "Vieneto kaina"
 
 #: order/models.py:1176
 msgid "Supplier part must match supplier"
@@ -4614,17 +4614,17 @@ msgstr ""
 
 #: order/models.py:1184
 msgid "deleted"
-msgstr ""
+msgstr "ištrintas"
 
 #: order/models.py:1190 order/models.py:1275 order/models.py:1316
 #: order/models.py:1415 order/models.py:1564 order/models.py:1921
 #: order/models.py:1968 templates/js/translated/sales_order.js:1483
 msgid "Order"
-msgstr ""
+msgstr "Užsakymas"
 
 #: order/models.py:1209
 msgid "Supplier part"
-msgstr ""
+msgstr "Tiekėjo prekė"
 
 #: order/models.py:1216 order/templates/order/order_base.html:196
 #: templates/js/translated/part.js:1845 templates/js/translated/part.js:1876
@@ -4634,25 +4634,25 @@ msgstr ""
 #: templates/js/translated/table_filters.js:96
 #: templates/js/translated/table_filters.js:537
 msgid "Received"
-msgstr ""
+msgstr "Gauta"
 
 #: order/models.py:1217
 msgid "Number of items received"
-msgstr ""
+msgstr "Gautų pozicijų kiekis"
 
 #: order/models.py:1224 stock/models.py:823 stock/serializers.py:314
 #: stock/templates/stock/item_base.html:184
 #: templates/js/translated/stock.js:2243
 msgid "Purchase Price"
-msgstr "Pirkimo kaina"
+msgstr "Pirkimo Kaina"
 
 #: order/models.py:1225
 msgid "Unit purchase price"
-msgstr ""
+msgstr "Pirkimo vieneto kaina"
 
 #: order/models.py:1238
 msgid "Where does the Purchaser want this item to be stored?"
-msgstr ""
+msgstr "Kur Pirkėjas nori, kad šis daiktas būtų saugomas?"
 
 #: order/models.py:1304
 msgid "Virtual part cannot be assigned to a sales order"
@@ -4665,19 +4665,19 @@ msgstr ""
 #: order/models.py:1335 part/templates/part/part_pricing.html:107
 #: part/templates/part/prices.html:128 templates/js/translated/pricing.js:943
 msgid "Sale Price"
-msgstr ""
+msgstr "Pardavimo kaina"
 
 #: order/models.py:1336
 msgid "Unit sale price"
-msgstr ""
+msgstr "Vieneto pardavimo kaina"
 
 #: order/models.py:1346
 msgid "Shipped quantity"
-msgstr ""
+msgstr "Išsiųstas kiekis"
 
 #: order/models.py:1422
 msgid "Date of shipment"
-msgstr ""
+msgstr "Išsiuntimo data"
 
 #: order/models.py:1427 templates/js/translated/sales_order.js:1033
 msgid "Delivery Date"
@@ -4685,36 +4685,36 @@ msgstr "Pristatymo data"
 
 #: order/models.py:1428
 msgid "Date of delivery of shipment"
-msgstr ""
+msgstr "Siuntos pristatymo data"
 
 #: order/models.py:1435
 msgid "Checked By"
-msgstr ""
+msgstr "Tikrino"
 
 #: order/models.py:1436
 msgid "User who checked this shipment"
-msgstr ""
+msgstr "Vartotojas, kuris patikrino šią siuntą"
 
 #: order/models.py:1443 order/models.py:1640 order/serializers.py:1254
 #: order/serializers.py:1382 templates/js/translated/model_renderers.js:433
 msgid "Shipment"
-msgstr ""
+msgstr "Siunta"
 
 #: order/models.py:1444
 msgid "Shipment number"
-msgstr ""
+msgstr "Siuntos numeris"
 
 #: order/models.py:1452
 msgid "Tracking Number"
-msgstr ""
+msgstr "Sekimo numeris"
 
 #: order/models.py:1453
 msgid "Shipment tracking information"
-msgstr ""
+msgstr "Siuntos sekimo informacija"
 
 #: order/models.py:1460
 msgid "Invoice Number"
-msgstr ""
+msgstr "Sąskaitos faktūros numeris"
 
 #: order/models.py:1461
 msgid "Reference number for associated invoice"
@@ -4722,7 +4722,7 @@ msgstr ""
 
 #: order/models.py:1483
 msgid "Shipment has already been sent"
-msgstr ""
+msgstr "Siunta jau išsiųsta"
 
 #: order/models.py:1486
 msgid "Shipment has no allocated stock items"
@@ -4978,13 +4978,13 @@ msgstr ""
 
 #: order/templates/order/order_base.html:51
 msgid "Print purchase order report"
-msgstr ""
+msgstr "Spausdinti pirkimo užsakymo ataskaitą"
 
 #: order/templates/order/order_base.html:53
 #: order/templates/order/return_order_base.html:63
 #: order/templates/order/sales_order_base.html:63
 msgid "Export order to file"
-msgstr ""
+msgstr "Eksportuoti užsakymą į failą"
 
 #: order/templates/order/order_base.html:59
 #: order/templates/order/return_order_base.html:73
@@ -4996,17 +4996,17 @@ msgstr ""
 #: order/templates/order/return_order_base.html:77
 #: order/templates/order/sales_order_base.html:76
 msgid "Edit order"
-msgstr ""
+msgstr "Redaguoti užsakymą"
 
 #: order/templates/order/order_base.html:68
 #: order/templates/order/return_order_base.html:79
 #: order/templates/order/sales_order_base.html:78
 msgid "Cancel order"
-msgstr ""
+msgstr "Atšaukti užsakymą"
 
 #: order/templates/order/order_base.html:73
 msgid "Duplicate order"
-msgstr ""
+msgstr "Dublikuoti užsakymą"
 
 #: order/templates/order/order_base.html:79
 #: order/templates/order/order_base.html:80
@@ -5015,18 +5015,18 @@ msgstr ""
 #: order/templates/order/sales_order_base.html:84
 #: order/templates/order/sales_order_base.html:85
 msgid "Issue Order"
-msgstr ""
+msgstr "Išduoti užsakymą"
 
 #: order/templates/order/order_base.html:83
 #: order/templates/order/return_order_base.html:87
 msgid "Mark order as complete"
-msgstr ""
+msgstr "Pažymėti užsakymą kaip užbaigtą"
 
 #: order/templates/order/order_base.html:84
 #: order/templates/order/return_order_base.html:88
 #: order/templates/order/sales_order_base.html:94
 msgid "Complete Order"
-msgstr ""
+msgstr "Pilnas Užsakymas"
 
 #: order/templates/order/order_base.html:91
 msgid "Supplier part thumbnail"
@@ -5036,40 +5036,40 @@ msgstr ""
 #: order/templates/order/return_order_base.html:102
 #: order/templates/order/sales_order_base.html:107
 msgid "Order Reference"
-msgstr ""
+msgstr "Užsakymo nuoroda"
 
 #: order/templates/order/order_base.html:111
 #: order/templates/order/return_order_base.html:107
 #: order/templates/order/sales_order_base.html:112
 msgid "Order Description"
-msgstr ""
+msgstr "Užsakymo Aprašymas"
 
 #: order/templates/order/order_base.html:118
 #: order/templates/order/return_order_base.html:114
 #: order/templates/order/sales_order_base.html:119
 msgid "Order Status"
-msgstr ""
+msgstr "Užsakymo Būsena"
 
 #: order/templates/order/order_base.html:141
 msgid "No suppplier information available"
-msgstr ""
+msgstr "Nėra informacijos apie tiekėją"
 
 #: order/templates/order/order_base.html:154
 #: order/templates/order/sales_order_base.html:158
 msgid "Completed Line Items"
-msgstr ""
+msgstr "Įvykdytos Pozicijos"
 
 #: order/templates/order/order_base.html:160
 #: order/templates/order/sales_order_base.html:164
 #: order/templates/order/sales_order_base.html:174
 msgid "Incomplete"
-msgstr ""
+msgstr "Nebaigtas"
 
 #: order/templates/order/order_base.html:179
 #: order/templates/order/return_order_base.html:158
 #: report/templates/report/inventree_build_order_base.html:121
 msgid "Issued"
-msgstr ""
+msgstr "Išduota"
 
 #: order/templates/order/order_base.html:224
 msgid "Total cost"
@@ -5083,11 +5083,11 @@ msgstr "Negalima apskaičiuoti visos sumos"
 
 #: order/templates/order/order_base.html:318
 msgid "Purchase Order QR Code"
-msgstr ""
+msgstr "Pirkimo Užsakymo QR Kodas"
 
 #: order/templates/order/order_base.html:330
 msgid "Link Barcode to Purchase Order"
-msgstr ""
+msgstr "Brūkšninio Kodo Susiejimas Su Pirkimo Užsakymu"
 
 #: order/templates/order/order_wizard/match_fields.html:9
 #: part/templates/part/import_wizard/ajax_match_fields.html:9
@@ -5200,7 +5200,7 @@ msgstr ""
 
 #: order/templates/order/purchase_order_detail.html:18
 msgid "Purchase Order Items"
-msgstr ""
+msgstr "Pirkimo Užsakymo Pozicijos"
 
 #: order/templates/order/purchase_order_detail.html:27
 #: order/templates/order/return_order_detail.html:24
@@ -5209,36 +5209,36 @@ msgstr ""
 #: templates/js/translated/return_order.js:456
 #: templates/js/translated/sales_order.js:234
 msgid "Add Line Item"
-msgstr ""
+msgstr "Pridėti poziciją"
 
 #: order/templates/order/purchase_order_detail.html:31
 #: order/templates/order/purchase_order_detail.html:32
 #: order/templates/order/return_order_detail.html:28
 #: order/templates/order/return_order_detail.html:29
 msgid "Receive Line Items"
-msgstr ""
+msgstr "Gauti Pozicijas"
 
 #: order/templates/order/purchase_order_detail.html:50
 #: order/templates/order/return_order_detail.html:45
 #: order/templates/order/sales_order_detail.html:41
 msgid "Extra Lines"
-msgstr ""
+msgstr "Papildomos Eilutės"
 
 #: order/templates/order/purchase_order_detail.html:56
 #: order/templates/order/return_order_detail.html:51
 #: order/templates/order/sales_order_detail.html:47
 msgid "Add Extra Line"
-msgstr ""
+msgstr "Pridėta Papildomą Poziciją"
 
 #: order/templates/order/purchase_order_detail.html:74
 msgid "Received Items"
-msgstr ""
+msgstr "Gautos Pozicijos"
 
 #: order/templates/order/purchase_order_detail.html:99
 #: order/templates/order/return_order_detail.html:85
 #: order/templates/order/sales_order_detail.html:139
 msgid "Order Notes"
-msgstr ""
+msgstr "Užsakymų Užrašai"
 
 #: order/templates/order/return_order_base.html:18
 #: order/templates/order/sales_order_base.html:18
@@ -6761,17 +6761,17 @@ msgstr ""
 #: templates/js/translated/bom.js:309 templates/js/translated/bom.js:343
 #: templates/js/translated/order.js:129 templates/js/translated/tables.js:189
 msgid "Format"
-msgstr ""
+msgstr "Formatas"
 
 #: part/templates/part/import_wizard/part_upload.html:93
 #: templates/js/translated/bom.js:310 templates/js/translated/bom.js:344
 #: templates/js/translated/order.js:130
 msgid "Select file format"
-msgstr ""
+msgstr "Pasirinkti failo formatą"
 
 #: part/templates/part/part_app_base.html:12
 msgid "Part List"
-msgstr ""
+msgstr "Prekių Sąrašas"
 
 #: part/templates/part/part_base.html:27 part/templates/part/part_base.html:31
 msgid "You are subscribed to notifications for this part"
@@ -6785,7 +6785,7 @@ msgstr ""
 #: stock/templates/stock/item_base.html:63
 #: stock/templates/stock/location.html:73
 msgid "Print Label"
-msgstr ""
+msgstr "Spausdinti Etiketę"
 
 #: part/templates/part/part_base.html:60
 msgid "Show pricing information"
@@ -7508,7 +7508,7 @@ msgstr ""
 #: templates/js/translated/purchase_order.js:2090
 #: templates/js/translated/sales_order.js:1826
 msgid "Unit Price"
-msgstr ""
+msgstr "Vieneto Kaina"
 
 #: report/templates/report/inventree_po_report_base.html:55
 #: report/templates/report/inventree_return_order_report_base.html:48
@@ -7521,7 +7521,7 @@ msgstr ""
 #: templates/js/translated/purchase_order.js:1992
 #: templates/js/translated/sales_order.js:1801
 msgid "Total"
-msgstr ""
+msgstr "Viso"
 
 #: report/templates/report/inventree_return_order_report_base.html:25
 #: report/templates/report/inventree_test_report_base.html:88
@@ -10596,35 +10596,35 @@ msgstr ""
 
 #: templates/js/translated/filters.js:214
 msgid "Select filter"
-msgstr ""
+msgstr "Pasirinkti filtrą"
 
 #: templates/js/translated/filters.js:437
 msgid "Print Labels"
-msgstr ""
+msgstr "Spausdinti Etiketes"
 
 #: templates/js/translated/filters.js:441
 msgid "Print Reports"
-msgstr ""
+msgstr "Spausdinti Ataskaitas"
 
 #: templates/js/translated/filters.js:453
 msgid "Download table data"
-msgstr ""
+msgstr "Atsisiųsti lentelės duomenis"
 
 #: templates/js/translated/filters.js:460
 msgid "Reload table data"
-msgstr ""
+msgstr "Perkrauti lentelės duomenis"
 
 #: templates/js/translated/filters.js:469
 msgid "Add new filter"
-msgstr ""
+msgstr "Pridėti naują filtrą"
 
 #: templates/js/translated/filters.js:477
 msgid "Clear all filters"
-msgstr ""
+msgstr "Ištrinti visus filtrus"
 
 #: templates/js/translated/filters.js:582
 msgid "Create filter"
-msgstr ""
+msgstr "Sukurti filtrą"
 
 #: templates/js/translated/forms.js:369 templates/js/translated/forms.js:384
 #: templates/js/translated/forms.js:398 templates/js/translated/forms.js:412
@@ -11104,19 +11104,19 @@ msgstr ""
 #: templates/js/translated/part.js:1693
 #: templates/js/translated/purchase_order.js:1633
 msgid "No purchase orders found"
-msgstr ""
+msgstr "Pirkimo užsakymų nerasta"
 
 #: templates/js/translated/part.js:1836
 #: templates/js/translated/purchase_order.js:2128
 #: templates/js/translated/return_order.js:749
 #: templates/js/translated/sales_order.js:1864
 msgid "This line item is overdue"
-msgstr ""
+msgstr "Ši eilutė yra vėluojanti"
 
 #: templates/js/translated/part.js:1881
 #: templates/js/translated/purchase_order.js:2195
 msgid "Receive line item"
-msgstr ""
+msgstr "Gauti eilutės elementą"
 
 #: templates/js/translated/part.js:1944
 msgid "Delete part relationship"
@@ -11390,11 +11390,11 @@ msgstr ""
 #: templates/js/translated/purchase_order.js:531
 #: templates/js/translated/return_order.js:161
 msgid "After placing this order, line items will no longer be editable."
-msgstr ""
+msgstr "Pateikus šį užsakymą, eilučių pozicijų nebebus galima redaguoti."
 
 #: templates/js/translated/purchase_order.js:536
 msgid "Issue Purchase Order"
-msgstr ""
+msgstr "Išduoti Pirkimo Užsakymą"
 
 #: templates/js/translated/purchase_order.js:628
 msgid "At least one purchaseable part must be selected"
@@ -11523,45 +11523,45 @@ msgstr ""
 #: templates/js/translated/purchase_order.js:1891
 #: templates/js/translated/sales_order.js:2056
 msgid "Duplicate Line Item"
-msgstr ""
+msgstr "Dublikuoti poziciją"
 
 #: templates/js/translated/purchase_order.js:1906
 #: templates/js/translated/return_order.js:473
 #: templates/js/translated/return_order.js:662
 #: templates/js/translated/sales_order.js:2069
 msgid "Edit Line Item"
-msgstr ""
+msgstr "Redaguoti poziciją"
 
 #: templates/js/translated/purchase_order.js:1917
 #: templates/js/translated/return_order.js:675
 #: templates/js/translated/sales_order.js:2080
 msgid "Delete Line Item"
-msgstr ""
+msgstr "Ištrinti poziciją"
 
 #: templates/js/translated/purchase_order.js:2199
 #: templates/js/translated/sales_order.js:2010
 msgid "Duplicate line item"
-msgstr ""
+msgstr "Dublikuoti poziciją"
 
 #: templates/js/translated/purchase_order.js:2200
 #: templates/js/translated/return_order.js:794
 #: templates/js/translated/sales_order.js:2011
 msgid "Edit line item"
-msgstr ""
+msgstr "Redaguoti poziciją"
 
 #: templates/js/translated/purchase_order.js:2201
 #: templates/js/translated/return_order.js:798
 #: templates/js/translated/sales_order.js:2017
 msgid "Delete line item"
-msgstr ""
+msgstr "Ištrinti poziciją"
 
 #: templates/js/translated/report.js:63
 msgid "items selected"
-msgstr ""
+msgstr "pasirinktos pozicijos"
 
 #: templates/js/translated/report.js:71
 msgid "Select Report Template"
-msgstr ""
+msgstr "Pasirinkti Ataskaitos Šabloną"
 
 #: templates/js/translated/report.js:86
 msgid "Select Test Report Template"
@@ -11569,7 +11569,7 @@ msgstr ""
 
 #: templates/js/translated/report.js:140
 msgid "No Reports Found"
-msgstr ""
+msgstr "Ataskaitų Nerasta"
 
 #: templates/js/translated/report.js:141
 msgid "No report templates found which match the selected items"
@@ -11578,19 +11578,19 @@ msgstr ""
 #: templates/js/translated/return_order.js:60
 #: templates/js/translated/sales_order.js:86
 msgid "Add Customer"
-msgstr ""
+msgstr "Pridėti Klientą"
 
 #: templates/js/translated/return_order.js:131
 msgid "Create Return Order"
-msgstr ""
+msgstr "Sukurti Grąžinimo Užsakymą"
 
 #: templates/js/translated/return_order.js:146
 msgid "Edit Return Order"
-msgstr ""
+msgstr "Redaguoti Grąžinimo Užsakymą"
 
 #: templates/js/translated/return_order.js:166
 msgid "Issue Return Order"
-msgstr ""
+msgstr "Išduoti Grąžinimo Užsakymą"
 
 #: templates/js/translated/return_order.js:183
 msgid "Are you sure you wish to cancel this Return Order?"
@@ -11598,20 +11598,20 @@ msgstr ""
 
 #: templates/js/translated/return_order.js:190
 msgid "Cancel Return Order"
-msgstr ""
+msgstr "Atšaukti Grąžinimo Užsakymą"
 
 #: templates/js/translated/return_order.js:215
 msgid "Complete Return Order"
-msgstr ""
+msgstr "Užpildyti Grąžinimo Užsakymą"
 
 #: templates/js/translated/return_order.js:263
 msgid "No return orders found"
-msgstr ""
+msgstr "Grąžinimo užsakymų nerasta"
 
 #: templates/js/translated/return_order.js:297
 #: templates/js/translated/sales_order.js:785
 msgid "Invalid Customer"
-msgstr ""
+msgstr "Netinkamas Klientas"
 
 #: templates/js/translated/return_order.js:555
 msgid "Receive Return Order Items"
@@ -12274,52 +12274,52 @@ msgstr ""
 
 #: templates/js/translated/stock.js:3133
 msgid "Select part to install"
-msgstr ""
+msgstr "Pasirinkti prekę, kurią norima įdiegti"
 
 #: templates/js/translated/stock.js:3189
 msgid "Select one or more stock items"
-msgstr ""
+msgstr "Pasirinkti vieną ar kelias atsargų pozicijas"
 
 #: templates/js/translated/stock.js:3202
 msgid "Selected stock items"
-msgstr ""
+msgstr "Pasirinktos atsargų pozicijos"
 
 #: templates/js/translated/stock.js:3206
 msgid "Change Stock Status"
-msgstr ""
+msgstr "Pakeisti Atsargų Būseną"
 
 #: templates/js/translated/table_filters.js:50
 msgid "Has project code"
-msgstr ""
+msgstr "Turi projekto kodą"
 
 #: templates/js/translated/table_filters.js:65
 #: templates/js/translated/table_filters.js:540
 #: templates/js/translated/table_filters.js:552
 #: templates/js/translated/table_filters.js:593
 msgid "Order status"
-msgstr ""
+msgstr "Užsakymo būsena"
 
 #: templates/js/translated/table_filters.js:70
 #: templates/js/translated/table_filters.js:557
 #: templates/js/translated/table_filters.js:583
 #: templates/js/translated/table_filters.js:598
 msgid "Outstanding"
-msgstr ""
+msgstr "Laukiama"
 
 #: templates/js/translated/table_filters.js:78
 #: templates/js/translated/table_filters.js:464
 #: templates/js/translated/table_filters.js:565
 #: templates/js/translated/table_filters.js:606
 msgid "Assigned to me"
-msgstr ""
+msgstr "Priskirta man"
 
 #: templates/js/translated/table_filters.js:134
 msgid "Trackable Part"
-msgstr ""
+msgstr "Sekama Prekė"
 
 #: templates/js/translated/table_filters.js:138
 msgid "Assembled Part"
-msgstr ""
+msgstr "Surinkta Prekė"
 
 #: templates/js/translated/table_filters.js:142
 msgid "Has Available Stock"
@@ -12564,23 +12564,23 @@ msgstr ""
 
 #: templates/js/translated/tables.js:130
 msgid "Expand all rows"
-msgstr ""
+msgstr "Išskleisti visas eilutes"
 
 #: templates/js/translated/tables.js:136
 msgid "Collapse all rows"
-msgstr ""
+msgstr "Sutraukti visas eilutes"
 
 #: templates/js/translated/tables.js:186
 msgid "Export Table Data"
-msgstr ""
+msgstr "Eksportuoti Lentelės Duomenis"
 
 #: templates/js/translated/tables.js:190
 msgid "Select File Format"
-msgstr ""
+msgstr "Pasirinkti Failo Formatą"
 
 #: templates/js/translated/tables.js:529
 msgid "Loading data"
-msgstr ""
+msgstr "Duomenų įkėlimas"
 
 #: templates/js/translated/tables.js:532
 msgid "rows per page"
@@ -12588,7 +12588,7 @@ msgstr "eilutės per puslapį"
 
 #: templates/js/translated/tables.js:537
 msgid "Showing all rows"
-msgstr ""
+msgstr "Rodyti visas eilutes"
 
 #: templates/js/translated/tables.js:539
 msgid "Showing"
