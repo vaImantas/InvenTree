@@ -247,11 +247,11 @@ msgstr ""
 #: templates/js/translated/attachment.js:119
 #: templates/js/translated/attachment.js:326
 msgid "Attachment"
-msgstr ""
+msgstr "Priedas"
 
 #: InvenTree/models.py:487
 msgid "Select file to attach"
-msgstr ""
+msgstr "Pasirinkite failą, kurį norite pridėti"
 
 #: InvenTree/models.py:493 common/models.py:2749 company/models.py:128
 #: company/models.py:381 company/models.py:455 company/models.py:733
@@ -278,11 +278,11 @@ msgstr "Nuoroda į išorinį URL"
 #: InvenTree/models.py:497 templates/js/translated/attachment.js:120
 #: templates/js/translated/attachment.js:341
 msgid "Comment"
-msgstr ""
+msgstr "Komentaras"
 
 #: InvenTree/models.py:497
 msgid "File comment"
-msgstr ""
+msgstr "Failo komentaras"
 
 #: InvenTree/models.py:503 InvenTree/models.py:504 common/models.py:2208
 #: common/models.py:2209 common/models.py:2422 common/models.py:2423
@@ -292,11 +292,11 @@ msgstr ""
 #: report/templates/report/inventree_test_report_base.html:105
 #: templates/js/translated/stock.js:2941
 msgid "User"
-msgstr ""
+msgstr "Vartotojas"
 
 #: InvenTree/models.py:507
 msgid "upload date"
-msgstr ""
+msgstr "įkėlimo data"
 
 #: InvenTree/models.py:529
 msgid "Filename must not be empty"
@@ -388,7 +388,7 @@ msgstr "Aprašymas (nebūtinas)"
 
 #: InvenTree/models.py:664
 msgid "parent"
-msgstr ""
+msgstr "tėvas"
 
 #: InvenTree/models.py:671 InvenTree/models.py:672
 #: templates/js/translated/part.js:2764 templates/js/translated/stock.js:2673
@@ -791,35 +791,35 @@ msgstr ""
 
 #: InvenTree/status_codes.py:141 templates/js/translated/table_filters.js:327
 msgid "Sent to customer"
-msgstr ""
+msgstr "Išsiųsta klientui"
 
 #: InvenTree/status_codes.py:142
 msgid "Returned from customer"
-msgstr ""
+msgstr "Grąžinta iš kliento"
 
 #: InvenTree/status_codes.py:149
 msgid "Production"
-msgstr ""
+msgstr "Gamyba"
 
 #: InvenTree/status_codes.py:191
 msgid "Return"
-msgstr ""
+msgstr "Grąžinti"
 
 #: InvenTree/status_codes.py:194
 msgid "Repair"
-msgstr ""
+msgstr "Remontas"
 
 #: InvenTree/status_codes.py:197
 msgid "Replace"
-msgstr ""
+msgstr "Pakeisti"
 
 #: InvenTree/status_codes.py:200
 msgid "Refund"
-msgstr ""
+msgstr "Gražinimas"
 
 #: InvenTree/status_codes.py:203
 msgid "Reject"
-msgstr ""
+msgstr "Atmesti"
 
 #: InvenTree/validators.py:32 InvenTree/validators.py:34
 msgid "Invalid physical unit"
@@ -874,7 +874,7 @@ msgstr ""
 #: templates/js/translated/table_filters.js:166
 #: templates/js/translated/table_filters.js:518
 msgid "Consumable"
-msgstr ""
+msgstr "Vartojamas"
 
 #: build/api.py:287 part/models.py:3835 part/templates/part/upload_bom.html:58
 #: templates/js/translated/bom.js:989 templates/js/translated/bom.js:1016
@@ -883,19 +883,19 @@ msgstr ""
 #: templates/js/translated/table_filters.js:191
 #: templates/js/translated/table_filters.js:522
 msgid "Optional"
-msgstr ""
+msgstr "Neprivaloma"
 
 #: build/api.py:288 templates/js/translated/table_filters.js:360
 #: templates/js/translated/table_filters.js:514
 msgid "Tracked"
-msgstr ""
+msgstr "Sekamas"
 
 #: build/api.py:290 part/admin.py:64 templates/js/translated/build.js:1666
 #: templates/js/translated/build.js:2542
 #: templates/js/translated/sales_order.js:1915
 #: templates/js/translated/table_filters.js:506
 msgid "Allocated"
-msgstr ""
+msgstr "Priskirta"
 
 #: build/api.py:300 company/models.py:781
 #: company/templates/company/supplier_part.html:115
@@ -909,7 +909,7 @@ msgstr ""
 #: templates/js/translated/table_filters.js:292
 #: templates/js/translated/table_filters.js:510
 msgid "Available"
-msgstr ""
+msgstr "Prieinamas"
 
 #: build/models.py:73 build/templates/build/build_base.html:9
 #: build/templates/build/build_base.html:27
@@ -1017,7 +1017,7 @@ msgstr ""
 #: templates/js/translated/stock.js:2762 templates/js/translated/stock.js:2995
 #: templates/js/translated/stock.js:3132
 msgid "Part"
-msgstr "Detalė"
+msgstr "Prekė"
 
 #: build/models.py:193
 msgid "Select part to build"
@@ -1142,7 +1142,7 @@ msgstr ""
 #: stock/templates/stock/item_base.html:201
 #: templates/js/translated/company.js:1050
 msgid "External Link"
-msgstr ""
+msgstr "Išorinė nuoroda"
 
 #: build/models.py:299
 msgid "Build Priority"
@@ -1597,7 +1597,7 @@ msgstr ""
 
 #: build/templates/build/build_base.html:18
 msgid "Part thumbnail"
-msgstr ""
+msgstr "Prekės miniatiūra"
 
 #: build/templates/build/build_base.html:39
 #: company/templates/company/supplier_part.html:36
@@ -1609,7 +1609,7 @@ msgstr ""
 #: stock/templates/stock/location.html:54
 #: templates/js/translated/filters.js:335
 msgid "Barcode actions"
-msgstr ""
+msgstr "Brūkšninio kodo veiksmai"
 
 #: build/templates/build/build_base.html:43
 #: company/templates/company/supplier_part.html:40
@@ -1633,7 +1633,7 @@ msgstr "Rodyti QR Kodą"
 #: templates/js/translated/barcode.js:479
 #: templates/js/translated/barcode.js:484
 msgid "Unlink Barcode"
-msgstr ""
+msgstr "Atsieti Brūkšninį Kodą"
 
 #: build/templates/build/build_base.html:48
 #: company/templates/company/supplier_part.html:44
@@ -1644,14 +1644,14 @@ msgstr ""
 #: stock/templates/stock/item_base.html:50
 #: stock/templates/stock/location.html:60
 msgid "Link Barcode"
-msgstr ""
+msgstr "Susieti Brūkšninį Kodą"
 
 #: build/templates/build/build_base.html:57
 #: order/templates/order/order_base.html:46
 #: order/templates/order/return_order_base.html:56
 #: order/templates/order/sales_order_base.html:56
 msgid "Print actions"
-msgstr ""
+msgstr "Spausdinimo veiksmai"
 
 #: build/templates/build/build_base.html:61
 msgid "Print build order report"
@@ -1764,7 +1764,7 @@ msgstr "Pardavimo užsakymas"
 #: build/templates/build/detail.html:115
 #: report/templates/report/inventree_build_order_base.html:152
 msgid "Issued By"
-msgstr ""
+msgstr "Išdavė"
 
 #: build/templates/build/build_base.html:212
 #: build/templates/build/detail.html:94 templates/js/translated/build.js:2075
@@ -2276,7 +2276,7 @@ msgstr ""
 #: report/models.py:170 templates/js/translated/table_filters.js:115
 #: templates/js/translated/table_filters.js:702
 msgid "Template"
-msgstr ""
+msgstr "Šablonas"
 
 #: common/models.py:1217
 msgid "Parts are templates by default"
@@ -2287,7 +2287,7 @@ msgstr ""
 #: templates/js/translated/table_filters.js:282
 #: templates/js/translated/table_filters.js:656
 msgid "Assembly"
-msgstr ""
+msgstr "Surinkimas"
 
 #: common/models.py:1224
 msgid "Parts can be assembled from other components by default"
@@ -2296,7 +2296,7 @@ msgstr ""
 #: common/models.py:1230 part/admin.py:52 part/models.py:1006
 #: templates/js/translated/table_filters.js:664
 msgid "Component"
-msgstr ""
+msgstr "Komponentas"
 
 #: common/models.py:1231
 msgid "Parts can be used as sub-components by default"
@@ -2304,7 +2304,7 @@ msgstr ""
 
 #: common/models.py:1237 part/admin.py:53 part/models.py:1017
 msgid "Purchaseable"
-msgstr ""
+msgstr "Perkamas"
 
 #: common/models.py:1238
 msgid "Parts are purchaseable by default"
@@ -3401,7 +3401,7 @@ msgstr ""
 #: common/models.py:2744 templates/js/translated/company.js:996
 #: templates/js/translated/news.js:44
 msgid "Title"
-msgstr ""
+msgstr "Pavadinimas"
 
 #: common/models.py:2754 templates/js/translated/news.js:60
 msgid "Published"
@@ -3410,7 +3410,7 @@ msgstr ""
 #: common/models.py:2759 templates/InvenTree/settings/plugin_settings.html:32
 #: templates/js/translated/news.js:56 templates/js/translated/plugin.js:106
 msgid "Author"
-msgstr ""
+msgstr "Autorius"
 
 #: common/models.py:2764 templates/js/translated/news.js:52
 msgid "Summary"
@@ -3432,11 +3432,11 @@ msgstr ""
 #: templates/hover_image.html:7 templates/hover_image.html:9
 #: templates/modals.html:6
 msgid "Image"
-msgstr ""
+msgstr "Nuotrauka"
 
 #: common/models.py:2791
 msgid "Image file"
-msgstr ""
+msgstr "Nuotrauks failas"
 
 #: common/notifications.py:291
 #, python-brace-format
@@ -3587,7 +3587,7 @@ msgstr "Įmonė jau turi pirminį adresą"
 
 #: company/models.py:329
 msgid "Select company"
-msgstr "Pasirinkite kompaniją"
+msgstr "Pasirinkite įmonę"
 
 #: company/models.py:332
 msgid "Address title"
@@ -3599,7 +3599,7 @@ msgstr "Adreso aprašymas"
 
 #: company/models.py:337
 msgid "Primary address"
-msgstr ""
+msgstr "Pirminis adresas"
 
 #: company/models.py:338
 msgid "Set as primary address"
@@ -3676,7 +3676,7 @@ msgstr "Nuoroda į adreso informaciją (išorinė)"
 #: stock/serializers.py:204 stock/templates/stock/item_base.html:143
 #: templates/js/translated/bom.js:622
 msgid "Base Part"
-msgstr ""
+msgstr "Pagrindinė Dalis"
 
 #: company/models.py:431 company/models.py:706
 msgid "Select part"
@@ -3738,7 +3738,7 @@ msgstr ""
 #: templates/js/translated/company.js:1450 templates/js/translated/part.js:1469
 #: templates/js/translated/stock.js:1464
 msgid "Value"
-msgstr ""
+msgstr "Vertė"
 
 #: company/models.py:547
 msgid "Parameter value"
@@ -3887,25 +3887,25 @@ msgstr "Pirkimo užsakymas"
 
 #: company/templates/company/company_base.html:28
 msgid "Company actions"
-msgstr ""
+msgstr "Įmonės veiksmai"
 
 #: company/templates/company/company_base.html:33
 msgid "Edit company information"
-msgstr ""
+msgstr "Redaguoti įmonės informaciją"
 
 #: company/templates/company/company_base.html:34
 #: templates/js/translated/company.js:443
 msgid "Edit Company"
-msgstr ""
+msgstr "Redaguoti Įmonę"
 
 #: company/templates/company/company_base.html:38
 msgid "Delete company"
-msgstr ""
+msgstr "Ištrinti įmonę"
 
 #: company/templates/company/company_base.html:39
 #: company/templates/company/company_base.html:163
 msgid "Delete Company"
-msgstr ""
+msgstr "Ištrinti įmonę"
 
 #: company/templates/company/company_base.html:48
 #: company/templates/company/manufacturer_part.html:51
@@ -3917,22 +3917,22 @@ msgstr ""
 #: report/templates/report/inventree_test_report_base.html:84
 #: report/templates/report/inventree_test_report_base.html:163
 msgid "Part image"
-msgstr ""
+msgstr "Prekės nuotrauka"
 
 #: company/templates/company/company_base.html:56
 #: part/templates/part/part_thumb.html:12
 msgid "Upload new image"
-msgstr ""
+msgstr "Įkelti naują nuotrauką"
 
 #: company/templates/company/company_base.html:59
 #: part/templates/part/part_thumb.html:14
 msgid "Download image from URL"
-msgstr ""
+msgstr "Atsisiųsti nuotrauką iš URL"
 
 #: company/templates/company/company_base.html:61
 #: part/templates/part/part_thumb.html:16
 msgid "Delete image"
-msgstr ""
+msgstr "Ištrinti nuotrauką"
 
 #: company/templates/company/company_base.html:87 order/models.py:792
 #: order/models.py:1751 order/templates/order/return_order_base.html:132
@@ -3961,12 +3961,12 @@ msgstr "Adresas"
 
 #: company/templates/company/company_base.html:126
 msgid "Phone"
-msgstr ""
+msgstr "Telefonas"
 
 #: company/templates/company/company_base.html:206
 #: part/templates/part/part_base.html:530
 msgid "Remove Image"
-msgstr ""
+msgstr "Pašalinti Nuotrauką"
 
 #: company/templates/company/company_base.html:207
 msgid "Remove associated image from this company"
@@ -3977,38 +3977,38 @@ msgstr ""
 #: templates/InvenTree/settings/user.html:88
 #: templates/InvenTree/settings/user_sso.html:43
 msgid "Remove"
-msgstr ""
+msgstr "Pašalinti"
 
 #: company/templates/company/company_base.html:238
 #: part/templates/part/part_base.html:562
 msgid "Upload Image"
-msgstr ""
+msgstr "Įkelti Nuotrauką"
 
 #: company/templates/company/company_base.html:253
 #: part/templates/part/part_base.html:616
 msgid "Download Image"
-msgstr ""
+msgstr "Atsisiųsti Nuotrauką"
 
 #: company/templates/company/detail.html:15
 #: company/templates/company/manufacturer_part_sidebar.html:7
 #: templates/InvenTree/search.html:120 templates/js/translated/search.js:147
 msgid "Supplier Parts"
-msgstr ""
+msgstr "Tiekėjo Prekės"
 
 #: company/templates/company/detail.html:19
 msgid "Create new supplier part"
-msgstr ""
+msgstr "Sukurti naują tiekėjo prekę"
 
 #: company/templates/company/detail.html:20
 #: company/templates/company/manufacturer_part.html:123
 #: part/templates/part/detail.html:356
 msgid "New Supplier Part"
-msgstr ""
+msgstr "Nauja Tiekėjo Prekė"
 
 #: company/templates/company/detail.html:41 templates/InvenTree/search.html:105
 #: templates/js/translated/search.js:151
 msgid "Manufacturer Parts"
-msgstr ""
+msgstr "Gamintojo Prekės"
 
 #: company/templates/company/detail.html:45
 msgid "Create new manufacturer part"
@@ -4020,7 +4020,7 @@ msgstr "Nauja gamintojo detalė"
 
 #: company/templates/company/detail.html:65
 msgid "Supplier Stock"
-msgstr ""
+msgstr "Tiekėjo Atsargos"
 
 #: company/templates/company/detail.html:75
 #: company/templates/company/sidebar.html:12
@@ -4039,7 +4039,7 @@ msgstr "Užsakymai"
 #: company/templates/company/detail.html:79
 #: order/templates/order/purchase_orders.html:17
 msgid "Create new purchase order"
-msgstr ""
+msgstr "Sukurti naują pirkimo užsakymą"
 
 #: company/templates/company/detail.html:80
 #: order/templates/order/purchase_orders.html:18
@@ -4071,7 +4071,7 @@ msgstr "Naujas pardavimas"
 
 #: company/templates/company/detail.html:126
 msgid "Assigned Stock"
-msgstr ""
+msgstr "Priskirtos atsargos"
 
 #: company/templates/company/detail.html:142
 #: company/templates/company/sidebar.html:29
@@ -4096,7 +4096,7 @@ msgstr "Naujas užsakymo grąžinimas"
 
 #: company/templates/company/detail.html:168
 msgid "Company Notes"
-msgstr ""
+msgstr "Įmonės Užrašai"
 
 #: company/templates/company/detail.html:183
 msgid "Company Contacts"
@@ -4105,20 +4105,20 @@ msgstr "Įmonės kontaktai"
 #: company/templates/company/detail.html:187
 #: company/templates/company/detail.html:188
 msgid "Add Contact"
-msgstr ""
+msgstr "Pridėti Kontaktą"
 
 #: company/templates/company/detail.html:206
 msgid "Company addresses"
-msgstr ""
+msgstr "Įmonės adresai"
 
 #: company/templates/company/detail.html:210
 #: company/templates/company/detail.html:211
 msgid "Add Address"
-msgstr ""
+msgstr "Pridėti Adresą"
 
 #: company/templates/company/index.html:8
 msgid "Supplier List"
-msgstr ""
+msgstr "Tiekėjų Sąrašas"
 
 #: company/templates/company/manufacturer_part.html:15 company/views.py:38
 #: templates/InvenTree/search.html:180 templates/navbar.html:49
@@ -4144,7 +4144,7 @@ msgstr ""
 #: company/templates/company/manufacturer_part.html:65
 #: company/templates/company/supplier_part.html:98
 msgid "Internal Part"
-msgstr ""
+msgstr "Vidinė Prekė"
 
 #: company/templates/company/manufacturer_part.html:95
 msgid "No manufacturer information available"
@@ -4162,19 +4162,19 @@ msgstr "Tiekėjai"
 #: part/templates/part/category_sidebar.html:20
 #: part/templates/part/detail.html:195 part/templates/part/part_sidebar.html:8
 msgid "Parameters"
-msgstr ""
+msgstr "Parametrai"
 
 #: company/templates/company/manufacturer_part.html:160
 #: part/templates/part/detail.html:200
 #: templates/InvenTree/settings/category.html:12
 #: templates/InvenTree/settings/part_parameters.html:24
 msgid "New Parameter"
-msgstr ""
+msgstr "Naujas Parametras"
 
 #: company/templates/company/manufacturer_part.html:206
 #: templates/js/translated/part.js:1399
 msgid "Add Parameter"
-msgstr ""
+msgstr "Pridėti Parametrą"
 
 #: company/templates/company/sidebar.html:6
 msgid "Manufactured Parts"
@@ -4190,7 +4190,7 @@ msgstr "Tiekėjo atsargos"
 
 #: company/templates/company/sidebar.html:25
 msgid "Assigned Stock Items"
-msgstr ""
+msgstr "Priskirtos atsargų pozicijos"
 
 #: company/templates/company/sidebar.html:33
 msgid "Contacts"
@@ -4212,7 +4212,7 @@ msgstr "Tiekėjo Prekė"
 #: company/templates/company/supplier_part.html:51
 #: templates/js/translated/company.js:1557
 msgid "Supplier part actions"
-msgstr ""
+msgstr "Tiekėjo prekių veiksmai"
 
 #: company/templates/company/supplier_part.html:56
 #: company/templates/company/supplier_part.html:57
@@ -4224,27 +4224,27 @@ msgstr "Užsakymo Prekė"
 #: company/templates/company/supplier_part.html:61
 #: company/templates/company/supplier_part.html:62
 msgid "Update Availability"
-msgstr ""
+msgstr "Atnaujinti Prieinamumą"
 
 #: company/templates/company/supplier_part.html:64
 #: company/templates/company/supplier_part.html:65
 #: templates/js/translated/company.js:293
 msgid "Edit Supplier Part"
-msgstr ""
+msgstr "Redaguoti Tiekėjo Prekę"
 
 #: company/templates/company/supplier_part.html:69
 #: company/templates/company/supplier_part.html:70
 #: templates/js/translated/company.js:268
 msgid "Duplicate Supplier Part"
-msgstr ""
+msgstr "Dublikuoti Tiekėjo Prekę"
 
 #: company/templates/company/supplier_part.html:74
 msgid "Delete Supplier Part"
-msgstr ""
+msgstr "Ištrinti Tiekėjo Prekę"
 
 #: company/templates/company/supplier_part.html:75
 msgid "Delete Supplier  Part"
-msgstr ""
+msgstr "Ištrinti Tiekėjo Prekę"
 
 #: company/templates/company/supplier_part.html:134
 msgid "No supplier information available"
@@ -4252,7 +4252,7 @@ msgstr ""
 
 #: company/templates/company/supplier_part.html:207
 msgid "Supplier Part Stock"
-msgstr ""
+msgstr "Tiekėjo Prekių Atsargos"
 
 #: company/templates/company/supplier_part.html:210
 #: part/templates/part/detail.html:24 stock/templates/stock/location.html:198
@@ -4267,29 +4267,29 @@ msgstr "Nauja atsarginė detalė"
 
 #: company/templates/company/supplier_part.html:224
 msgid "Supplier Part Orders"
-msgstr ""
+msgstr "Tiekėjo Prekių Užsakymai"
 
 #: company/templates/company/supplier_part.html:247
 msgid "Pricing Information"
-msgstr ""
+msgstr "Kainų Informacija"
 
 #: company/templates/company/supplier_part.html:252
 #: templates/js/translated/company.js:397
 #: templates/js/translated/pricing.js:684
 msgid "Add Price Break"
-msgstr ""
+msgstr "Pridėti Kainų Skirtumą"
 
 #: company/templates/company/supplier_part.html:277
 msgid "Supplier Part QR Code"
-msgstr ""
+msgstr "Tiekėjo Prekės QR Kodas"
 
 #: company/templates/company/supplier_part.html:288
 msgid "Link Barcode to Supplier Part"
-msgstr ""
+msgstr "Susieti Brūkšninį Kodą su Tiekėjo Preke"
 
 #: company/templates/company/supplier_part.html:360
 msgid "Update Part Availability"
-msgstr ""
+msgstr "Atnaujinti Prekės Prieinamumą"
 
 #: company/templates/company/supplier_part_sidebar.html:5 part/stocktake.py:225
 #: part/templates/part/category.html:182
@@ -4306,7 +4306,7 @@ msgstr "Prekių likučiai"
 
 #: company/templates/company/supplier_part_sidebar.html:9
 msgid "Supplier Part Pricing"
-msgstr ""
+msgstr "Tiekėjo Prekių Kainos"
 
 #: company/views.py:33
 msgid "New Supplier"
@@ -4990,7 +4990,7 @@ msgstr "Eksportuoti užsakymą į failą"
 #: order/templates/order/return_order_base.html:73
 #: order/templates/order/sales_order_base.html:72
 msgid "Order actions"
-msgstr ""
+msgstr "Užsakymo veiksmai"
 
 #: order/templates/order/order_base.html:64
 #: order/templates/order/return_order_base.html:77
@@ -5192,11 +5192,11 @@ msgstr ""
 #: report/templates/report/inventree_return_order_report_base.html:19
 #: report/templates/report/inventree_so_report_base.html:22
 msgid "Line Items"
-msgstr ""
+msgstr "Eilučių Pozicijos"
 
 #: order/templates/order/po_sidebar.html:7
 msgid "Received Stock"
-msgstr ""
+msgstr "Gautos Atsargos"
 
 #: order/templates/order/purchase_order_detail.html:18
 msgid "Purchase Order Items"
@@ -5308,19 +5308,19 @@ msgstr ""
 #: order/templates/order/sales_order_detail.html:99
 #: order/templates/order/so_sidebar.html:11
 msgid "Completed Shipments"
-msgstr ""
+msgstr "Užbaigtos Siuntos"
 
 #: order/templates/order/sales_order_base.html:313
 msgid "Sales Order QR Code"
-msgstr ""
+msgstr "Pardavimo Užsakymo QR Kodas"
 
 #: order/templates/order/sales_order_base.html:325
 msgid "Link Barcode to Sales Order"
-msgstr ""
+msgstr "Susieti Brūkšninį Kodą Su Pardavimo Užsakymu"
 
 #: order/templates/order/sales_order_detail.html:18
 msgid "Sales Order Items"
-msgstr ""
+msgstr "Pardavimo Užsakymo Pozicijos"
 
 #: order/templates/order/sales_order_detail.html:67
 #: order/templates/order/so_sidebar.html:8 templates/InvenTree/index.html:284
@@ -5330,23 +5330,23 @@ msgstr "Laukiančios siuntos"
 #: order/templates/order/sales_order_detail.html:71
 #: templates/js/translated/bom.js:1254 templates/js/translated/filters.js:296
 msgid "Actions"
-msgstr ""
+msgstr "Veiksmai"
 
 #: order/templates/order/sales_order_detail.html:80
 msgid "New Shipment"
-msgstr ""
+msgstr "Nauja Siunta"
 
 #: order/views.py:120
 msgid "Match Supplier Parts"
-msgstr ""
+msgstr "Suderinti Tiekėjo Prekes"
 
 #: order/views.py:393
 msgid "Sales order not found"
-msgstr ""
+msgstr "Pardavimo užsakymas nerastas"
 
 #: order/views.py:399
 msgid "Price not found"
-msgstr ""
+msgstr "Kaina nerasta"
 
 #: order/views.py:402
 #, python-brace-format
@@ -5361,16 +5361,16 @@ msgstr ""
 #: part/admin.py:33 part/admin.py:273 part/models.py:3724 part/stocktake.py:220
 #: stock/admin.py:101
 msgid "Part ID"
-msgstr ""
+msgstr "Prekės ID"
 
 #: part/admin.py:34 part/admin.py:275 part/models.py:3728 part/stocktake.py:221
 #: stock/admin.py:102
 msgid "Part Name"
-msgstr ""
+msgstr "Prekės Pavadinimas"
 
 #: part/admin.py:35 part/stocktake.py:222
 msgid "Part Description"
-msgstr ""
+msgstr "Prekės Aprašymas"
 
 #: part/admin.py:36 part/models.py:893 part/templates/part/part_base.html:271
 #: report/templates/report/inventree_slr_report.html:103
@@ -5388,48 +5388,48 @@ msgstr "Revizija"
 #: part/admin.py:38 part/admin.py:198 part/models.py:879
 #: part/templates/part/category.html:93 part/templates/part/part_base.html:300
 msgid "Keywords"
-msgstr ""
+msgstr "Raktažodžiai"
 
 #: part/admin.py:42 part/admin.py:192 part/stocktake.py:223
 msgid "Category ID"
-msgstr ""
+msgstr "Kategorijos ID"
 
 #: part/admin.py:43 part/admin.py:193 part/stocktake.py:224
 msgid "Category Name"
-msgstr ""
+msgstr "Kategorijos Pavadinimas"
 
 #: part/admin.py:44 part/admin.py:197
 msgid "Default Location ID"
-msgstr ""
+msgstr "Standartinis Lokacijos ID"
 
 #: part/admin.py:45
 msgid "Default Supplier ID"
-msgstr ""
+msgstr "Standartinis Tiekėjo ID"
 
 #: part/admin.py:46 part/models.py:868 part/templates/part/part_base.html:179
 msgid "Variant Of"
-msgstr ""
+msgstr "Variantas Iš"
 
 #: part/admin.py:47 part/models.py:984 part/templates/part/part_base.html:205
 msgid "Minimum Stock"
-msgstr ""
+msgstr "Minimalios Atsargos"
 
 #: part/admin.py:61 part/templates/part/part_base.html:199
 #: templates/js/translated/company.js:1720
 #: templates/js/translated/table_filters.js:307
 msgid "In Stock"
-msgstr ""
+msgstr "Yra Sandėlyje"
 
 #: part/admin.py:62 part/bom.py:178 part/templates/part/part_base.html:212
 #: templates/js/translated/bom.js:1185 templates/js/translated/build.js:2534
 #: templates/js/translated/part.js:686 templates/js/translated/part.js:2123
 #: templates/js/translated/table_filters.js:146
 msgid "On Order"
-msgstr ""
+msgstr "Užsakyta"
 
 #: part/admin.py:63 part/templates/part/part_sidebar.html:27
 msgid "Used In"
-msgstr ""
+msgstr "Naudota"
 
 #: part/admin.py:65 part/templates/part/part_base.html:243 stock/admin.py:124
 #: templates/js/translated/part.js:691 templates/js/translated/part.js:2127
@@ -5525,16 +5525,16 @@ msgstr ""
 #: part/bom.py:175 part/models.py:128 part/models.py:927
 #: part/templates/part/category.html:115 part/templates/part/part_base.html:369
 msgid "Default Location"
-msgstr ""
+msgstr "Standartinė vieta"
 
 #: part/bom.py:176 templates/email/low_stock_notification.html:16
 msgid "Total Stock"
-msgstr ""
+msgstr "Viso Atsargų"
 
 #: part/bom.py:177 part/templates/part/part_base.html:194
 #: templates/js/translated/sales_order.js:1882
 msgid "Available Stock"
-msgstr ""
+msgstr "Turimos Atsargos"
 
 #: part/forms.py:48
 msgid "Input quantity for price calculation"
@@ -5543,13 +5543,13 @@ msgstr ""
 #: part/models.py:76 part/models.py:3673 part/templates/part/category.html:16
 #: part/templates/part/part_app_base.html:10
 msgid "Part Category"
-msgstr ""
+msgstr "Prekės Kategorija"
 
 #: part/models.py:77 part/templates/part/category.html:135
 #: templates/InvenTree/search.html:97 templates/js/translated/search.js:158
 #: users/models.py:37
 msgid "Part Categories"
-msgstr ""
+msgstr "Prekės Kategorijos"
 
 #: part/models.py:129
 msgid "Default location for parts in this category"
@@ -6600,7 +6600,7 @@ msgstr ""
 
 #: part/templates/part/detail.html:20
 msgid "Part Stock"
-msgstr ""
+msgstr "Prekės Atsargos"
 
 #: part/templates/part/detail.html:44
 msgid "Refresh scheduling data"
@@ -6609,7 +6609,7 @@ msgstr ""
 #: part/templates/part/detail.html:45 part/templates/part/prices.html:15
 #: templates/js/translated/tables.js:552
 msgid "Refresh"
-msgstr ""
+msgstr "Perkrauti"
 
 #: part/templates/part/detail.html:66
 msgid "Add stocktake information"
@@ -6636,27 +6636,27 @@ msgstr ""
 
 #: part/templates/part/detail.html:156
 msgid "Part Notes"
-msgstr ""
+msgstr "Prekės Užrašai"
 
 #: part/templates/part/detail.html:171
 msgid "Part Variants"
-msgstr ""
+msgstr "Prekės Variantai"
 
 #: part/templates/part/detail.html:175
 msgid "Create new variant"
-msgstr ""
+msgstr "Sukurti naują variantą"
 
 #: part/templates/part/detail.html:176
 msgid "New Variant"
-msgstr ""
+msgstr "Naujas Variantas"
 
 #: part/templates/part/detail.html:199
 msgid "Add new parameter"
-msgstr ""
+msgstr "Pridėti naują parametrą"
 
 #: part/templates/part/detail.html:232 part/templates/part/part_sidebar.html:58
 msgid "Related Parts"
-msgstr ""
+msgstr "Susijusios Prekės"
 
 #: part/templates/part/detail.html:236 part/templates/part/detail.html:237
 msgid "Add Related"
@@ -6669,7 +6669,7 @@ msgstr ""
 
 #: part/templates/part/detail.html:260
 msgid "Export actions"
-msgstr ""
+msgstr "Eksportuoti veiksmus"
 
 #: part/templates/part/detail.html:264 templates/js/translated/bom.js:340
 msgid "Export BOM"
@@ -6710,7 +6710,7 @@ msgstr ""
 
 #: part/templates/part/detail.html:352
 msgid "Part Suppliers"
-msgstr ""
+msgstr "Prekės Tiekėjai"
 
 #: part/templates/part/detail.html:372
 msgid "Part Manufacturers"
@@ -6718,11 +6718,11 @@ msgstr ""
 
 #: part/templates/part/detail.html:654
 msgid "Related Part"
-msgstr ""
+msgstr "Susijusios Prekės"
 
 #: part/templates/part/detail.html:662
 msgid "Add Related Part"
-msgstr ""
+msgstr "Pridėti Susijusias Prekės"
 
 #: part/templates/part/detail.html:747
 msgid "Add Test Result Template"
@@ -6735,15 +6735,15 @@ msgstr ""
 
 #: part/templates/part/import_wizard/part_upload.html:8
 msgid "Return to Parts"
-msgstr ""
+msgstr "Grįžti į Prekes"
 
 #: part/templates/part/import_wizard/part_upload.html:13
 msgid "Import Parts from File"
-msgstr ""
+msgstr "Importuoti Prekės iš Failo"
 
 #: part/templates/part/import_wizard/part_upload.html:31
 msgid "Requirements for part import"
-msgstr ""
+msgstr "Reikalavimai prekės importavimui"
 
 #: part/templates/part/import_wizard/part_upload.html:33
 msgid "The part import file must contain the required named columns as provided in the "
@@ -6789,17 +6789,17 @@ msgstr "Spausdinti Etiketę"
 
 #: part/templates/part/part_base.html:60
 msgid "Show pricing information"
-msgstr ""
+msgstr "Rodyti kainų informaciją"
 
 #: part/templates/part/part_base.html:65
 #: stock/templates/stock/item_base.html:111
 #: stock/templates/stock/location.html:82
 msgid "Stock actions"
-msgstr ""
+msgstr "Atsargų veiksmai"
 
 #: part/templates/part/part_base.html:72
 msgid "Count part stock"
-msgstr ""
+msgstr "Skaičiuoti prekės atsargas"
 
 #: part/templates/part/part_base.html:78
 msgid "Transfer part stock"
@@ -6807,19 +6807,19 @@ msgstr ""
 
 #: part/templates/part/part_base.html:93 templates/js/translated/part.js:2263
 msgid "Part actions"
-msgstr ""
+msgstr "Prekės veiksmai"
 
 #: part/templates/part/part_base.html:96
 msgid "Duplicate part"
-msgstr ""
+msgstr "Dublikuoti prekę"
 
 #: part/templates/part/part_base.html:99
 msgid "Edit part"
-msgstr ""
+msgstr "Redaguoti prekę"
 
 #: part/templates/part/part_base.html:102
 msgid "Delete part"
-msgstr ""
+msgstr "Ištrinti prekę"
 
 #: part/templates/part/part_base.html:121
 msgid "Part is a template part (variants can be made from this part)"
@@ -6847,7 +6847,7 @@ msgstr ""
 
 #: part/templates/part/part_base.html:147
 msgid "Part is not active"
-msgstr ""
+msgstr "Prekė nėra aktyvi"
 
 #: part/templates/part/part_base.html:148
 #: templates/js/translated/company.js:1318
@@ -6855,7 +6855,7 @@ msgstr ""
 #: templates/js/translated/model_renderers.js:291
 #: templates/js/translated/part.js:791 templates/js/translated/part.js:1195
 msgid "Inactive"
-msgstr ""
+msgstr "Neaktyvus"
 
 #: part/templates/part/part_base.html:155
 msgid "Part is virtual (not a physical part)"
@@ -6864,7 +6864,7 @@ msgstr ""
 #: part/templates/part/part_base.html:165
 #: part/templates/part/part_base.html:684
 msgid "Show Part Details"
-msgstr ""
+msgstr "Rodyti Informaciją Apie Prekę"
 
 #: part/templates/part/part_base.html:220
 #: stock/templates/stock/item_base.html:384
@@ -6878,11 +6878,11 @@ msgstr ""
 
 #: part/templates/part/part_base.html:237 templates/js/translated/bom.js:1196
 msgid "Can Build"
-msgstr ""
+msgstr "Gali Gaminti"
 
 #: part/templates/part/part_base.html:293
 msgid "Minimum stock level"
-msgstr ""
+msgstr "Minimalus atsargų lygis"
 
 #: part/templates/part/part_base.html:324 templates/js/translated/bom.js:1059
 #: templates/js/translated/part.js:1241 templates/js/translated/part.js:2414
@@ -6893,28 +6893,28 @@ msgstr "Kainų diapozonas"
 
 #: part/templates/part/part_base.html:354
 msgid "Latest Serial Number"
-msgstr ""
+msgstr "Naujausias Serijos Numeris"
 
 #: part/templates/part/part_base.html:358
 #: stock/templates/stock/item_base.html:323
 msgid "Search for serial number"
-msgstr ""
+msgstr "Ieškoti serijos numerio"
 
 #: part/templates/part/part_base.html:446
 msgid "Part QR Code"
-msgstr ""
+msgstr "Prekės QR Kodas"
 
 #: part/templates/part/part_base.html:463
 msgid "Link Barcode to Part"
-msgstr ""
+msgstr "Susieti Brūkšninį Kodą su Preke"
 
 #: part/templates/part/part_base.html:474 templates/js/translated/part.js:2257
 msgid "part"
-msgstr ""
+msgstr "prekė"
 
 #: part/templates/part/part_base.html:514
 msgid "Calculate"
-msgstr ""
+msgstr "Skaičiuoti"
 
 #: part/templates/part/part_base.html:531
 msgid "Remove associated image from this part"
@@ -6926,19 +6926,19 @@ msgstr ""
 
 #: part/templates/part/part_base.html:678
 msgid "Hide Part Details"
-msgstr ""
+msgstr "Paslėpti Prekės Informaciją"
 
 #: part/templates/part/part_pricing.html:22 part/templates/part/prices.html:73
 #: part/templates/part/prices.html:216 templates/js/translated/pricing.js:485
 msgid "Supplier Pricing"
-msgstr ""
+msgstr "Tiekėjo Kainos"
 
 #: part/templates/part/part_pricing.html:26
 #: part/templates/part/part_pricing.html:52
 #: part/templates/part/part_pricing.html:95
 #: part/templates/part/part_pricing.html:110
 msgid "Unit Cost"
-msgstr ""
+msgstr "Vieneto Savikaina"
 
 #: part/templates/part/part_pricing.html:40
 msgid "No supplier pricing available"
@@ -6951,11 +6951,11 @@ msgstr ""
 
 #: part/templates/part/part_pricing.html:66
 msgid "Unit Purchase Price"
-msgstr ""
+msgstr "Pirkimo Vieneto Kaina"
 
 #: part/templates/part/part_pricing.html:72
 msgid "Total Purchase Price"
-msgstr ""
+msgstr "Viso Pirkimo Kaina"
 
 #: part/templates/part/part_pricing.html:83
 msgid "No BOM pricing available"
@@ -6963,7 +6963,7 @@ msgstr ""
 
 #: part/templates/part/part_pricing.html:92
 msgid "Internal Price"
-msgstr ""
+msgstr "Vidinė Kaina"
 
 #: part/templates/part/part_pricing.html:123
 msgid "No pricing information is available for this part."
@@ -6975,7 +6975,7 @@ msgstr ""
 
 #: part/templates/part/part_sidebar.html:11
 msgid "Variants"
-msgstr ""
+msgstr "Variantai"
 
 #: part/templates/part/part_sidebar.html:14
 #: stock/templates/stock/loc_link.html:3 stock/templates/stock/location.html:24
@@ -7007,7 +7007,7 @@ msgstr ""
 
 #: part/templates/part/prices.html:11
 msgid "Pricing Overview"
-msgstr ""
+msgstr "Kainų Apžvalga"
 
 #: part/templates/part/prices.html:14
 msgid "Refresh Part Pricing"
@@ -7536,7 +7536,7 @@ msgstr "Viso"
 #: templates/js/translated/sales_order.js:1691
 #: templates/js/translated/stock.js:562
 msgid "Serial Number"
-msgstr ""
+msgstr "Serijos numeris"
 
 #: report/templates/report/inventree_slr_report.html:97
 msgid "Stock location items"
@@ -7639,7 +7639,7 @@ msgstr ""
 
 #: stock/admin.py:118
 msgid "Purchase Order ID"
-msgstr ""
+msgstr "Pirkimo Užsakymo ID"
 
 #: stock/admin.py:125
 msgid "Review Needed"
@@ -7657,11 +7657,11 @@ msgstr "Galiojimo pabaiga"
 
 #: stock/api.py:426 templates/js/translated/table_filters.js:379
 msgid "External Location"
-msgstr ""
+msgstr "Išorinė Vieta"
 
 #: stock/api.py:633
 msgid "Quantity is required"
-msgstr ""
+msgstr "Reikalingas kiekis"
 
 #: stock/api.py:640
 msgid "Valid part must be supplied"
@@ -7820,7 +7820,7 @@ msgstr "Galiojimo data prekėms. Prekės bus laikomos pasibaigusiomis po šios d
 
 #: stock/models.py:805
 msgid "Delete on deplete"
-msgstr ""
+msgstr "Ištrinti išeikvojus"
 
 #: stock/models.py:805
 msgid "Delete this Stock Item when stock is depleted"
@@ -8134,7 +8134,7 @@ msgstr ""
 #: stock/templates/stock/location.html:69
 #: templates/js/translated/filters.js:431
 msgid "Printing actions"
-msgstr ""
+msgstr "Spausdinimo veiksmai"
 
 #: stock/templates/stock/item_base.html:76
 msgid "Stock adjustment actions"
@@ -8143,35 +8143,35 @@ msgstr ""
 #: stock/templates/stock/item_base.html:80
 #: stock/templates/stock/location.html:89 templates/js/translated/stock.js:1754
 msgid "Count stock"
-msgstr ""
+msgstr "Skaičiuoti atsargas"
 
 #: stock/templates/stock/item_base.html:82
 #: templates/js/translated/stock.js:1736
 msgid "Add stock"
-msgstr ""
+msgstr "Pridėti atsargas"
 
 #: stock/templates/stock/item_base.html:83
 #: templates/js/translated/stock.js:1745
 msgid "Remove stock"
-msgstr ""
+msgstr "Pašalinti atsargas"
 
 #: stock/templates/stock/item_base.html:86
 msgid "Serialize stock"
-msgstr ""
+msgstr "Serializuoti atsargas"
 
 #: stock/templates/stock/item_base.html:89
 #: stock/templates/stock/location.html:95 templates/js/translated/stock.js:1763
 msgid "Transfer stock"
-msgstr ""
+msgstr "Atsargų perkėlimas"
 
 #: stock/templates/stock/item_base.html:92
 #: templates/js/translated/stock.js:1817
 msgid "Assign to customer"
-msgstr ""
+msgstr "Priskirti klientui"
 
 #: stock/templates/stock/item_base.html:95
 msgid "Return to stock"
-msgstr ""
+msgstr "Grįžti į atsargas"
 
 #: stock/templates/stock/item_base.html:98
 msgid "Uninstall stock item"
@@ -8292,7 +8292,7 @@ msgstr ""
 #: stock/templates/stock/item_base.html:433
 #: templates/js/translated/table_filters.js:387
 msgid "Expired"
-msgstr ""
+msgstr "Pasibaigęs"
 
 #: stock/templates/stock/item_base.html:435
 #, python-format
@@ -8302,7 +8302,7 @@ msgstr ""
 #: stock/templates/stock/item_base.html:435
 #: templates/js/translated/table_filters.js:393
 msgid "Stale"
-msgstr ""
+msgstr "Pasenęs"
 
 #: stock/templates/stock/item_base.html:451
 msgid "No stocktake performed"
@@ -8311,15 +8311,15 @@ msgstr ""
 #: stock/templates/stock/item_base.html:503
 #: templates/js/translated/stock.js:1884
 msgid "stock item"
-msgstr ""
+msgstr "atsargų pozicija"
 
 #: stock/templates/stock/item_base.html:528
 msgid "Edit Stock Status"
-msgstr ""
+msgstr "Redaguoti Atsargų Statusą"
 
 #: stock/templates/stock/item_base.html:537
 msgid "Stock Item QR Code"
-msgstr ""
+msgstr "Atsargų Pozicijos QR Kodas"
 
 #: stock/templates/stock/item_base.html:548
 msgid "Link Barcode to Stock Item"
@@ -8993,7 +8993,7 @@ msgstr ""
 
 #: templates/InvenTree/settings/stock.html:7
 msgid "Stock Settings"
-msgstr ""
+msgstr "Atsargų Nustatymai"
 
 #: templates/InvenTree/settings/user.html:13
 msgid "Account Settings"
@@ -9003,26 +9003,26 @@ msgstr "Paskyros nustatymai"
 #: templates/account/password_reset_from_key.html:4
 #: templates/account/password_reset_from_key.html:7
 msgid "Change Password"
-msgstr ""
+msgstr "Pakeisti Slaptažodį"
 
 #: templates/InvenTree/settings/user.html:24
 #: templates/js/translated/helpers.js:100
 #: templates/js/translated/pricing.js:628 templates/notes_buttons.html:3
 #: templates/notes_buttons.html:4
 msgid "Edit"
-msgstr ""
+msgstr "Redaguoti"
 
 #: templates/InvenTree/settings/user.html:33
 msgid "Username"
-msgstr ""
+msgstr "Vartotojas"
 
 #: templates/InvenTree/settings/user.html:37
 msgid "First Name"
-msgstr ""
+msgstr "Vardas"
 
 #: templates/InvenTree/settings/user.html:41
 msgid "Last Name"
-msgstr ""
+msgstr "Pavardė"
 
 #: templates/InvenTree/settings/user.html:55
 msgid "The following email addresses are associated with your account:"
@@ -9059,11 +9059,11 @@ msgstr ""
 
 #: templates/InvenTree/settings/user.html:105
 msgid "Add Email Address"
-msgstr ""
+msgstr "Pridėti El. paštą"
 
 #: templates/InvenTree/settings/user.html:110
 msgid "Add Email"
-msgstr ""
+msgstr "Pridėti El. paštą"
 
 #: templates/InvenTree/settings/user.html:120
 msgid "Multifactor"
@@ -9291,7 +9291,7 @@ msgstr ""
 #: templates/about.html:91 templates/clip.html:4
 #: templates/js/translated/helpers.js:585
 msgid "copy to clipboard"
-msgstr ""
+msgstr "kopijuoti į iškarpinę"
 
 #: templates/about.html:91
 msgid "copy version information"
@@ -9304,7 +9304,7 @@ msgstr ""
 #: templates/account/email_confirm.html:6
 #: templates/account/email_confirm.html:9
 msgid "Confirm Email Address"
-msgstr ""
+msgstr "Patvirtinti El. pašto adresą"
 
 #: templates/account/email_confirm.html:15
 #, python-format
@@ -9313,7 +9313,7 @@ msgstr ""
 
 #: templates/account/email_confirm.html:21 templates/js/translated/forms.js:726
 msgid "Confirm"
-msgstr ""
+msgstr "Patvirtinti"
 
 #: templates/account/email_confirm.html:29
 #, python-format
@@ -9323,7 +9323,7 @@ msgstr ""
 #: templates/account/login.html:6 templates/account/login.html:17
 #: templates/account/login.html:38 templates/socialaccount/login.html:5
 msgid "Sign In"
-msgstr ""
+msgstr "Prisijungti"
 
 #: templates/account/login.html:21
 msgid "Not a member?"
@@ -9333,24 +9333,24 @@ msgstr ""
 #: templates/account/signup.html:22 templates/socialaccount/signup.html:8
 #: templates/socialaccount/signup.html:20
 msgid "Sign Up"
-msgstr ""
+msgstr "Užsiregistruoti"
 
 #: templates/account/login.html:45
 msgid "Forgot Password?"
-msgstr ""
+msgstr "Pamiršote Slaptažodį?"
 
 #: templates/account/login.html:53
 msgid "or log in with"
-msgstr ""
+msgstr "arba prisijunkite su"
 
 #: templates/account/logout.html:5 templates/account/logout.html:8
 #: templates/account/logout.html:20
 msgid "Sign Out"
-msgstr ""
+msgstr "Atsijungti"
 
 #: templates/account/logout.html:10
 msgid "Are you sure you want to sign out?"
-msgstr ""
+msgstr "Ar tikrai norite atsijungti?"
 
 #: templates/account/logout.html:27 templates/allauth_2fa/backup_tokens.html:35
 #: templates/allauth_2fa/remove.html:24 templates/allauth_2fa/setup.html:44
@@ -9360,7 +9360,7 @@ msgstr ""
 #: templates/account/password_reset.html:5
 #: templates/account/password_reset.html:12
 msgid "Password Reset"
-msgstr ""
+msgstr "Slaptažodžio atkūrimas"
 
 #: templates/account/password_reset.html:18
 msgid "Forgotten your password? Enter your email address below, and we'll send you an email allowing you to reset it."
@@ -9481,11 +9481,11 @@ msgstr ""
 
 #: templates/attachment_button.html:4 templates/js/translated/attachment.js:70
 msgid "Add Link"
-msgstr ""
+msgstr "Pridėti Nuorodą"
 
 #: templates/attachment_button.html:7 templates/js/translated/attachment.js:48
 msgid "Add Attachment"
-msgstr ""
+msgstr "Pridėti Priedą"
 
 #: templates/barcode_data.html:5
 msgid "Barcode Identifier"
@@ -9615,39 +9615,39 @@ msgstr ""
 
 #: templates/js/translated/attachment.js:114
 msgid "All selected attachments will be deleted"
-msgstr ""
+msgstr "Visi pasirinkti priedai bus ištrinti"
 
 #: templates/js/translated/attachment.js:129
 msgid "Delete Attachments"
-msgstr ""
+msgstr "Ištrinti Priedus"
 
 #: templates/js/translated/attachment.js:205
 msgid "Delete attachments"
-msgstr ""
+msgstr "Ištrinti priedus"
 
 #: templates/js/translated/attachment.js:253
 msgid "Attachment actions"
-msgstr ""
+msgstr "Priedų veiksmai"
 
 #: templates/js/translated/attachment.js:275
 msgid "No attachments found"
-msgstr ""
+msgstr "Priedų nerasta"
 
 #: templates/js/translated/attachment.js:315
 msgid "Edit Attachment"
-msgstr ""
+msgstr "Redaguoti Priedą"
 
 #: templates/js/translated/attachment.js:346
 msgid "Upload Date"
-msgstr ""
+msgstr "Įkėlimo data"
 
 #: templates/js/translated/attachment.js:366
 msgid "Edit attachment"
-msgstr ""
+msgstr "Redaguoti priedą"
 
 #: templates/js/translated/attachment.js:374
 msgid "Delete attachment"
-msgstr ""
+msgstr "Ištrinti priedą"
 
 #: templates/js/translated/barcode.js:43
 msgid "Scan barcode data here using barcode scanner"
@@ -9655,7 +9655,7 @@ msgstr ""
 
 #: templates/js/translated/barcode.js:45
 msgid "Enter barcode data"
-msgstr ""
+msgstr "Įveskite brūkšninio kodo duomenis"
 
 #: templates/js/translated/barcode.js:59
 msgid "Scan barcode using connected webcam"
@@ -10332,7 +10332,7 @@ msgstr ""
 
 #: templates/js/translated/build.js:2576 templates/js/translated/stock.js:1798
 msgid "Order stock"
-msgstr ""
+msgstr "Atsargų užsakymas"
 
 #: templates/js/translated/build.js:2580
 #: templates/js/translated/sales_order.js:1996
@@ -10368,11 +10368,11 @@ msgstr "Pridėti tiekėjo detalę"
 
 #: templates/js/translated/company.js:343
 msgid "All selected supplier parts will be deleted"
-msgstr ""
+msgstr "Visos pasirinktos tiekėjo prekės bus ištrintos"
 
 #: templates/js/translated/company.js:359
 msgid "Delete Supplier Parts"
-msgstr ""
+msgstr "Ištrinti Tiekėjo Prekes"
 
 #: templates/js/translated/company.js:464
 msgid "Add new Company"
@@ -10388,33 +10388,33 @@ msgstr "Gaminamos dalys"
 
 #: templates/js/translated/company.js:559
 msgid "No company information found"
-msgstr ""
+msgstr "Įmonės informacijos nerasta"
 
 #: templates/js/translated/company.js:608
 msgid "Create New Contact"
-msgstr ""
+msgstr "Sukurti Naują kontaktą"
 
 #: templates/js/translated/company.js:624
 #: templates/js/translated/company.js:747
 msgid "Edit Contact"
-msgstr ""
+msgstr "Redaguoti Kontaktą"
 
 #: templates/js/translated/company.js:661
 msgid "All selected contacts will be deleted"
-msgstr ""
+msgstr "Visi pasirinkti kontaktai bus ištrinti"
 
 #: templates/js/translated/company.js:667
 #: templates/js/translated/company.js:731
 msgid "Role"
-msgstr ""
+msgstr "Rolė"
 
 #: templates/js/translated/company.js:675
 msgid "Delete Contacts"
-msgstr ""
+msgstr "Ištrinti Kontaktus"
 
 #: templates/js/translated/company.js:706
 msgid "No contacts found"
-msgstr ""
+msgstr "Kontaktų nerasta"
 
 #: templates/js/translated/company.js:719
 msgid "Phone Number"
@@ -10422,32 +10422,32 @@ msgstr "Tel. nr."
 
 #: templates/js/translated/company.js:725
 msgid "Email Address"
-msgstr ""
+msgstr "El. paštas"
 
 #: templates/js/translated/company.js:751
 msgid "Delete Contact"
-msgstr ""
+msgstr "Ištrinti Kontaktą"
 
 #: templates/js/translated/company.js:886
 msgid "Create New Address"
-msgstr ""
+msgstr "Sukurti Naują Adresą"
 
 #: templates/js/translated/company.js:901
 #: templates/js/translated/company.js:1066
 msgid "Edit Address"
-msgstr ""
+msgstr "Redaguoti Adresą"
 
 #: templates/js/translated/company.js:936
 msgid "All selected addresses will be deleted"
-msgstr ""
+msgstr "Visi pasirinkti adresai bus ištrinti"
 
 #: templates/js/translated/company.js:950
 msgid "Delete Addresses"
-msgstr ""
+msgstr "Ištrinti Adresus"
 
 #: templates/js/translated/company.js:977
 msgid "No addresses found"
-msgstr ""
+msgstr "Adresų nerasta"
 
 #: templates/js/translated/company.js:1020
 msgid "Postal city"
@@ -10455,19 +10455,19 @@ msgstr ""
 
 #: templates/js/translated/company.js:1026
 msgid "State/province"
-msgstr ""
+msgstr "Miestas"
 
 #: templates/js/translated/company.js:1038
 msgid "Courier notes"
-msgstr ""
+msgstr "Kurjerio užrašai"
 
 #: templates/js/translated/company.js:1044
 msgid "Internal notes"
-msgstr ""
+msgstr "Vidiniai užrašai"
 
 #: templates/js/translated/company.js:1070
 msgid "Delete Address"
-msgstr ""
+msgstr "Ištrinti Adresus"
 
 #: templates/js/translated/company.js:1143
 msgid "All selected manufacturer parts will be deleted"
@@ -10488,7 +10488,7 @@ msgstr ""
 #: templates/js/translated/company.js:1222
 #: templates/js/translated/company.js:1510 templates/js/translated/part.js:2214
 msgid "Order parts"
-msgstr ""
+msgstr "Užsakymo prekės"
 
 #: templates/js/translated/company.js:1239
 msgid "Delete manufacturer parts"
@@ -10512,65 +10512,65 @@ msgstr ""
 #: templates/js/translated/company.js:1602 templates/js/translated/part.js:779
 #: templates/js/translated/part.js:1191
 msgid "Assembled part"
-msgstr ""
+msgstr "Surinkta prekė"
 
 #: templates/js/translated/company.js:1434 templates/js/translated/part.js:1441
 msgid "No parameters found"
-msgstr ""
+msgstr "Parametrų nerasta"
 
 #: templates/js/translated/company.js:1469 templates/js/translated/part.js:1504
 msgid "Edit parameter"
-msgstr ""
+msgstr "Redaguoti parametrą"
 
 #: templates/js/translated/company.js:1470 templates/js/translated/part.js:1505
 msgid "Delete parameter"
-msgstr ""
+msgstr "Ištrinti parametrą"
 
 #: templates/js/translated/company.js:1487 templates/js/translated/part.js:1410
 msgid "Edit Parameter"
-msgstr ""
+msgstr "Redaguoti Parametrą"
 
 #: templates/js/translated/company.js:1496 templates/js/translated/part.js:1526
 msgid "Delete Parameter"
-msgstr ""
+msgstr "Ištrinti Parametrą"
 
 #: templates/js/translated/company.js:1527
 msgid "Delete supplier parts"
-msgstr ""
+msgstr "Ištrinti tiekėjo prekes"
 
 #: templates/js/translated/company.js:1577
 msgid "No supplier parts found"
-msgstr ""
+msgstr "Tiekėjo prekių nerasta"
 
 #: templates/js/translated/company.js:1695
 msgid "Base Units"
-msgstr ""
+msgstr "Baziniai vienetai"
 
 #: templates/js/translated/company.js:1725
 msgid "Availability"
-msgstr ""
+msgstr "Prieinamumas"
 
 #: templates/js/translated/company.js:1756
 msgid "Edit supplier part"
-msgstr ""
+msgstr "Redaguoti tiekėjo prekę"
 
 #: templates/js/translated/company.js:1757
 msgid "Delete supplier part"
-msgstr ""
+msgstr "Ištrinti tiekėjo prekę"
 
 #: templates/js/translated/company.js:1810
 #: templates/js/translated/pricing.js:694
 msgid "Delete Price Break"
-msgstr ""
+msgstr "Ištrinti kainų skirtumą"
 
 #: templates/js/translated/company.js:1820
 #: templates/js/translated/pricing.js:712
 msgid "Edit Price Break"
-msgstr ""
+msgstr "Redaguoti kainų skirtumą"
 
 #: templates/js/translated/company.js:1835
 msgid "No price break information found"
-msgstr ""
+msgstr "Informacijos apie kainų skirtumus nerasta"
 
 #: templates/js/translated/company.js:1864
 msgid "Last updated"
@@ -10578,11 +10578,11 @@ msgstr "Paskutinis atnaujinimas"
 
 #: templates/js/translated/company.js:1871
 msgid "Edit price break"
-msgstr ""
+msgstr "Redaguoti kainų skirtumą"
 
 #: templates/js/translated/company.js:1872
 msgid "Delete price break"
-msgstr ""
+msgstr "Ištrinti kainų skirtumą"
 
 #: templates/js/translated/filters.js:186
 #: templates/js/translated/filters.js:672
@@ -10668,35 +10668,35 @@ msgstr "Neužpildyti privalomi laukai"
 
 #: templates/js/translated/forms.js:1855
 msgid "No results found"
-msgstr ""
+msgstr "Rezultatų nerasta"
 
 #: templates/js/translated/forms.js:2071 templates/js/translated/search.js:239
 msgid "Searching"
-msgstr ""
+msgstr "Ieškoma"
 
 #: templates/js/translated/forms.js:2285
 msgid "Clear input"
-msgstr ""
+msgstr "Išvalyti įvestį"
 
 #: templates/js/translated/forms.js:2742
 msgid "File Column"
-msgstr ""
+msgstr "Failo Stulpelis"
 
 #: templates/js/translated/forms.js:2742
 msgid "Field Name"
-msgstr ""
+msgstr "Lauko Pavadinimas"
 
 #: templates/js/translated/forms.js:2754
 msgid "Select Columns"
-msgstr ""
+msgstr "Pasirinkti Stulpelius"
 
 #: templates/js/translated/helpers.js:77
 msgid "YES"
-msgstr ""
+msgstr "TAIP"
 
 #: templates/js/translated/helpers.js:80
 msgid "NO"
-msgstr ""
+msgstr "NE"
 
 #: templates/js/translated/helpers.js:93
 msgid "True"
@@ -10712,27 +10712,27 @@ msgstr ""
 
 #: templates/js/translated/index.js:130
 msgid "Allocated Stock"
-msgstr ""
+msgstr "Paskirstytos Atsargos"
 
 #: templates/js/translated/label.js:58
 msgid "Select Printer"
-msgstr ""
+msgstr "Pasirinkti Spausdintuvą"
 
 #: templates/js/translated/label.js:62
 msgid "Export to PDF"
-msgstr ""
+msgstr "Eksportuoti į PDF"
 
 #: templates/js/translated/label.js:114
 msgid "selected"
-msgstr ""
+msgstr "pasirinktas"
 
 #: templates/js/translated/label.js:122 templates/js/translated/label.js:139
 msgid "Select Label Template"
-msgstr ""
+msgstr "Pasirinkti Etiketės Šabloną"
 
 #: templates/js/translated/label.js:178 templates/js/translated/report.js:123
 msgid "Select Items"
-msgstr ""
+msgstr "Pasirinkti Pozicijas"
 
 #: templates/js/translated/label.js:179
 msgid "No items selected for printing"
@@ -10740,7 +10740,7 @@ msgstr ""
 
 #: templates/js/translated/label.js:195
 msgid "No Labels Found"
-msgstr ""
+msgstr "Etikečių Nerasta"
 
 #: templates/js/translated/label.js:196
 msgid "No label templates found which match the selected items"
@@ -10771,11 +10771,11 @@ msgstr "Laukiu serverio atsakymo"
 
 #: templates/js/translated/modals.js:590
 msgid "Show Error Information"
-msgstr ""
+msgstr "Rodyti Klaidos Informaciją"
 
 #: templates/js/translated/modals.js:676
 msgid "Accept"
-msgstr ""
+msgstr "Priimti"
 
 #: templates/js/translated/modals.js:734
 msgid "Loading Data"
@@ -10811,78 +10811,78 @@ msgstr ""
 
 #: templates/js/translated/news.js:33
 msgid "No news found"
-msgstr ""
+msgstr "Naujienų nerasta"
 
 #: templates/js/translated/news.js:38
 #: templates/js/translated/notification.js:45
 #: templates/js/translated/part.js:1581
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #: templates/js/translated/notification.js:51
 msgid "Age"
-msgstr ""
+msgstr "Amžius"
 
 #: templates/js/translated/notification.js:64
 msgid "Notification"
-msgstr ""
+msgstr "Pranešimas"
 
 #: templates/js/translated/notification.js:223
 msgid "Mark as unread"
-msgstr ""
+msgstr "Pažymėti kaip neperskaitytą"
 
 #: templates/js/translated/notification.js:227
 msgid "Mark as read"
-msgstr ""
+msgstr "Pažymėti kaip perskaitytą"
 
 #: templates/js/translated/notification.js:253
 msgid "No unread notifications"
-msgstr ""
+msgstr "Nėra neperskaitytų pranešimų"
 
 #: templates/js/translated/notification.js:295 templates/notifications.html:12
 msgid "Notifications will load here"
-msgstr ""
+msgstr "Pranešimai bus įkeliami čia"
 
 #: templates/js/translated/order.js:89
 msgid "Add Extra Line Item"
-msgstr ""
+msgstr "Pridėti Papildomą Poziciją"
 
 #: templates/js/translated/order.js:126
 msgid "Export Order"
-msgstr ""
+msgstr "Eksportuoti užsakymą"
 
 #: templates/js/translated/order.js:241
 msgid "Duplicate Line"
-msgstr ""
+msgstr "Dublikuoti Eilutę"
 
 #: templates/js/translated/order.js:255
 msgid "Edit Line"
-msgstr ""
+msgstr "Redaguoti Eilutę"
 
 #: templates/js/translated/order.js:268
 msgid "Delete Line"
-msgstr ""
+msgstr "Ištrinti Eilutę"
 
 #: templates/js/translated/order.js:281
 #: templates/js/translated/purchase_order.js:1965
 msgid "No line items found"
-msgstr ""
+msgstr "Nerasta jokių eilučių"
 
 #: templates/js/translated/order.js:369
 msgid "Duplicate line"
-msgstr ""
+msgstr "Dublikuoti Eilutę"
 
 #: templates/js/translated/order.js:370
 msgid "Edit line"
-msgstr ""
+msgstr "Redaguoti Eilutę"
 
 #: templates/js/translated/order.js:374
 msgid "Delete line"
-msgstr ""
+msgstr "Ištrinti Eilutę"
 
 #: templates/js/translated/part.js:90
 msgid "Part Attributes"
-msgstr ""
+msgstr "Prekės atributai"
 
 #: templates/js/translated/part.js:94
 msgid "Part Creation Options"
@@ -10894,11 +10894,11 @@ msgstr ""
 
 #: templates/js/translated/part.js:121
 msgid "Add Part Category"
-msgstr ""
+msgstr "Pridėti Prekės Kategoriją"
 
 #: templates/js/translated/part.js:293
 msgid "Parent part category"
-msgstr ""
+msgstr "Tėvinė prekės kategorija"
 
 #: templates/js/translated/part.js:309 templates/js/translated/stock.js:146
 msgid "Icon (optional) - Explore all available icons on"
@@ -10906,31 +10906,31 @@ msgstr ""
 
 #: templates/js/translated/part.js:329
 msgid "Create Part Category"
-msgstr ""
+msgstr "Sukurti Prekės Kategoriją"
 
 #: templates/js/translated/part.js:332
 msgid "Create new category after this one"
-msgstr ""
+msgstr "Sukurti naują kategoriją po šios"
 
 #: templates/js/translated/part.js:333
 msgid "Part category created"
-msgstr ""
+msgstr "Prekės kategorija sukurta"
 
 #: templates/js/translated/part.js:347
 msgid "Edit Part Category"
-msgstr ""
+msgstr "Redaguoti Prekės Kategoriją"
 
 #: templates/js/translated/part.js:360
 msgid "Are you sure you want to delete this part category?"
-msgstr ""
+msgstr "Ar tikrai norite ištrinti šios prekės kategoriją?"
 
 #: templates/js/translated/part.js:365
 msgid "Move to parent category"
-msgstr ""
+msgstr "Perkelti į tėvinę kategoriją"
 
 #: templates/js/translated/part.js:374
 msgid "Delete Part Category"
-msgstr ""
+msgstr "Ištrinti Prekės Kategoriją"
 
 #: templates/js/translated/part.js:378
 msgid "Action for parts in this category"
@@ -10942,39 +10942,39 @@ msgstr ""
 
 #: templates/js/translated/part.js:407
 msgid "Create Part"
-msgstr ""
+msgstr "Sukurti Prekę"
 
 #: templates/js/translated/part.js:409
 msgid "Create another part after this one"
-msgstr ""
+msgstr "Sukurti kitą prekę po šios"
 
 #: templates/js/translated/part.js:410
 msgid "Part created successfully"
-msgstr ""
+msgstr "Prekė sukurta sėkmingai"
 
 #: templates/js/translated/part.js:438
 msgid "Edit Part"
-msgstr ""
+msgstr "Redaguoti Prekę"
 
 #: templates/js/translated/part.js:440
 msgid "Part edited"
-msgstr ""
+msgstr "Prekė redaguota"
 
 #: templates/js/translated/part.js:451
 msgid "Create Part Variant"
-msgstr ""
+msgstr "Sukurti Prekės Variantą"
 
 #: templates/js/translated/part.js:508
 msgid "Active Part"
-msgstr ""
+msgstr "Aktyvi Prekė"
 
 #: templates/js/translated/part.js:509
 msgid "Part cannot be deleted as it is currently active"
-msgstr ""
+msgstr "Prekės ištrinti negalima, nes ji šiuo metu aktyvi"
 
 #: templates/js/translated/part.js:523
 msgid "Deleting this part cannot be reversed"
-msgstr ""
+msgstr "Šios prekės ištrynimo negalima atšaukti"
 
 #: templates/js/translated/part.js:525
 msgid "Any stock items for this part will be deleted"
@@ -10990,7 +10990,7 @@ msgstr ""
 
 #: templates/js/translated/part.js:534
 msgid "Delete Part"
-msgstr ""
+msgstr "Ištrinti Prekę"
 
 #: templates/js/translated/part.js:570
 msgid "You are subscribed to notifications for this item"
@@ -11031,27 +11031,27 @@ msgstr "Mažos atsargos"
 
 #: templates/js/translated/part.js:665
 msgid "No stock available"
-msgstr ""
+msgstr "Atsargų nėra"
 
 #: templates/js/translated/part.js:725
 msgid "Demand"
-msgstr ""
+msgstr "Paklausa"
 
 #: templates/js/translated/part.js:748
 msgid "Unit"
-msgstr ""
+msgstr "Vienetas"
 
 #: templates/js/translated/part.js:771 templates/js/translated/part.js:1183
 msgid "Virtual part"
-msgstr ""
+msgstr "Virtuali prekė"
 
 #: templates/js/translated/part.js:783
 msgid "Subscribed part"
-msgstr ""
+msgstr "Prenumeruota prekė"
 
 #: templates/js/translated/part.js:787
 msgid "Salable part"
-msgstr ""
+msgstr "Parduodama prekė"
 
 #: templates/js/translated/part.js:866
 msgid "Schedule generation of a new stocktake report."
@@ -11083,7 +11083,7 @@ msgstr ""
 
 #: templates/js/translated/part.js:1258
 msgid "No variants found"
-msgstr ""
+msgstr "Variantų nerasta"
 
 #: templates/js/translated/part.js:1576
 msgid "No part parameter templates found"
@@ -11120,11 +11120,11 @@ msgstr "Gauti eilutės elementą"
 
 #: templates/js/translated/part.js:1944
 msgid "Delete part relationship"
-msgstr ""
+msgstr "Ištrinti prekės ryšį"
 
 #: templates/js/translated/part.js:1966
 msgid "Delete Part Relationship"
-msgstr ""
+msgstr "Ištrinti Prekės Ryšį"
 
 #: templates/js/translated/part.js:2054 templates/js/translated/part.js:2476
 msgid "No parts found"
@@ -11132,7 +11132,7 @@ msgstr "Šios detalės nerastos"
 
 #: templates/js/translated/part.js:2175
 msgid "Set the part category for the selected parts"
-msgstr ""
+msgstr "Nustatyti prekės kategoriją pasirinktoms prekėms"
 
 #: templates/js/translated/part.js:2180
 msgid "Set Part Category"
@@ -11140,40 +11140,40 @@ msgstr "Pasirinkti detalės kategoriją"
 
 #: templates/js/translated/part.js:2205
 msgid "Set category"
-msgstr ""
+msgstr "Nustatyti kategoriją"
 
 #: templates/js/translated/part.js:2258
 msgid "parts"
-msgstr ""
+msgstr "prekės"
 
 #: templates/js/translated/part.js:2354
 msgid "No category"
-msgstr ""
+msgstr "Nėra kategorijos"
 
 #: templates/js/translated/part.js:2501 templates/js/translated/part.js:2631
 #: templates/js/translated/stock.js:2585
 msgid "Display as list"
-msgstr ""
+msgstr "Rodyti kaip sąrašą"
 
 #: templates/js/translated/part.js:2517
 msgid "Display as grid"
-msgstr ""
+msgstr "Rodyti kaip tinklelį"
 
 #: templates/js/translated/part.js:2615
 msgid "No subcategories found"
-msgstr ""
+msgstr "Subkategorijų nerasta"
 
 #: templates/js/translated/part.js:2651 templates/js/translated/stock.js:2605
 msgid "Display as tree"
-msgstr ""
+msgstr "Rodyti kaip medį"
 
 #: templates/js/translated/part.js:2731
 msgid "Load Subcategories"
-msgstr ""
+msgstr "Įkelti Subkategorijas"
 
 #: templates/js/translated/part.js:2747
 msgid "Subscribed category"
-msgstr ""
+msgstr "Prenumeruota kategorija"
 
 #: templates/js/translated/part.js:2824
 msgid "No test templates matching query"
@@ -11181,12 +11181,12 @@ msgstr ""
 
 #: templates/js/translated/part.js:2875 templates/js/translated/stock.js:1398
 msgid "Edit test result"
-msgstr ""
+msgstr "Redaguoti testinius rezultatus"
 
 #: templates/js/translated/part.js:2876 templates/js/translated/stock.js:1399
 #: templates/js/translated/stock.js:1661
 msgid "Delete test result"
-msgstr ""
+msgstr "Ištrinti testinius rezultatus"
 
 #: templates/js/translated/part.js:2880
 msgid "This test is defined for a parent part"
@@ -11202,7 +11202,7 @@ msgstr ""
 
 #: templates/js/translated/part.js:2989 templates/js/translated/part.js:2990
 msgid "No date specified"
-msgstr ""
+msgstr "Data nenurodyta"
 
 #: templates/js/translated/part.js:2992
 msgid "Specified date is in the past"
@@ -11226,63 +11226,63 @@ msgstr ""
 
 #: templates/js/translated/part.js:3166
 msgid "Maximum Quantity"
-msgstr ""
+msgstr "Didžiausias Kiekis"
 
 #: templates/js/translated/part.js:3211
 msgid "Minimum Stock Level"
-msgstr ""
+msgstr "Mažiausias Atsargų Lygis"
 
 #: templates/js/translated/plugin.js:45
 msgid "No plugins found"
-msgstr ""
+msgstr "Papildinių nerasta"
 
 #: templates/js/translated/plugin.js:54
 msgid "This plugin is active"
-msgstr ""
+msgstr "Šis papildinys yra aktyvus"
 
 #: templates/js/translated/plugin.js:56
 msgid "This plugin is not active"
-msgstr ""
+msgstr "Šis papildinys nėra aktyvus"
 
 #: templates/js/translated/plugin.js:62
 msgid "Plugin Description"
-msgstr ""
+msgstr "Papildinio Aprašymas"
 
 #: templates/js/translated/plugin.js:81
 msgid "Sample"
-msgstr ""
+msgstr "Pavyzdys"
 
 #: templates/js/translated/plugin.js:117 templates/js/translated/plugin.js:183
 msgid "Disable Plugin"
-msgstr ""
+msgstr "Išjungti Papildinį"
 
 #: templates/js/translated/plugin.js:119 templates/js/translated/plugin.js:183
 msgid "Enable Plugin"
-msgstr ""
+msgstr "Įjungti Papildinį"
 
 #: templates/js/translated/plugin.js:158
 msgid "The Plugin was installed"
-msgstr ""
+msgstr "Papildinys įdiegtas"
 
 #: templates/js/translated/plugin.js:174
 msgid "Are you sure you want to enable this plugin?"
-msgstr ""
+msgstr "Ar tikrai norite įjungti šį papildinį?"
 
 #: templates/js/translated/plugin.js:178
 msgid "Are you sure you want to disable this plugin?"
-msgstr ""
+msgstr "Ar tikrai norite išjungti šį papildinį?"
 
 #: templates/js/translated/plugin.js:186
 msgid "Enable"
-msgstr ""
+msgstr "Įjungti"
 
 #: templates/js/translated/plugin.js:186
 msgid "Disable"
-msgstr ""
+msgstr "Išjungti"
 
 #: templates/js/translated/plugin.js:200
 msgid "Plugin updated"
-msgstr ""
+msgstr "Papildinys atnaujintas"
 
 #: templates/js/translated/pricing.js:159
 msgid "Error fetching currency data"
@@ -11294,39 +11294,39 @@ msgstr ""
 
 #: templates/js/translated/pricing.js:463
 msgid "No supplier pricing data available"
-msgstr ""
+msgstr "Nėra duomenų apie tiekėjų kainas"
 
 #: templates/js/translated/pricing.js:572
 msgid "No price break data available"
-msgstr ""
+msgstr "Nėra duomenų apie kainų skirtumus"
 
 #: templates/js/translated/pricing.js:755
 msgid "No purchase history data available"
-msgstr ""
+msgstr "Pirkimo istorijos duomenų nėra"
 
 #: templates/js/translated/pricing.js:777
 msgid "Purchase Price History"
-msgstr ""
+msgstr "Pirkimo Kainos Istorija"
 
 #: templates/js/translated/pricing.js:880
 msgid "No sales history data available"
-msgstr ""
+msgstr "Pardavimo istorijos duomenų nėra"
 
 #: templates/js/translated/pricing.js:902
 msgid "Sale Price History"
-msgstr ""
+msgstr "Pardavimo Kainų Istorija"
 
 #: templates/js/translated/pricing.js:991
 msgid "No variant data available"
-msgstr ""
+msgstr "Nėra duomenų apie variantus"
 
 #: templates/js/translated/pricing.js:1031
 msgid "Variant Part"
-msgstr ""
+msgstr "Varianto Prekė"
 
 #: templates/js/translated/purchase_order.js:166
 msgid "Select purchase order to duplicate"
-msgstr ""
+msgstr "Pasirinkite pirkimo užsakymą, kurį norite dublikuoti"
 
 #: templates/js/translated/purchase_order.js:173
 msgid "Duplicate Line Items"
@@ -11338,54 +11338,54 @@ msgstr ""
 
 #: templates/js/translated/purchase_order.js:181
 msgid "Duplicate Extra Lines"
-msgstr ""
+msgstr "Dublikuoti Papildomas Eilutes"
 
 #: templates/js/translated/purchase_order.js:182
 msgid "Duplicate extra line items from the selected order"
-msgstr ""
+msgstr "Dublikuoti papildomas eilutes iš pasirinkto užsakymo"
 
 #: templates/js/translated/purchase_order.js:203
 msgid "Edit Purchase Order"
-msgstr ""
+msgstr "Redaguoti Pirkimo Užsakymą"
 
 #: templates/js/translated/purchase_order.js:220
 msgid "Duplication Options"
-msgstr ""
+msgstr "Dublikuoti Pasirinkimus"
 
 #: templates/js/translated/purchase_order.js:447
 msgid "Complete Purchase Order"
-msgstr ""
+msgstr "Užpildykite Pirkimo Užsakymą"
 
 #: templates/js/translated/purchase_order.js:464
 #: templates/js/translated/return_order.js:207
 #: templates/js/translated/sales_order.js:497
 msgid "Mark this order as complete?"
-msgstr ""
+msgstr "Pažymėti šį užsakymą kaip įvykdytą?"
 
 #: templates/js/translated/purchase_order.js:470
 msgid "All line items have been received"
-msgstr ""
+msgstr "Visos eilučių pozicijos buvo gautos"
 
 #: templates/js/translated/purchase_order.js:475
 msgid "This order has line items which have not been marked as received."
-msgstr ""
+msgstr "Šis užsakymas turi eilučių pozicijų, kurios nebuvo pažymėtos kaip gautos"
 
 #: templates/js/translated/purchase_order.js:476
 #: templates/js/translated/sales_order.js:511
 msgid "Completing this order means that the order and line items will no longer be editable."
-msgstr ""
+msgstr "Šio užsakymo užbaigimas reiškia, kad užsakymo ir eilučių pozicijų nebebus galima redaguoti."
 
 #: templates/js/translated/purchase_order.js:499
 msgid "Cancel Purchase Order"
-msgstr ""
+msgstr "Atšaukti Pirkimo Užsakymą"
 
 #: templates/js/translated/purchase_order.js:504
 msgid "Are you sure you wish to cancel this purchase order?"
-msgstr ""
+msgstr "Ar tikrai norite atšaukti šį pirkimo užsakymą?"
 
 #: templates/js/translated/purchase_order.js:510
 msgid "This purchase order can not be cancelled"
-msgstr ""
+msgstr "Šis pirkimo užsakymas negali buti atšauktas"
 
 #: templates/js/translated/purchase_order.js:531
 #: templates/js/translated/return_order.js:161
@@ -11398,89 +11398,89 @@ msgstr "Išduoti Pirkimo Užsakymą"
 
 #: templates/js/translated/purchase_order.js:628
 msgid "At least one purchaseable part must be selected"
-msgstr ""
+msgstr "Turi būti pasirinkta bent viena perkama prekė"
 
 #: templates/js/translated/purchase_order.js:653
 msgid "Quantity to order"
-msgstr ""
+msgstr "Kiekis užsakymui"
 
 #: templates/js/translated/purchase_order.js:662
 msgid "New supplier part"
-msgstr ""
+msgstr "Nauja tiekėjo prekė"
 
 #: templates/js/translated/purchase_order.js:680
 msgid "New purchase order"
-msgstr ""
+msgstr "Naujas pirkimo užsakymas"
 
 #: templates/js/translated/purchase_order.js:712
 msgid "Add to purchase order"
-msgstr ""
+msgstr "Pridėti į pirkimo užsakymą"
 
 #: templates/js/translated/purchase_order.js:860
 msgid "No matching supplier parts"
-msgstr ""
+msgstr "Nėra atitinkamų tiekėjo prekių"
 
 #: templates/js/translated/purchase_order.js:879
 msgid "No matching purchase orders"
-msgstr ""
+msgstr "Nėra atitinkamų pirkimo užsakymų"
 
 #: templates/js/translated/purchase_order.js:1058
 msgid "Select Line Items"
-msgstr ""
+msgstr "Pasirinkti Eilučių Pozicijas"
 
 #: templates/js/translated/purchase_order.js:1059
 #: templates/js/translated/return_order.js:489
 msgid "At least one line item must be selected"
-msgstr ""
+msgstr "Turi būti pasirinkta bent viena eilutės pozicija"
 
 #: templates/js/translated/purchase_order.js:1089
 msgid "Received Quantity"
-msgstr ""
+msgstr "Gautas Kiekis"
 
 #: templates/js/translated/purchase_order.js:1100
 msgid "Quantity to receive"
-msgstr ""
+msgstr "Gautinas kiekis"
 
 #: templates/js/translated/purchase_order.js:1176
 msgid "Stock Status"
-msgstr ""
+msgstr "Atsargų Būsena"
 
 #: templates/js/translated/purchase_order.js:1190
 msgid "Add barcode"
-msgstr ""
+msgstr "Pridėti brūkšninį kodą"
 
 #: templates/js/translated/purchase_order.js:1191
 msgid "Remove barcode"
-msgstr ""
+msgstr "Ištrinti brūkšninį kodą"
 
 #: templates/js/translated/purchase_order.js:1194
 msgid "Specify location"
-msgstr ""
+msgstr "Nurodyti vietą"
 
 #: templates/js/translated/purchase_order.js:1202
 msgid "Add batch code"
-msgstr ""
+msgstr "Pridėti partijos kodą"
 
 #: templates/js/translated/purchase_order.js:1213
 msgid "Add serial numbers"
-msgstr ""
+msgstr "Pridėti serijos numerį"
 
 #: templates/js/translated/purchase_order.js:1265
 msgid "Serials"
-msgstr ""
+msgstr "Serijos"
 
 #: templates/js/translated/purchase_order.js:1290
 msgid "Order Code"
-msgstr ""
+msgstr "Užsakymo Kodas"
 
 #: templates/js/translated/purchase_order.js:1292
 msgid "Quantity to Receive"
-msgstr ""
+msgstr "Gautinas Kiekis"
 
 #: templates/js/translated/purchase_order.js:1314
 #: templates/js/translated/return_order.js:554
 msgid "Confirm receipt of items"
-msgstr ""
+msgstr "Patvirtinkite daiktų gavimą"
 
 #: templates/js/translated/purchase_order.js:1315
 msgid "Receive Purchase Order Items"
@@ -11488,7 +11488,7 @@ msgstr ""
 
 #: templates/js/translated/purchase_order.js:1383
 msgid "Scan Item Barcode"
-msgstr ""
+msgstr "Nuskaityti Pozicijos Brūkšninį kodą"
 
 #: templates/js/translated/purchase_order.js:1384
 msgid "Scan barcode on incoming item (must not match any existing stock items)"
@@ -11496,29 +11496,29 @@ msgstr ""
 
 #: templates/js/translated/purchase_order.js:1398
 msgid "Invalid barcode data"
-msgstr ""
+msgstr "Neteisingi brūkšninio kodo duomenys"
 
 #: templates/js/translated/purchase_order.js:1660
 #: templates/js/translated/return_order.js:283
 #: templates/js/translated/sales_order.js:771
 #: templates/js/translated/sales_order.js:995
 msgid "Order is overdue"
-msgstr ""
+msgstr "Užsakymas vėluoja"
 
 #: templates/js/translated/purchase_order.js:1722
 #: templates/js/translated/return_order.js:351
 #: templates/js/translated/sales_order.js:848
 #: templates/js/translated/sales_order.js:1008
 msgid "Items"
-msgstr "Daiktai"
+msgstr "Pozicijos"
 
 #: templates/js/translated/purchase_order.js:1818
 msgid "All selected Line items will be deleted"
-msgstr ""
+msgstr "Visos pasirinktos eilutės pozicijos bus ištrintos"
 
 #: templates/js/translated/purchase_order.js:1836
 msgid "Delete selected Line items?"
-msgstr ""
+msgstr "Ištrinti pasirinktas eilutės pozicijas?"
 
 #: templates/js/translated/purchase_order.js:1891
 #: templates/js/translated/sales_order.js:2056
@@ -11594,7 +11594,7 @@ msgstr "Išduoti Grąžinimo Užsakymą"
 
 #: templates/js/translated/return_order.js:183
 msgid "Are you sure you wish to cancel this Return Order?"
-msgstr ""
+msgstr "Ar tikrai norite atšaukti šį grąžinimo užsakymą?"
 
 #: templates/js/translated/return_order.js:190
 msgid "Cancel Return Order"
@@ -11615,7 +11615,7 @@ msgstr "Netinkamas Klientas"
 
 #: templates/js/translated/return_order.js:555
 msgid "Receive Return Order Items"
-msgstr ""
+msgstr "Gauti Grąžintinus Užsakymo Pozicijas"
 
 #: templates/js/translated/return_order.js:686
 #: templates/js/translated/sales_order.js:2216
@@ -11624,15 +11624,15 @@ msgstr ""
 
 #: templates/js/translated/return_order.js:791
 msgid "Mark item as received"
-msgstr ""
+msgstr "Pažymėti poziciją kaip gauta"
 
 #: templates/js/translated/sales_order.js:158
 msgid "Create Sales Order"
-msgstr ""
+msgstr "Sukurti Pardavimo Užsakymą"
 
 #: templates/js/translated/sales_order.js:173
 msgid "Edit Sales Order"
-msgstr ""
+msgstr "Redaguoti Pardavimo Užsakymą"
 
 #: templates/js/translated/sales_order.js:288
 msgid "No stock items have been allocated to this shipment"
@@ -11644,11 +11644,11 @@ msgstr ""
 
 #: templates/js/translated/sales_order.js:333
 msgid "Complete Shipment"
-msgstr ""
+msgstr "Užbaigti Siuntą"
 
 #: templates/js/translated/sales_order.js:357
 msgid "Confirm Shipment"
-msgstr ""
+msgstr "Patvirtinti Siuntą"
 
 #: templates/js/translated/sales_order.js:413
 msgid "No pending shipments found"
@@ -11660,11 +11660,11 @@ msgstr ""
 
 #: templates/js/translated/sales_order.js:427
 msgid "Complete Shipments"
-msgstr ""
+msgstr "Užbaigti Siuntą"
 
 #: templates/js/translated/sales_order.js:449
 msgid "Skip"
-msgstr ""
+msgstr "Praleisti"
 
 #: templates/js/translated/sales_order.js:510
 msgid "This order has line items which have not been completed."
@@ -11672,15 +11672,15 @@ msgstr ""
 
 #: templates/js/translated/sales_order.js:532
 msgid "Issue this Sales Order?"
-msgstr ""
+msgstr "Išduoti šį pardavimo užsakymą?"
 
 #: templates/js/translated/sales_order.js:537
 msgid "Issue Sales Order"
-msgstr ""
+msgstr "Išduoti Pardavimo Užsakymą"
 
 #: templates/js/translated/sales_order.js:556
 msgid "Cancel Sales Order"
-msgstr ""
+msgstr "Atšaukti Pardavimo Užsakymą"
 
 #: templates/js/translated/sales_order.js:561
 msgid "Cancelling this order means that the order will no longer be editable."
@@ -11688,7 +11688,7 @@ msgstr ""
 
 #: templates/js/translated/sales_order.js:615
 msgid "Create New Shipment"
-msgstr ""
+msgstr "Sukurti Naują Siuntą"
 
 #: templates/js/translated/sales_order.js:725
 msgid "No sales orders found"
@@ -11696,27 +11696,27 @@ msgstr ""
 
 #: templates/js/translated/sales_order.js:905
 msgid "Edit shipment"
-msgstr ""
+msgstr "Redaguoti siuntą"
 
 #: templates/js/translated/sales_order.js:908
 msgid "Complete shipment"
-msgstr ""
+msgstr "Užbaigti Siuntą"
 
 #: templates/js/translated/sales_order.js:913
 msgid "Delete shipment"
-msgstr ""
+msgstr "Ištrinti Siuntą"
 
 #: templates/js/translated/sales_order.js:930
 msgid "Edit Shipment"
-msgstr ""
+msgstr "Redaguoti Siuntą"
 
 #: templates/js/translated/sales_order.js:945
 msgid "Delete Shipment"
-msgstr ""
+msgstr "Ištrinti Siuntą"
 
 #: templates/js/translated/sales_order.js:978
 msgid "No matching shipments found"
-msgstr ""
+msgstr "Nerasta tinkamų siuntų"
 
 #: templates/js/translated/sales_order.js:1003
 msgid "Shipment Reference"
@@ -11737,7 +11737,7 @@ msgstr "Sąskaita faktūra"
 
 #: templates/js/translated/sales_order.js:1216
 msgid "Add Shipment"
-msgstr ""
+msgstr "Pridėti Siuntą"
 
 #: templates/js/translated/sales_order.js:1267
 msgid "Confirm stock allocation"
@@ -11767,7 +11767,7 @@ msgstr ""
 #: templates/js/translated/sales_order.js:1705
 #: templates/js/translated/stock.js:1706
 msgid "Shipped to customer"
-msgstr ""
+msgstr "Išsiųsta klientui"
 
 #: templates/js/translated/sales_order.js:1626
 #: templates/js/translated/sales_order.js:1714
@@ -11785,7 +11785,7 @@ msgstr ""
 #: templates/js/translated/sales_order.js:2007
 #: templates/js/translated/sales_order.js:2194
 msgid "Calculate price"
-msgstr ""
+msgstr "Apskaičiuoti kainą"
 
 #: templates/js/translated/sales_order.js:2021
 msgid "Cannot be deleted as items have been shipped"
@@ -11801,31 +11801,31 @@ msgstr ""
 
 #: templates/js/translated/sales_order.js:2202
 msgid "Update Unit Price"
-msgstr ""
+msgstr "Atnaujinti Vieneto Kainą"
 
 #: templates/js/translated/search.js:270
 msgid "No results"
-msgstr ""
+msgstr "Nėra rezultatų"
 
 #: templates/js/translated/search.js:292 templates/search.html:25
 msgid "Enter search query"
-msgstr ""
+msgstr "Įvesti paieškos užklausą"
 
 #: templates/js/translated/search.js:342
 msgid "result"
-msgstr ""
+msgstr "rezultatas"
 
 #: templates/js/translated/search.js:342
 msgid "results"
-msgstr ""
+msgstr "rezultatai"
 
 #: templates/js/translated/search.js:352
 msgid "Minimize results"
-msgstr ""
+msgstr "Minimizuoti rezultatus"
 
 #: templates/js/translated/search.js:355
 msgid "Remove results"
-msgstr ""
+msgstr "Ištrinti rezultatus"
 
 #: templates/js/translated/stock.js:97
 msgid "Serialize Stock Item"
@@ -11973,43 +11973,43 @@ msgstr ""
 
 #: templates/js/translated/stock.js:891
 msgid "Merge Stock Items"
-msgstr ""
+msgstr "Sujungti Atsargų Pozicijas"
 
 #: templates/js/translated/stock.js:986
 msgid "Transfer Stock"
-msgstr ""
+msgstr "Atsargų Perkėlimas"
 
 #: templates/js/translated/stock.js:987
 msgid "Move"
-msgstr ""
+msgstr "Judėti"
 
 #: templates/js/translated/stock.js:993
 msgid "Count Stock"
-msgstr ""
+msgstr "Skaičiuoti Atsargas"
 
 #: templates/js/translated/stock.js:994
 msgid "Count"
-msgstr ""
+msgstr "Skaičiuoti"
 
 #: templates/js/translated/stock.js:998
 msgid "Remove Stock"
-msgstr ""
+msgstr "Pašalinti Atsargas"
 
 #: templates/js/translated/stock.js:999
 msgid "Take"
-msgstr ""
+msgstr "Paimti"
 
 #: templates/js/translated/stock.js:1003
 msgid "Add Stock"
-msgstr ""
+msgstr "Pridėti Atsargas"
 
 #: templates/js/translated/stock.js:1004 users/models.py:250
 msgid "Add"
-msgstr ""
+msgstr "Pridėti"
 
 #: templates/js/translated/stock.js:1008
 msgid "Delete Stock"
-msgstr ""
+msgstr "Ištrinti Atsargas"
 
 #: templates/js/translated/stock.js:1105
 msgid "Quantity cannot be adjusted for serialized stock"
@@ -12085,15 +12085,15 @@ msgstr ""
 
 #: templates/js/translated/stock.js:1772
 msgid "Change stock status"
-msgstr ""
+msgstr "Keisti atsargų statusą"
 
 #: templates/js/translated/stock.js:1781
 msgid "Merge stock"
-msgstr ""
+msgstr "Sujungti atsargas"
 
 #: templates/js/translated/stock.js:1830
 msgid "Delete stock"
-msgstr ""
+msgstr "Ištrinti atsargas"
 
 #: templates/js/translated/stock.js:1885
 msgid "stock items"
@@ -12101,11 +12101,11 @@ msgstr "Prekių likučiai"
 
 #: templates/js/translated/stock.js:1890
 msgid "Scan to location"
-msgstr ""
+msgstr "Nuskaitymas į vietą"
 
 #: templates/js/translated/stock.js:1901
 msgid "Stock Actions"
-msgstr ""
+msgstr "Atsargų Veiksmai"
 
 #: templates/js/translated/stock.js:1945
 msgid "Load installed items"
@@ -12166,7 +12166,7 @@ msgstr ""
 #: templates/js/translated/stock.js:2062
 #: templates/js/translated/table_filters.js:302
 msgid "Depleted"
-msgstr ""
+msgstr "Išeikvota"
 
 #: templates/js/translated/stock.js:2227
 msgid "Supplier part not specified"
@@ -12286,7 +12286,7 @@ msgstr "Pasirinktos atsargų pozicijos"
 
 #: templates/js/translated/stock.js:3206
 msgid "Change Stock Status"
-msgstr "Pakeisti Atsargų Būseną"
+msgstr "Keisti Atsargų Statusą"
 
 #: templates/js/translated/table_filters.js:50
 msgid "Has project code"
@@ -12297,7 +12297,7 @@ msgstr "Turi projekto kodą"
 #: templates/js/translated/table_filters.js:552
 #: templates/js/translated/table_filters.js:593
 msgid "Order status"
-msgstr "Užsakymo būsena"
+msgstr "Užsakymo statusas"
 
 #: templates/js/translated/table_filters.js:70
 #: templates/js/translated/table_filters.js:557
@@ -12341,28 +12341,28 @@ msgstr ""
 
 #: templates/js/translated/table_filters.js:211
 msgid "Include locations"
-msgstr ""
+msgstr "Įtraukti lokacijas"
 
 #: templates/js/translated/table_filters.js:230
 #: templates/js/translated/table_filters.js:231
 #: templates/js/translated/table_filters.js:646
 msgid "Include subcategories"
-msgstr ""
+msgstr "Įtraukti subkategorijas"
 
 #: templates/js/translated/table_filters.js:239
 #: templates/js/translated/table_filters.js:694
 msgid "Subscribed"
-msgstr ""
+msgstr "Prenumeruojama"
 
 #: templates/js/translated/table_filters.js:250
 #: templates/js/translated/table_filters.js:332
 msgid "Is Serialized"
-msgstr ""
+msgstr "Yra Serijinis"
 
 #: templates/js/translated/table_filters.js:253
 #: templates/js/translated/table_filters.js:339
 msgid "Serial number GTE"
-msgstr ""
+msgstr "Serijos numeris GTE"
 
 #: templates/js/translated/table_filters.js:254
 #: templates/js/translated/table_filters.js:340
@@ -12372,19 +12372,19 @@ msgstr ""
 #: templates/js/translated/table_filters.js:257
 #: templates/js/translated/table_filters.js:343
 msgid "Serial number LTE"
-msgstr ""
+msgstr "Serijos numeris LTE"
 
 #: templates/js/translated/table_filters.js:258
 #: templates/js/translated/table_filters.js:344
 msgid "Serial number less than or equal to"
-msgstr ""
+msgstr "Serijos numeris mažiau už arba lygu"
 
 #: templates/js/translated/table_filters.js:261
 #: templates/js/translated/table_filters.js:262
 #: templates/js/translated/table_filters.js:335
 #: templates/js/translated/table_filters.js:336
 msgid "Serial number"
-msgstr ""
+msgstr "Serijos numeris"
 
 #: templates/js/translated/table_filters.js:266
 #: templates/js/translated/table_filters.js:357
@@ -12394,11 +12394,11 @@ msgstr "Partijos kodas"
 #: templates/js/translated/table_filters.js:277
 #: templates/js/translated/table_filters.js:635
 msgid "Active parts"
-msgstr ""
+msgstr "Aktyvios prekės"
 
 #: templates/js/translated/table_filters.js:278
 msgid "Show stock for active parts"
-msgstr ""
+msgstr "Rodyti aktyvių prekių atsargas"
 
 #: templates/js/translated/table_filters.js:283
 msgid "Part is an assembly"
@@ -12406,7 +12406,7 @@ msgstr ""
 
 #: templates/js/translated/table_filters.js:287
 msgid "Is allocated"
-msgstr ""
+msgstr "Yra priskirtas"
 
 #: templates/js/translated/table_filters.js:288
 msgid "Item has been allocated"
@@ -12430,7 +12430,7 @@ msgstr ""
 
 #: templates/js/translated/table_filters.js:312
 msgid "In Production"
-msgstr ""
+msgstr "Gamyboje"
 
 #: templates/js/translated/table_filters.js:313
 msgid "Show items which are in production"
@@ -12438,7 +12438,7 @@ msgstr ""
 
 #: templates/js/translated/table_filters.js:317
 msgid "Include Variants"
-msgstr ""
+msgstr "Įtraukti Variantai"
 
 #: templates/js/translated/table_filters.js:318
 msgid "Include stock items for variant parts"
@@ -12446,7 +12446,7 @@ msgstr ""
 
 #: templates/js/translated/table_filters.js:322
 msgid "Installed"
-msgstr ""
+msgstr "Įdiegta"
 
 #: templates/js/translated/table_filters.js:323
 msgid "Show stock items which are installed in another item"
@@ -12459,11 +12459,11 @@ msgstr ""
 #: templates/js/translated/table_filters.js:348
 #: templates/js/translated/table_filters.js:349
 msgid "Stock status"
-msgstr ""
+msgstr "Atsargų statusas"
 
 #: templates/js/translated/table_filters.js:352
 msgid "Has batch code"
-msgstr ""
+msgstr "Turi partijos kodą"
 
 #: templates/js/translated/table_filters.js:361
 msgid "Stock item is tracked by either batch code or serial number"
@@ -12471,7 +12471,7 @@ msgstr ""
 
 #: templates/js/translated/table_filters.js:366
 msgid "Has purchase price"
-msgstr ""
+msgstr "Turi pirkimo kainą"
 
 #: templates/js/translated/table_filters.js:367
 msgid "Show stock items which have a purchase price set"
@@ -12479,11 +12479,11 @@ msgstr ""
 
 #: templates/js/translated/table_filters.js:371
 msgid "Expiry Date before"
-msgstr ""
+msgstr "Galiojimo Data iki"
 
 #: templates/js/translated/table_filters.js:375
 msgid "Expiry Date after"
-msgstr ""
+msgstr "Galiojimo Data po"
 
 #: templates/js/translated/table_filters.js:388
 msgid "Show stock items which have expired"
@@ -12507,20 +12507,20 @@ msgstr ""
 
 #: templates/js/translated/table_filters.js:647
 msgid "Include parts in subcategories"
-msgstr ""
+msgstr "Įtraukti prekes į subkategorijas"
 
 #: templates/js/translated/table_filters.js:652
 msgid "Show active parts"
-msgstr ""
+msgstr "Rodyti aktyvias prekes"
 
 #: templates/js/translated/table_filters.js:660
 msgid "Available stock"
-msgstr ""
+msgstr "Turimos atsargos"
 
 #: templates/js/translated/table_filters.js:668
 #: templates/js/translated/table_filters.js:764
 msgid "Has Units"
-msgstr ""
+msgstr "Turi Vienetų"
 
 #: templates/js/translated/table_filters.js:669
 msgid "Part has defined units"
@@ -12536,11 +12536,11 @@ msgstr ""
 
 #: templates/js/translated/table_filters.js:678
 msgid "In stock"
-msgstr ""
+msgstr "Yra sandėlyje"
 
 #: templates/js/translated/table_filters.js:686
 msgid "Purchasable"
-msgstr ""
+msgstr "Perkamas"
 
 #: templates/js/translated/table_filters.js:698
 msgid "Has stocktake entries"
@@ -12548,19 +12548,19 @@ msgstr ""
 
 #: templates/js/translated/table_filters.js:760
 msgid "Has Choices"
-msgstr ""
+msgstr "Turi pasirinkimų"
 
 #: templates/js/translated/tables.js:92
 msgid "Display calendar view"
-msgstr ""
+msgstr "Rodyti kalendoriaus vaizdą"
 
 #: templates/js/translated/tables.js:102
 msgid "Display list view"
-msgstr ""
+msgstr "Rodyti sąrašo vaizdą"
 
 #: templates/js/translated/tables.js:112
 msgid "Display tree view"
-msgstr ""
+msgstr "Rodyti medžio vaizdą"
 
 #: templates/js/translated/tables.js:130
 msgid "Expand all rows"
@@ -12596,11 +12596,11 @@ msgstr "Rodoma"
 
 #: templates/js/translated/tables.js:539
 msgid "to"
-msgstr ""
+msgstr "į"
 
 #: templates/js/translated/tables.js:539
 msgid "of"
-msgstr ""
+msgstr "iš"
 
 #: templates/js/translated/tables.js:539
 msgid "rows"
@@ -12608,23 +12608,23 @@ msgstr "eilutės"
 
 #: templates/js/translated/tables.js:546
 msgid "No matching results"
-msgstr ""
+msgstr "Nėra atitinkančių rezultatų"
 
 #: templates/js/translated/tables.js:549
 msgid "Hide/Show pagination"
-msgstr ""
+msgstr "Paslėpti/Rodyti puslapiavimą"
 
 #: templates/js/translated/tables.js:555
 msgid "Toggle"
-msgstr ""
+msgstr "Jungiklis"
 
 #: templates/js/translated/tables.js:558
 msgid "Columns"
-msgstr ""
+msgstr "Stulpeliai"
 
 #: templates/js/translated/tables.js:561
 msgid "All"
-msgstr ""
+msgstr "Visi"
 
 #: templates/navbar.html:45
 msgid "Buy"
@@ -12636,11 +12636,11 @@ msgstr "Pardavimai"
 
 #: templates/navbar.html:121
 msgid "Show Notifications"
-msgstr ""
+msgstr "Rodyti Pranešimus"
 
 #: templates/navbar.html:124
 msgid "New Notifications"
-msgstr ""
+msgstr "Nauji Pranešimai"
 
 #: templates/navbar.html:142 users/models.py:36
 msgid "Admin"
@@ -12652,35 +12652,35 @@ msgstr "Atsijungti"
 
 #: templates/notes_buttons.html:6 templates/notes_buttons.html:7
 msgid "Save"
-msgstr ""
+msgstr "Išsaugoti"
 
 #: templates/notifications.html:9
 msgid "Show all notifications and history"
-msgstr ""
+msgstr "Rodyti visus pranešimus ir istoriją"
 
 #: templates/qr_code.html:11
 msgid "QR data not provided"
-msgstr ""
+msgstr "QR duomenys nepateikti"
 
 #: templates/registration/logged_out.html:6
 msgid "You were logged out successfully."
-msgstr ""
+msgstr "Sėkmingai atsijungėte"
 
 #: templates/registration/logged_out.html:8
 msgid "Log in again"
-msgstr ""
+msgstr "Prisijungti dar kartą"
 
 #: templates/search.html:9
 msgid "Show full search results"
-msgstr ""
+msgstr "Rodyti visus paieškos rezultatus"
 
 #: templates/search.html:12
 msgid "Clear search"
-msgstr ""
+msgstr "Ištrint paiešką"
 
 #: templates/search.html:15
 msgid "Close search menu"
-msgstr ""
+msgstr "Uždaryti paieškos meniu"
 
 #: templates/socialaccount/authentication_error.html:5
 msgid "Social Network Login Failure"
